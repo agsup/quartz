@@ -1,6 +1,8 @@
-# Top 15 College Proverbs
-
-#Wisdom/Prophets 
+---
+title: Top 15 College Proverbs
+enableToc: false
+enableLinkPreview: true
+---
 
 ## Topics
 

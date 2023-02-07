@@ -1,5 +1,8 @@
-# How to Raise a Fool
-#Wisdom/Prophets 
+---
+title: How to Raise a Fool
+enableToc: false
+enableLinkPreview: true
+---
 
 ## Who is the Fool?
 

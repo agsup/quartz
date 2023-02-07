@@ -1,6 +1,8 @@
-# Intro to Wisdom Literature 
-
-#Wisdom/Prophets
+---
+title: Wisdom Literature
+enableToc: false
+enableLinkPreview: true
+---
 
 ## 3 Books
 

@@ -1,6 +1,8 @@
-# Types of Psalms
-
-#Wisdom/Prophets 
+---
+title: Types of Psalms
+enableToc: false
+enableLinkPreview: true
+---
 
 ## Penitential Laments
 
