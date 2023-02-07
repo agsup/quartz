@@ -1,45 +1,60 @@
 {
   "main": {
-    "id": "ec72ec657a1cd5bb",
+    "id": "e698253c2614fcc9",
     "type": "split",
     "children": [
       {
-        "id": "b9745d9db8dc1168",
+        "id": "6ca11979f3ad7f62",
         "type": "tabs",
         "children": [
           {
-            "id": "5696937f00b79b48",
+            "id": "f4cb691103240557",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "24351be1e426dd62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering Exam 1 Study Guide.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "80e97c08df30c371",
+    "id": "e0820d5ebf9033fd",
     "type": "split",
     "children": [
       {
-        "id": "3c6fa22e1bb99da2",
+        "id": "765c640e35bbc411",
         "type": "tabs",
         "children": [
           {
-            "id": "8eeda3f99681ef35",
+            "id": "ee68e79fad4f414f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "3bb09a06ccd3435c",
+            "id": "a86be1ce55f3e669",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,35 +67,29 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "565ff9020c2c059b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "3749b0354f733ca9",
+    "id": "27d7bdbd826ab4fa",
     "type": "split",
     "children": [
       {
-        "id": "600a2069fbe0bea2",
+        "id": "086e2843536b9092",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1d80761acab880",
+            "id": "f868cbbc367da1c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering Exam 1 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +101,19 @@
             }
           },
           {
-            "id": "ed5b34480c3e1cfb",
+            "id": "921f97024837c07b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering Exam 1 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42fc41afbfc3cbbb",
+            "id": "2b3ed6c03f23108a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,14 +121,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "bb3ca3e6c2fe94e6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -130,14 +132,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5696937f00b79b48",
-  "lastOpenFiles": []
+  "active": "24351be1e426dd62",
+  "lastOpenFiles": [
+    "Software Engineering Exam 1 Study Guide.md",
+    "Software Engineering.md",
+    "github dns stuff.md",
+    "World Christian/The Work of the Spirit in the Epistles.md",
+    "World Christian/The Work of the Spirit in Acts.md",
+    "World Christian/World Christian.md",
+    "World Christian/Jesus and the Holy Spirit.md",
+    "World Christian/First Verse Memorization.md",
+    "World Christian/Louis Bassay.md",
+    "World Christian/Jesus' Divinity.md"
+  ]
 }

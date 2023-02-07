@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "e698253c2614fcc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cb691103240557",
+        "type": "leaf",
+        "dimension": 46.35944700460829,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "339403c162f6e2e6",
+        "type": "leaf",
+        "dimension": 53.64055299539171,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Final Study Guide (Data Structures).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0820d5ebf9033fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "765c640e35bbc411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee68e79fad4f414f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a86be1ce55f3e669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.51071739196777
+  },
+  "right": {
+    "id": "27d7bdbd826ab4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "086e2843536b9092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f868cbbc367da1c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Final Study Guide (Data Structures).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "921f97024837c07b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Final Study Guide (Data Structures).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b3ed6c03f23108a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4cb691103240557",
+  "lastOpenFiles": [
+    "Canvas.md",
+    "Object Oriented Programming.md",
+    "Semester Test Schedule.md",
+    "(Chapter 14) Psychological Disorders.md",
+    "Hash Tables.md",
+    "Classwork4142022.md",
+    "Notes on Sleep (Oral Comm).md",
+    "README2.md",
+    "Resume Review Workshop Notes.md",
+    "README.md"
+  ]
+}

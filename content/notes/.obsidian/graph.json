@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Spring 2023",
+      "color": {
+        "a": 1,
+        "rgb": 5905477
+      }
+    },
+    {
+      "query": "Subject: Final Exams",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "Vault Root",
+      "color": {
+        "a": 1,
+        "rgb": 16731469
+      }
+    },
+    {
+      "query": "Semester",
+      "color": {
+        "a": 1,
+        "rgb": 16743149
+      }
+    },
+    {
+      "query": "Data Structures",
+      "color": {
+        "a": 1,
+        "rgb": 8223487
+      }
+    },
+    {
+      "query": "Psychology",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "Physical Science",
+      "color": {
+        "a": 1,
+        "rgb": 5897795
+      }
+    },
+    {
+      "query": "Architecture and Assembly",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#Wisdom/Prophets",
+      "color": {
+        "a": 1,
+        "rgb": 15375898
+      }
+    },
+    {
+      "query": "tag:#WorldChristian",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 5,
+  "lineSizeMultiplier": 4.87409296506592,
+  "collapse-forces": false,
+  "centerStrength": 0.400666742004746,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.14358339446997026,
+  "close": true
+}

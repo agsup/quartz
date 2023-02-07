@@ -1,0 +1,46 @@
+{
+  "wrapperTags": [
+    {
+      "name": "Superscript",
+      "startTag": "<sup>",
+      "endTag": "</sup>",
+      "id": "0"
+    },
+    {
+      "name": "Detail",
+      "startTag": "<details>",
+      "endTag": "</details>",
+      "id": "1"
+    },
+    {
+      "name": "Center",
+      "startTag": "<div style=\"text-align:center;\">",
+      "endTag": "</div>",
+      "id": "2"
+    },
+    {
+      "name": "Overline",
+      "startTag": "<a style=\"text-decoration:overline;color:#000000;\">",
+      "endTag": "</a>",
+      "id": "3"
+    },
+    {
+      "name": "Centered Header",
+      "startTag": "<h1 style=\"text-align:center;\">",
+      "endTag": "</h1>",
+      "id": "4"
+    },
+    {
+      "name": "Subscript",
+      "startTag": "<sub>",
+      "endTag": "</sub>",
+      "id": "5"
+    },
+    {
+      "name": "Bold",
+      "startTag": "<b>",
+      "endTag": "</b>",
+      "id": "6"
+    }
+  ]
+}

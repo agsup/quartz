@@ -1,0 +1,11 @@
+/* normal text outside of headings and code of editor */
+.cm-s-obsidian,
+.mod-single-child .cm-s-obsidian {
+    font-family: "Consolas";
+}
+
+/* normal text outside of headings and code of preview */
+.markdown-preview-view,
+.mod-single-child .markdown-preview-view {
+    font-family: "Consolas";
+}

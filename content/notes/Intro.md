@@ -1,0 +1,16 @@
+#OOP
+- Main focus is <u>neat</u> programs, not necessarily <u>complex</u> programs
+	- Object Oriented Programming is just a tool that aids with this goal
+- Topics:
+	- abstraction and encapsulation
+	- modules
+	- exception handling
+	- classes and methods
+	- regular types and value semantics
+	- operator overloading
+	- polymorphism
+	- templates
+	- single and multiple inheritance
+	- interfaces
+	- co- and contravariant types
+- 

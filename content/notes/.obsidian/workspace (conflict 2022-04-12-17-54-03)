@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "e698253c2614fcc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43674a1a0e88b706",
+        "type": "leaf",
+        "dimension": 50.50761421319797,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "b78fe43604c3e30f",
+        "type": "leaf",
+        "dimension": 49.49238578680203,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spring 2022/Architecture and Assembly/Digital Circuits and Boolean Algebra.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91eed477dcb9ebe0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3a7042c2571c189",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "94fbecfcd19ddf90",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ac849b8b51ac74e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfb346383154b42a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "767b60d07ce61552",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "43674a1a0e88b706",
+  "lastOpenFiles": [
+    "Spring 2022/Architecture and Assembly/Digital Circuits and Boolean Algebra.md",
+    "Root.md",
+    "Fall 2022.md",
+    "Spring 2023.md",
+    "Spring 2022/Spring 2022.md",
+    "Spring 2022/Architecture and Assembly/Architecture and Assembly.md",
+    "Spring 2022/Physical Science/Physical Science.md",
+    "Spring 2022/Data Structures/Data Structures.md",
+    "Spring 2022/Architecture and Assembly/Intro to Digital Circuits.pdf",
+    "Spring 2022/Physical Science/4-11 (Elements).md"
+  ]
+}

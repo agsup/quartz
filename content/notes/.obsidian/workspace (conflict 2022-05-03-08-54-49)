@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "e698253c2614fcc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cb691103240557",
+        "type": "leaf",
+        "dimension": 24.940898345153663,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "3566da4acb4b91a5",
+        "type": "leaf",
+        "dimension": 75.05910165484634,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Semester Test Schedule.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2febcc304f5fe5d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44b5ee799c83f83c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f22207cbe09066d2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "88e883e2681adf14",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0a5f57454ba64cb1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Semester Test Schedule.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c89e7a2df536dda7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Semester Test Schedule.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3566da4acb4b91a5",
+  "lastOpenFiles": [
+    "Semester Test Schedule.md",
+    "(Chapter 14) Psychological Disorders.md",
+    "Final Study Guide.md",
+    "(Chapter 13) Personality.md",
+    "Psychology.md",
+    "Spring 2022/Data Structures/Set Study Guide.md",
+    "Hash Tables.md",
+    "Spring 2022/Data Structures/Data Structures.md",
+    "Spring 2022/Spring 2022.md",
+    "Final Study Guide (Data Structures).md"
+  ]
+}

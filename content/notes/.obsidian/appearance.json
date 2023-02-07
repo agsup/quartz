@@ -1,3 +1,14 @@
 {
-  "accentColor": ""
+  "baseFontSize": 21,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "codesnip"
+  ],
+  "theme": "system",
+  "cssTheme": "",
+  "monospaceFontFamily": "Izayoi Monospaced",
+  "textFontFamily": "Jua,Fredoka",
+  "interfaceFontFamily": "Fredoka",
+  "accentColor": "#FFBD94",
+  "nativeMenus": true
 }

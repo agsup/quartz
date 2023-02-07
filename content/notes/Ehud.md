@@ -1,0 +1,7 @@
+- Israelites did evil
+- Moabite King Eglon takes over
+- Ehud is deliverer (judge)
+- Ehud comes to deliver "secret message from God" (stabs)
+- King is dead, Ehud runs away, doors are locked
+- Servants wait to open door because they believe king is relieving himself
+- Unlock door, find king dead
