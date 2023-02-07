@@ -1,3 +1,5 @@
+# Ehud
+
 - Israelites did evil
 - Moabite King Eglon takes over
 - Ehud is deliverer (judge)

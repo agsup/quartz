@@ -1,1 +1,0 @@
-<iframe src="https://cs.harding.edu/gfoust/classes/comp3450/notes/inheritance.html" width="100%" height="750" style="background-color: white;">
