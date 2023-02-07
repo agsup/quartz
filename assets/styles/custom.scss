@@ -1,4 +1,12 @@
 // Add your own CSS here!
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Jua&display=swap');
+
+:root {
+  --font-body: "Atkinson Hyperlegible";
+  --font-header: "Atkinson Hyperlegible";
+  --font-mono: "Fira Code"
+}
+
 html {
   --accent: #5dffd6;
 }
