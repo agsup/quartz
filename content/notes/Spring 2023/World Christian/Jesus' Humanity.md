@@ -8,9 +8,9 @@ enableLinkPreview: true
 - "Word": *logos*/*dao*
   - *logos* is a word with undefined meaning, John "baptizes" the word (gives it a holy meaning)
   - John 1:1 outlines the Trinity
-  - > In the beginning was the Word
-           > The Word was with God
-    > The Word was God
+> In the beginning was the Word
+> The Word was with God
+> The Word was God
   - The Word just was, which is where God's name "I AM"/YHWH means
 - The Word became flesh
   - Becoming indicates a creation taking place
