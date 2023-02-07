@@ -1,6 +1,6 @@
 # World Christian
-#WorldChristian
-- ## [[The Holy Spirit]]
+
+- ## [The Holy Spirit](notes/World Christian/The Holy Spirit.md)
 - ## [[Matthew 3]]
 - ## [[Jesus' Humanity]]
 - ## [[Jesus' Divinity]]
