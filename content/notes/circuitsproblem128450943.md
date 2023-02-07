@@ -1,9 +1,0 @@
-# Circuits Problem
-
-- $2x-2j(x-y)+8(x-z)=60\angle-30\degree$
-- $4y-6j(y-z)-2j(y-x)=0$
-- $10z+8(z-x)+6j(z-y)=0$
-- RREF this Sys of Equations
-- $x=?$
-- $y=?$
-- $z=?$

@@ -1,2 +1,0 @@
-#OOP
-#### See [[Inheritance|inheritance]]
