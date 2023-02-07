@@ -1,6 +1,7 @@
 ---
 title: World Christian Notes
 enableToc: false
+enableLinkPreview: true
 ---
 
 # World Christian
