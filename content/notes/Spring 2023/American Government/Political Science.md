@@ -5,7 +5,7 @@ enableLinkPreview: true
 ---
 
 *The study of those relationships involving power and authority, especially those including government*
-<br>
+
 ## From the Text
 - Issues: A conflict, real or apparent, between the interests, ideas, or beliefs of different citizens
 - Politics: The activity by which an issue is agitated or settled
@@ -13,15 +13,15 @@ enableLinkPreview: true
 	- Note: This is more than just monetary cost
 - Benefit: A satisfaction that people believe they will enjoy of a policy is adopted
 ## Definitions
-- ### Politics ^3f3c23
+- ### Politics
 	- Who gets what, when and how
 	- According to Lenin, "who could do what to whom"
-- ### Power ^c2c71d
+- ### Power
 	- Possession of control over others
-	- [[#^3f3c23|Politics]] is the pursuit and exercise of power
+	- Politics is the pursuit and exercise of power
 	- From the text: "The ability of one person to get another person to act in accordance with the first person's intentions"
 	- The ability to influence another's behavior
-	- [[#^c2c71d|Power]], like money, is a means to other ends
+	- Power, like money, is a means to other ends
 - ### Democracy
 	- Rule by the people
 	- Derived from Greek words $demos$ (the people) and $kratos$ (authority)
@@ -45,12 +45,12 @@ enableLinkPreview: true
 			2. Referendum
 			3. Recall
 - ### Republic
-	- Form of government where the governed have sovereignty and [[#^c2c71d|power]], but that power is channeled through representatives who run the government
+	- Form of government where the governed have sovereignty and power, but that power is channeled through representatives who run the government
 	- Ability to vote for the representatives is given to the citizens
 	- This form of government is guaranteed in the US
 - ### Government
-	- People/institutions/processes in which rules are made and where [[#^c2c71d|power]] to enforce them is possessed
-	- Regulates the use of legitimate force (see [[#^7d6965|authority]])
+	- People/institutions/processes in which rules are made and where power to enforce them is possessed
+	- Regulates the use of legitimate force (see authority)
 - ### Authority ^7d6965
 	- The right to use power
 	- "<u>Leg</u>itimate" power
