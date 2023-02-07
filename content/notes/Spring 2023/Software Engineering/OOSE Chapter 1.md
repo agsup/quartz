@@ -1,8 +1,9 @@
 ---
-title: Chapter 1:  Introduction to Object Oriented Software Engineering
+title: Chapter 1
 enableToc: false
 enableLinkPreview: true
 ---
+## Introduction to Object Oriented Software Engineering
 
 -  [[OOSE 1.1|1.1: Historical Aspects]]
 -  [[OOSE 1.2|1.2: Economic Aspects]]

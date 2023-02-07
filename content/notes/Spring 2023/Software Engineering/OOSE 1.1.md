@@ -1,8 +1,9 @@
 ---
-title: 1.1: Historical Aspects
+title: 1.1
 enableToc: false
 enableLinkPreview: true
 ---
+## Historical Aspects
 
 - 1967: NATO study group coins term *software engineering*
 	- Claim: Building software is similar to other engineering tasks

@@ -1,8 +1,9 @@
 ---
-title: 1.3: Maintenance Aspects
+title: 1.3
 enableToc: false
 enableLinkPreview: true
 ---
+## Maintenance Aspects
 
 - Life-Cycle Model
 	- A description of steps to take when building a software product
