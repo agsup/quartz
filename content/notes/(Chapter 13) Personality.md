@@ -1,3 +1,3 @@
-#Psychology 
-<h1 style="text-align:center;">Chapter 13: Personality</h1>
+# Chapter 13: Personality
+
 Check [[PSY 2010 Ch. 13 Notes.docx]]

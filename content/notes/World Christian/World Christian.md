@@ -4,8 +4,6 @@ enableToc: false
 enableLinkPreview: true
 ---
 
-# World Christian
-
 - [The Holy Spirit](notes/World%20Christian/The%20Holy%20Spirit.md)
 
 - [Matthew 3](notes/World%20Christian/Matthew%203.md)
