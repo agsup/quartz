@@ -1,4 +1,4 @@
-baseURL = "https://agsup.github.io/quartz"
+baseURL = "https://agsup.github.io/quartz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
