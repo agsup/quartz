@@ -1,5 +1,9 @@
-# Matthew 3
-#WorldChristian 
+---
+title: Matthew 3
+enableToc: false
+enableLinkPreview: true
+---
+
 - ## Analogies
 	- Verse 11
 		- >I baptize you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. 12 His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.

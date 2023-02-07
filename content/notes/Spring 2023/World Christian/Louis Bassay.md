@@ -1,7 +1,10 @@
-# Cross-Cultural Experiences
+---
+title: Cross-Cultural Experiences
+enableToc: false
+enableLinkPreview: true
+---
+
 ## Louis Bassay
-#WorldChristian 
-<br>
 
 ### About Louis Bassay:
 - From Cameroon

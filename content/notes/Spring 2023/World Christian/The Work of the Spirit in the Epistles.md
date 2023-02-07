@@ -1,4 +1,8 @@
-# The Work of the Spirit in the Epistles
+---
+title: The Work of the Spirit in the Epistles
+enableToc: false
+enableLinkPreview: true
+---
 
 ## Romans 5
 

@@ -1,7 +1,12 @@
-# Jesus' Humanity
+---
+title: Jesus' Humanity
+enableToc: false
+enableLinkPreview: true
+---
 #WorldChristian 
 
 ## John 1
+
 - "Word": *logos*/*dao*
 	- *logos* is a word with undefined meaning, John "baptizes" the word (gives it a holy meaning)
 	- John 1:1 outlines the Trinity
@@ -12,8 +17,10 @@
 - The Word became flesh
 	 - Becoming indicates a creation taking place
 	 - The Word becoming flesh is a profound moment of the Creator becoming something Created
+
 ## Philippians 2:5-11
->In your relationships with one another, have the same mindset as Christ Jesus:<br>
+
+> In your relationships with one another, have the same mindset as Christ Jesus:<br>
 >Who, being in very nature God,  
     did not consider equality with God something to be used to his own advantage;  
 >rather, he made himself nothing  
@@ -61,16 +68,5 @@
 - In the end times, all enemies will be subdued to Jesus, including death
 	- Then Jesus will be subject to God, making all things under God through Jesus
 	- Important because Jesus is not equal in hierarchy to God, though they are both very high
-	- 
 
-
-
-
-
-
-
-
-
-
-
-*However,* Jesus is still completely God. How is this? [[Jesus' Divinity|next]]
+*However,* Jesus is still completely God. How is this? [next](notes/Spring%202023/World%20Christian/Jesus%20and%20the%20Holy%20Spirit.md)

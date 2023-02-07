@@ -1,4 +1,8 @@
-# Jesus and the Holy Spirit
+---
+title: Jesus and the Holy Spirit
+enableToc: false
+enableLinkPreview: true
+---
 
 ## Luke 4
 

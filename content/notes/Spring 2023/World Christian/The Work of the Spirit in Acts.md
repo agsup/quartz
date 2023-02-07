@@ -1,4 +1,8 @@
-# The Work of the Spirit in Acts
+---
+title: The Work of the Spirit in Acts
+enableToc: false
+enableLinkPreview: true
+---
 
 > He loves Thee too little, who lives anything together with Thee, which he loves not for thy sake 
 >
