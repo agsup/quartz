@@ -8,9 +8,13 @@ enableLinkPreview: true
 - "Word": *logos*/*dao*
   - *logos* is a word with undefined meaning, John "baptizes" the word (gives it a holy meaning)
   - John 1:1 outlines the Trinity
-> In the beginning was the Word
-> The Word was with God
-> The Word was God
+
+> In the beginning was the Word...
+> 
+> The Word was with God...
+> 
+> ...and The Word was God
+
   - The Word just was, which is where God's name "I AM"/YHWH means
 - The Word became flesh
   - Becoming indicates a creation taking place
@@ -19,19 +23,33 @@ enableLinkPreview: true
 ## Philippians 2:5-11
 
 > In your relationships with one another, have the same mindset as Christ Jesus:
-> Who, being in very nature God,  
-    did not consider equality with God something to be used to his own advantage;  
+> 
+> Who, being in very nature God,
+> 
+> did not consider equality with God something to be used to his own advantage;
+> 
 > rather, he made himself nothing  
-    by taking the very nature of a servant,  
-    being made in human likeness.  
-> And being found in appearance as a man,  
-    he humbled himself  
-    by becoming obedient to death—  
-        even death on a cross!
+> 
+> by taking the very nature of a servant, 
+> 
+> being made in human likeness.  
+> 
+> And being found in appearance as a man,
+> 
+> he humbled himself  
+> 
+> by becoming obedient to death— 
+> 
+> even death on a cross!
+> 
 > Therefore God exalted him to the highest place  
-    and gave him the name that is above every name,  
+> 
+> and gave him the name that is above every name,  
+> 
 > that at the name of Jesus every knee should bow,  
-    in heaven and on earth and under the earth,  
+> 
+> in heaven and on earth and under the earth,  
+> 
 > and every tongue acknowledge that Jesus Christ is Lord,  
     to the glory of God the Father.
 
