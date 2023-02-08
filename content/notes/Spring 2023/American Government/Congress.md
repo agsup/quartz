@@ -195,5 +195,27 @@ enableLinkPreview: true
     - They're not going to do it federally because it's too profitable!
     - Some states were able to get it done
 
-## Apportionment
--  
+## Reapportionment and Redistricting
+
+-  Decennial Census
+    - Every 10 years
+    - Only (intended) purpose of this census is purely population (everything else is bonus because `data data data...`)
+- Apportionment
+    - Distribution of voters into districts, dividing of representation by population
+    - Is judiciable (**this is crucial**)
+        - There have been court cases over these (very good!)
+        - Cannot gerrymander based on race (unfortunately party is still on the table)
+- Mal-apportionment is a bad split
+- Reapportionment
+    - The process of redistributing the populations among districts
+- Redistricting
+    - The process of drawing the lines within the States
+- States draw federal rep lines (not Senate because obviously)
+- Gerrymandering
+    - Named for Gov. Eldridge Gerry
+    - Lines drawn for partisan purposes (gross)
+    - Everyone does this, **all of the time.** (they're kinda gross)
+- Packing and Cracking
+    - Packing: putting as many of one party as possible in just one district
+    - Cracking: putting just few enough of one party as possible to that they aren't majority
+- 
