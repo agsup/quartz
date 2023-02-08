@@ -24,54 +24,54 @@ enableLinkPreview: true
 	- 
 - Most bills die because they never make it to the agenda of the committee
 - Speaking of committees...
-	- Committees are where lots of the work gets done
-	- Committees have subcommittees
-		- Ex. Education committee has a K12 committee, a college committee, etc.
-	- Types:
-		- Joint committee
-		- Special/Select Committee
-		- Budget committee (3 types)
-			- Taxing
-			- Spending
-			- Balance (between taxing and spending)
-		- Standing
-			- Workhorses of Congress
-			- They do all of the research/sentiment analysis
-		- Conference (not the same as party conferences)
-		- Ways and Means Committee
-			- Revenue committee for the House
-			- Raises revenue for the Government
-			- First stop for ALL revenue bills
-			- "Cadillac" of Committees
-			- Creates exemptions, credits, and <u>loopholes</u> 
-			- Chair: Charlie Rangel (D-NY)
-				- He got caught <u>3 times</u> not paying his taxes
-				- Kept his position because he helped New York! (cringe!)
-				- New chairman time
-			- Now we have Jason Smith
-			- Now the Committee is <u>super frikkin Republican</u> (gross, too partisan!!! yuck!)
-				- Their press releases look like articles from <u>Fox News!</u>
-		- House Appropriations
-			- Spends money to fund government
-			- Appropriation: the legal authorization to expend governmental funds
-			- 12 subcommittees
-			- Pork: Wasteful spending
-			- Always behind...
-		- House Rules
-			- The most powerful committee
-			- Bills must go through this committee to go to the House
-			- Sets a rule for each bill about how debate will occur
-			- MUCH more powerful than even the Senate
-			- New chair is Tom Cole and he's a very, <u>very</u> old looking man
+    - Committees are where lots of the work gets done
+    - Committees have subcommittees
+        - Ex. Education committee has a K12 committee, a college committee, etc.
+    - Types:
+        - Joint committee
+        - Special/Select Committee
+        - Budget committee (3 types)
+            - Taxing
+            - Spending
+            - Balance (between taxing and spending)
+        - Standing
+            - Workhorses of Congress
+            - They do all of the research/sentiment analysis
+        - Conference (not the same as party conferences)
+        - Ways and Means Committee
+            - Revenue committee for the House
+            - Raises revenue for the Government
+            - First stop for ALL revenue bills
+            - "Cadillac" of Committees
+            - Creates exemptions, credits, and <u>loopholes</u> 
+            - Chair: Charlie Rangel (D-NY)
+                - He got caught <u>3 times</u> not paying his taxes
+                - Kept his position because he helped New York! (cringe!)
+                - New chairman time
+            - Now we have Jason Smith
+            - Now the Committee is <u>super frikkin Republican</u> (gross, too partisan!!! yuck!)
+                - Their press releases look like articles from <u>Fox News!</u>
+        - House Appropriations
+            - Spends money to fund government
+            - Appropriation: the legal authorization to expend governmental funds
+            - 12 subcommittees
+            - Pork: Wasteful spending
+            - Always behind...
+        - House Rules
+            - The most powerful committee
+            - Bills must go through this committee to go to the House
+            - Sets a rule for each bill about how debate will occur
+            - MUCH more powerful than even the Senate
+            - New chair is Tom Cole and he's a very, <u>very</u> old looking man
 # Extra Credit
 - State of the Union
 - ASI Speaker
 
 # The Twins
 - Specialization
-	- Members specialize based on prior education/occupation
+    - Members specialize based on prior education/occupation
 - Reciprocity
-	- Members of different specialties agree on a thing
+    - Members of different specialties agree on a thing
 ## Seniority
 
 - Unwritten, still powerful
@@ -91,7 +91,7 @@ enableLinkPreview: true
 ## Leadership Organization
 
 - Institutional Leadership vs. Political Leadership
-	- see textbook
+    - see textbook
 
 ## Majority and Minority Leadership
 
@@ -100,20 +100,20 @@ enableLinkPreview: true
 - Chuck Schumer is the Majority Senate Leader
 - Mitch McConnell is the Minority Senate Leader
 - Whips
-	- Whips coordinate the party positions (keeps the dogs from running away)
-	- Counts votes
-	- Keeps votes in line
+    - Whips coordinate the party positions (keeps the dogs from running away)
+    - Counts votes
+    - Keeps votes in line
 - Twists arms
 
 ## Party Loyalty
 
 - Mavericks: members who show less loyalty to their party and do not abide by informal rules
-	- Based individuals
-	- Actually care about stuff, and talk with other parties to try to get stuff done
+    - Based individuals
+    - Actually care about stuff, and talk with other parties to try to get stuff done
 - Floor Lingo
-	- Calendar: list of bill scheduled for hearing/vote (same as committee agendas)
-	- Majority vs. Super-majority
-		- textbook
+    - Calendar: list of bill scheduled for hearing/vote (same as committee agendas)
+    - Majority vs. Super-majority
+        - textbook
 - The Well
 
 ## Filibusters
@@ -135,9 +135,9 @@ enableLinkPreview: true
 - Committee staff has declined in recent years
 - Minimum personal staff: 18 full time, 4 part time, no limit but budget in the Senate
 - Elected Staff:
-	- Clerk/Secretary
-	- Sergeants at Arms
-	- Chaplains
+    - Clerk/Secretary
+    - Sergeants at Arms
+    - Chaplains
 
 ## Executive/Legislative Tension
 
@@ -156,7 +156,7 @@ enableLinkPreview: true
 ## Investigation
 
 - Unlimited power (uh oh)
-	- See McCarthyism
+    - See McCarthyism
 - Congress can investigate whatever they want
 - Viewed super negatively
 - Sometimes turned towards the Executive, making tensions worse
@@ -180,12 +180,17 @@ enableLinkPreview: true
 
 - But public disapproval!
 - There are still advantages because:
-  - Staff
-  - Franking (mail)
-  - Publicity/Media Coverage
-  - "All publicity is good publicity"
-  - Travel funds
-  - TL;DR, it's much, much cheaper running as an incumbent
+    - Staff
+    - Franking (mail)
+    - Publicity/Media Coverage
+    - "All publicity is good publicity"
+    - Travel funds
+    - TL;DR, it's much, much cheaper running as an incumbent
+    - Voter apathy pays off for the incumbents
+    - Reapportionment is friendly to incumbents
+- Disadvantages:
+    - Publicly hated (but the hate isn't acted upon)
+    - Like, really, really hated (less than 1/10 of the population <u>doesn't hate Congress!</u>)
 
 ## Apportionment
 -  
