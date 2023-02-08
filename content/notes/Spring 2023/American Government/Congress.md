@@ -1,6 +1,6 @@
 ---
 title: Congress
-enableToc: false
+enableToc: true
 enableLinkPreview: true
 ---
 
@@ -166,3 +166,26 @@ enableLinkPreview: true
 - House impeaches, Senate holds the trial
 - Johnson, Clinton and Trump were all impeached, but not convicted
 - Nixon saw that he would have been convicted, so resigned
+
+## War Powers Act
+
+- Congress has not used power to declare war since WWII
+- Criticism of the President's role in Vietnam led to the War Powers Act of 1973
+- President may only commit troops abroad for a period of 60 days (90 if including withdrawal)
+- Congress must approve a longer period
+- Nixon vetoed it, veto overruled
+- No matter what, Congress holds the purse.
+
+## Incumbency
+
+- But public disapproval!
+- There are still advantages because:
+  - Staff
+  - Franking (mail)
+  - Publicity/Media Coverage
+  - "All publicity is good publicity"
+  - Travel funds
+  - TL;DR, it's much, much cheaper running as an incumbent
+
+## Apportionment
+-  
