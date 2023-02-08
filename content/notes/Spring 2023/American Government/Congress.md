@@ -191,6 +191,9 @@ enableLinkPreview: true
 - Disadvantages:
     - Publicly hated (but the hate isn't acted upon)
     - Like, really, really hated (less than 1/10 of the population <u>doesn't hate Congress!</u>)
+- Term Limits?
+    - They're not going to do it federally because it's too profitable!
+    - Some states were able to get it done
 
 ## Apportionment
 -  
