@@ -50,9 +50,22 @@
 
 ### God's Speech
 
-- The whirlwind represents how wild and untameable God is 
+- The whirlwind represents how wild and untameable God is
+    - Describes Behemoth and Leviathan
+    - God can control the uncontrollable
 - The cosmic order is not mechanical or predictable, and is not subject to human understanding/control
 
 ### Job's Response
 
 - Repentance, God vindicates him
+    - "I am unworthy!"
+
+## The Verdict
+
+- God rebukes the friends for strict retribution theology
+    - Can't simplify God
+    - No *quid pro quo* religion
+- God commends Job's honest words
+    - Job refused to let repentance become a manipulative tools
+    - Refused to admit wrong-doing
+    - Courageously questioned and dissected his way to real faith, rather than inheriting his friends' faith
