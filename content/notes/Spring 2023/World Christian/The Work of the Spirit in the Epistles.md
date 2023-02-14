@@ -60,4 +60,3 @@ enableLinkPreview: true
     - God's Co-Workers
 
 - Better to "take the hit" than to bicker with another Christian in front of unbelievers
-- 

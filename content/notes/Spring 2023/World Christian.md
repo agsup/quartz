@@ -12,3 +12,4 @@ enableLinkPreview: true
 - [First Verse Memorization](notes/Spring%202023/World%20Christian/First%20Verse%20Memorization.md)
 - [The Work of the Spirit in Acts](notes/Spring%202023/World%20Christian/The%20Work%20of%20the%20Spirit%20in%20Acts.md)
 - [The Work of the Spirit in the Epistles](notes/Spring%202023/World%20Christian/The%20Work%20of%20the%20Spirit%20in%20the%20Epistles.md)
+- [[christ]]
