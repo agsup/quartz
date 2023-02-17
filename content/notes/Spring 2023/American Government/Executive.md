@@ -140,8 +140,33 @@
 - Characteristics are luckily being broken nows
 - Party Support (Have to be one of the two major parties)
 
+## Bureaucracy
 
-## Rules, Roles, and Hats
+- Read portions of Chap 11
 
-- 
+## The EOP and the Cabinet
 
+### VP
+
+- Main job: inquire about the health of the President
+- "Never heard from again"
+- "I do not with to be buried until I am dead" 
+	- Daniel Webster turning down a VP position
+- Not worth a "bucket of warm s\*\*t"
+	- John Nance Garner (Roosevelt's VP)
+- The most insignificant office ever
+	- John Adams, Washington's VP
+- Only 14 of 46 presidents have served two fill terms
+- only 6 VP's wone the presidency in election without having first entered office by President's death
+- Eight VP's have entered office upon President's death. One moved up because President's resigned
+
+#### 25th Amendment
+
+- Disability/Recovery of the President
+- Allows VP to temporarily take charge
+
+### First Lady
+
+- FLOTUS (lol)
+- Distinct, differing personalities
+- 2

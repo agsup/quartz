@@ -1,0 +1,14 @@
+{
+        "baseFontSize": 21,
+        "translucency": true,
+        "enabledCssSnippets": [
+                "codesnip"
+        ],
+        "theme": "system",
+        "cssTheme": "",
+        "monospaceFontFamily": "Izayoi Monospaced",
+        "textFontFamily": "Atkinson Hyperlegible",
+        "interfaceFontFamily": "Atkinson Hyperlegible",
+        "accentColor": "#05EB7F",
+        "nativeMenus": true
+}
