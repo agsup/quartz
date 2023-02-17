@@ -169,4 +169,9 @@
 
 - FLOTUS (lol)
 - Distinct, differing personalities
-- 2
+- They have separate lives that are often very influential
+
+## EOP and the Cabinet
+
+- EOP: Executive Office of the President
+- So, SO many parts (check textbook)
