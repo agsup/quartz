@@ -26,4 +26,3 @@
 - Born again by the Spirit
 - Became "radicals" in promoting Christ
 
-## 
