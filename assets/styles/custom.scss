@@ -8,14 +8,14 @@
 }
 
 html {
-  --accent: #017678;
+  --accent: #5C9AFF;
 }
 
 :root {
   --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
+  --dark: var(--accent);
+  --secondary: var(--accent);
+  --tertiary: var(--accent);
   --visited: #afbfc9;
   --primary: #f28482;
   --gray: #4e4e4e;
