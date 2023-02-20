@@ -23,9 +23,10 @@ enableLinkPreview: true
 - Limitations of man
 	- We cannot know for sure whether anything is true
 - Theory of relativity and its impact on truth
+	- Nothing is absolute anymore!
 - Imperfections of those who promote truth
 - The lack of unity among those who make claims of truth
 	- Church denominations...
 - The problem of truth in the physical, sensory world
+	- > "Where did I put my keys?" - Dr. Jackson
 
-##
