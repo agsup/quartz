@@ -3,6 +3,7 @@ title: Truth
 enableToc: True
 enableLinkPreview: true
 ---
+
 ## What is Truth?
 
 - $\alpha \lambda \epsilon \theta \epsilon \iota \alpha$ (*Aletheia*) in Greek
@@ -29,4 +30,5 @@ enableLinkPreview: true
 	- Church denominations...
 - The problem of truth in the physical, sensory world
 	- > "Where did I put my keys?" - Dr. Jackson
+- 
 

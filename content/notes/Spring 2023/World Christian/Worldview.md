@@ -1,3 +1,8 @@
+---
+title: Worldview
+enableToc: false
+enableLinkPreview: true
+---
 ## About America
 
 - America was **never** perfect (still isn't, it sucks)

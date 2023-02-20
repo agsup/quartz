@@ -1,4 +1,3 @@
-
 ---
 title: The Work of the Spirit in the Epistles
 enableToc: false
