@@ -36,7 +36,6 @@ enableLinkPreview: true
 	- Pick from house, oyster (pearls), farming, and letter-writing
 - Cite some numerical statistics given by McConnell demonstrating the relative cost of errors, depending on where they are made and where they are discovered in the software development life cycle.
 	- Pick three of these figures:
-	- ![[Pasted image 20230205195514.png]]
 	- Baird recommends the figures of 10 on the top row
 
 - According to McConnell, what percentage of code is often needed just for exception handling?

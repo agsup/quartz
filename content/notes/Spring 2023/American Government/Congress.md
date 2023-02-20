@@ -63,15 +63,13 @@ enableLinkPreview: true
             - Sets a rule for each bill about how debate will occur
             - MUCH more powerful than even the Senate
             - New chair is Tom Cole and he's a very, <u>very</u> old looking man
-# Extra Credit
-- State of the Union
-- ASI Speaker
 
 # The Twins
 - Specialization
     - Members specialize based on prior education/occupation
 - Reciprocity
     - Members of different specialties agree on a thing
+
 ## Seniority
 
 - Unwritten, still powerful
