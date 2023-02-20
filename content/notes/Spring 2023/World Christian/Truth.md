@@ -1,10 +1,8 @@
-## Section Goals
-
-- Explore the idea of truth
-- What is "Absolute Truth"?
-- Reflect on ideas of truth
-- Embracing God's idea of Truth
-
+---
+title: Truth
+enableToc: True
+enableLinkPreview: true
+---
 ## What is Truth?
 
 - $\alpha \lambda \epsilon \theta \epsilon \iota \alpha$ (*Aletheia*) in Greek
@@ -13,4 +11,20 @@
 	- Plato: "Cave of Idealism"
 		- Shadows on the wall
 	- $\alpha \lambda \epsilon \theta \epsilon \iota \alpha$ is used 98 times in Bible, 20 times in John
-	- 
+- Dallas Willard
+	- Truth vs. Knowledge
+		- Can something be known if it is untrue?
+	- "Truth does not accommodate belief"
+	- "Truth is indifferent"
+	- "Humans are ***set on*** reshaping truth"
+
+## Why is Truth Evasive?
+
+- Limitations of man
+	- We cannot know for sure whether anything is true
+- Theory of relativity and its impact on truth
+- Imperfections of those who promote truth
+- The lack of unity among those who make claims of truth
+- The problem of truth in the physical, sensory world
+
+##
