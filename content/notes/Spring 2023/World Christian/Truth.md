@@ -30,5 +30,11 @@ enableLinkPreview: true
 	- Church denominations...
 - The problem of truth in the physical, sensory world
 	- > "Where did I put my keys?" - Dr. Jackson
-- 
 
+## Truth Is What "Is"
+
+- Truth cannot come from a created being because it is too fluid
+- God "is" as he revealed in the Tetragrammation
+	- YHWH: "I Am"
+	- Exodus 3:14
+- Without an "I Am", there is no absolute truth
