@@ -25,6 +25,7 @@ enableLinkPreview: true
 - Theory of relativity and its impact on truth
 - Imperfections of those who promote truth
 - The lack of unity among those who make claims of truth
+	- Church denominations...
 - The problem of truth in the physical, sensory world
 
 ##
