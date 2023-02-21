@@ -85,4 +85,4 @@ enableLinkPreview: true
   - Then Jesus will be subject to God, making all things under God through Jesus
   - Important because Jesus is not equal in hierarchy to God, though they are both very high
 
-*However,* Jesus is still completely God. How is this? [next](notes/Spring%202023/World%20Christian/Jesus%20and%20the%20Holy%20Spirit.md)
+*However,* Jesus is still completely God. How is this? [next](notes/Spring%202023/World%20Christian/Class%20Notes/Jesus%20and%20the%20Holy%20Spirit.md)

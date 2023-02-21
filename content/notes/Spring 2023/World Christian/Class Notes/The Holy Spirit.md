@@ -16,4 +16,4 @@ enableLinkPreview: true
   - The Holy Spirit will come to the disciples and <u>transform</u> them (Acts 2)
     - It would be dangerous for them to go out before the Spirit is upon them because it would be their words, not God's
     - They are even told to go into <u>Samaria</u> to deliver the Gospel
-- [Jesus and the Holy Spirit](notes/Spring%202023/World%20Christian/Jesus%20and%20the%20Holy%20Spirit.md)
+- [Jesus and the Holy Spirit](notes/Spring%202023/World%20Christian/Class%20Notes/Jesus%20and%20the%20Holy%20Spirit.md)
