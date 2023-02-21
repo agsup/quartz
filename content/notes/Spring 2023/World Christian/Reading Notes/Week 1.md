@@ -8,27 +8,17 @@ enableLinkPreview: true
 
 ### Types of Fulfillment
 
-#### Progressive Fulfillment
-
-- Fulfillment of past, present, and future
-	- Past
-		- Life of the nation of Israel
-	- Present
-		- Intermediate/Gospel fulfillment in Christ/the Church
-	- Future
-		- Eschatological/Ultimate fulfillment (new heaven/earth)
-
-#### Intermediate Historical Fulfillment
-
-- content
-
-#### Intermediate Gospel Fulfillment
-
-- content
-
-#### Ultimate
-
-- content
+- Progressive Fulfillment
+	- Fulfillment of past, present, and future
+		- Past
+			- Life of the nation of Israel
+		- Present
+			- Intermediate/Gospel fulfillment in Christ/the Church
+		- Future
+			- Eschatological/Ultimate fulfillment (new heaven/earth)
+- Intermediate Historical Fulfillment
+- Intermediate Gospel Fulfillment
+- Ultimate
 
 ### Conclusion
 
