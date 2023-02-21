@@ -1,3 +1,9 @@
+---
+title: Week 3 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## _"The Bible in World Evangelization"_ - Stott
 
 - content

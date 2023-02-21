@@ -1,3 +1,9 @@
+---
+title: Week 6 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## "_State of the World Need" -_ World Relief 
 
 - 

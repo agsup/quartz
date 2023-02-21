@@ -1,3 +1,9 @@
+---
+title: Week 1 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## "The Living God is a Missionary God" - Scott
 
 - content

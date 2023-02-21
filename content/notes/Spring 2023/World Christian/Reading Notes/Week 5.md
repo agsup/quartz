@@ -1,3 +1,9 @@
+---
+title: Week 5 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## “_Going Too Far?_” – Parshall
 
 - 

@@ -1,3 +1,9 @@
+---
+title: Week 4 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## _"Do Missionaries Destroy Culture" -_ Richardson
 
 - content

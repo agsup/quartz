@@ -1,3 +1,9 @@
+---
+title: Week 2 Notes
+enableToc: false
+enableLinkPreview: true
+---
+
 ## "_The Master's Plan" -_ Coleman
 
 - content
