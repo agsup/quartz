@@ -14,4 +14,4 @@ enableLinkPreview: true
 	- [Executive](notes/Spring%202023/American%20Government/Executive.md)
 	- *No judicial notes*
 		- [Executive and Congress Study Guide](notes/Spring%202023/American%20Government/Executive%20and%20Congress%20Study%20Guide.md)
-		- 
+- [Voting](notes/Spring%202023/American%20Government/Voting.md)

@@ -38,3 +38,57 @@ enableLinkPreview: true
 	- YHWH: "I Am"
 	- Exodus 3:14
 - Without an "I Am", there is no absolute truth
+
+## What Truth is Not
+
+- Not necessarily the specific teachings of any church or individual
+- Not what either political party promotes
+- Not what "feels right"
+- Not relative
+
+## "What is Truth?" - Pilate
+
+- Jesus was born to speak truth
+- Jesus is truth incarnate
+
+## How Truth Comes to Us
+
+- Embodied in God who is outside the limits of creation
+- Eternal Logos takes on flesh and demonstrates truth in a fallen world
+- Truth is alive through Jesus, who is full of the Spirit by which he speaks.
+- His truth is dynamic, not static.
+
+## How Does Truth Act?
+
+- Jesus and the adulteress
+	- Might not have even been an adulteress, the man isn't mentioned, though he's not important in the story
+- John 8:7
+- By throwing a stone, one would have to lie
+
+## The Big Difference
+
+| Legal View of Truth         | View of Truth as a Person                  |
+| --------------------------- | ------------------------------------------ |
+| Bible is a Legal Document   | Bible is a Revelation of God's nature      |
+| Seeks to conform to the law | Seeks to conform to God's will             |
+| Give 10%                    | Give with justice, mercy, and faithfulness |
+
+## a
+
+- content 
+
+## a
+
+- content 
+
+## a
+
+- content 
+
+## a
+
+- content 
+
+## a
+
+- content 

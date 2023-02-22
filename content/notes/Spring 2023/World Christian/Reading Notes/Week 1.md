@@ -76,7 +76,7 @@ enableLinkPreview: true
 	- The wills of God and Man naturally oppose each other
 	- We should strive towards aligning ourselves with God's will
 - **Centripetal vs. Centrifugal**
-	- Centripetal: Nations coming towards Israel
+	- Centripetal: Nations coming towards Israelhttps://agsup.github.io/quartz/notes/Spring-2023/World-Christian/
 	- Centrifugal: Israel reaching out towards other nations
 
 ## "The Gospel of the Kingdom" - Ladd
@@ -87,5 +87,7 @@ enableLinkPreview: true
 	- God does not have a geologically limited reign, but instead reigns over all
 	- Heaven's worth is in God's reign
 - **The Mystery of the Kingdom**
+	- Biblical mysteries are ancient secrets that have been disclosed, often through God
+	- New Testament makes known the secrets of God
 
 [Week 2](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%202.md)
