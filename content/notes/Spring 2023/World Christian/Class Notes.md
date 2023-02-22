@@ -1,7 +1,7 @@
 ---
 title: Class Notes
 enableToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 ---
 
 ## Daily Notes

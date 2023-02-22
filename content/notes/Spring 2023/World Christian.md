@@ -1,7 +1,7 @@
 ---
 title: World Christian Notes
 enableToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 ---
 
 - [Class Notes](notes/Spring%202023/World%20Christian/Class%20Notes.md)

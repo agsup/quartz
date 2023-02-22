@@ -83,5 +83,7 @@ enableLinkPreview: true
 
 - **The meaning of "Kingdom"**
 	- A people belonging to a realm
+- **The Kingdom of God**
+	- 
 
 [Week 2](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%202.md)

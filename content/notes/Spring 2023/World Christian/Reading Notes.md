@@ -1,7 +1,7 @@
 ---
 title: Reading Notes
 enableToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 ---
 
 - [Week 1](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%201.md)
