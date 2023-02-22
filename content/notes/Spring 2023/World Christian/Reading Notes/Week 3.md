@@ -19,3 +19,5 @@ enableLinkPreview: true
 ## _"The Flaw of the Excluded Middle" -_ Hiebert
 
 - content
+
+[Week 4](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%204.md)

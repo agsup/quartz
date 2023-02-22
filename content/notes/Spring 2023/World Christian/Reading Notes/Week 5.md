@@ -27,3 +27,5 @@ enableLinkPreview: true
 ## “_The Social Impact of Christian Missions_” – Robert D.Woodberry
 
 - 
+
+[Week 6](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%206.md)]

@@ -19,3 +19,5 @@ enableLinkPreview: true
 ## _"Discipling All The Peoples" -_ Piper
 
 - 
+
+[Back to main](notes/Spring%202023/World%20Christian.md)

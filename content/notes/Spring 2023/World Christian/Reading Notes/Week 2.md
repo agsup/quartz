@@ -19,3 +19,5 @@ enableLinkPreview: true
 ## _"Culture, Worldview and Contextualization" -_ Kraft
 
 - content
+
+[Week 3](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%203.md)
