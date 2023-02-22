@@ -82,6 +82,6 @@ enableLinkPreview: true
 ## "The Gospel of the Kingdom" - Ladd
 
 - **The meaning of "Kingdom"**
-	- 
+	- A people belonging to a realm
 
 [Week 2](notes/Spring%202023/World%20Christian/Reading%20Notes/Week%202.md)
