@@ -11,13 +11,13 @@
 ### Current Info (2023)
 
 - Current Representative and Senators for Searcy (names)
-	- Cotton and Boozman
-	- French Hill
+	- Tom Cotton and John Boozman (Senators)
+	- French Hill (Representatives)
 - Current Presiding Officers (names)
-	- Speaker of the House: Kevin McCarthy (rep)
+	- Speaker of the House: Kevin McCarthy (R)
 	- Presiding Officer: VP (Harris)
-	- Pro Tempore: Patty Murray (dem)
-	- Maj Leader of Senate: Charles Schumer (dem)
-	- Min Leader of Senate: McConnell (rep)
-	- Maj House: Steve Scalise (rep)
-	- Min House: Hakeem Jeffries (dem)
+	- Pro Tempore: Patty Murray (D)
+	- Maj Leader of Senate: Charles Schumer (D)
+	- Min Leader of Senate: McConnell (R)
+	- Maj House: Steve Scalise (R)
+	- Min House: Hakeem Jeffries (D)
