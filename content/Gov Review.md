@@ -8,10 +8,8 @@
 
 ## Key Words
 
-### Legislative Branch
+### Current Info (2023)
 
-- Bicameral
-- Bipartisan
 - Current Representative and Senators for Searcy (names)
 	- Cotton and Boozman
 	- French Hill
@@ -21,66 +19,5 @@
 	- Pro Tempore: Patty Murray (dem)
 	- Maj Leader of Senate: Charles Schumer (dem)
 	- Min Leader of Senate: McConnell (rep)
-- Differences between 2 Chambers
-	- Representation by pop vs state
-- 435 = House; 100 = Senate
-- “Big Three” committees
-- Speaker
-- Majority Leader
-- Congressional Powers
-- House Rules Committee
-- Gerrymander
-- Whips
-- Caucus
-- Revenue
-- Appropriation
-- Funds and Authorization
-- Apportionment
-- Pro Tempore
-- Characteristics of each chamber
-- Deficit
-- National Debt
-- Pork
-- Fiscal Cliff
-- Oversight
-- Investigation
-- Seniority
-- Mavericks
-- Staff
-- Conference Committee
-- Filibuster
-- Cloture
-- Rule 22
-- War Powers Act
-- Specialization
-- Reciprocity
-- Necessary and Proper
-- Incumbent
-
-### Executive Branch/Bureaucracy
-
-- Presidential Expectations
-- Trend Line of Presidential Power
-- Big Three in EOP
-- Presidential Hats
-- Veto
-- Pocket Veto
-- Veto Override
-- Electoral College
-- 538 Electors
-- Maine and Nebraska
-- Roosevelt and the modern Presidency
-- Executive Office of the Presidency (EOP)
-- Cabinet
-- Cabinet Departments
-- Government Corporations
-- Regulatory Commissions
-- Federal Reserve Board
-- Recommends and Implements (Bookends)
-- Take Care Clause
-- Pendleton Act
-- Impeachment
-
-### General
-
-- Constitutional Articles and Amendments for each branch
+	- Maj House: Steve Scalise (rep)
+	- Min House: Hakeem Jeffries (dem)
