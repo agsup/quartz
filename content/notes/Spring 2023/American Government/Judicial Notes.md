@@ -84,4 +84,23 @@
 ## Courts of Appeals
 
 - Not reapportioned ever, so later ones are huge and early ones are tiny
-- 
+
+## Terminology
+
+- Jurisdiction: authority of a court
+	- Can be geographic or over subject matter
+- Writ of Certiorari (Cert)
+	- "We'll see"
+	- Four justices must approve for a write to be issued
+- Standing
+	- Must have a stake in the matter
+	- Party bringing the suit must suffer/be threatened with harm
+	- Must be justice-able, not hypothetical
+
+## Uncategorized Facts
+
+- SCOTUS does not have televised cases, but they have a court painter
+- The members are supposed to cover a wide spectrum (RBG and Antonin Scolia)
+- Despite this, they are all still friends and are reasonable adults!
+
+[Supreme Court](Supreme%20Court.md)
