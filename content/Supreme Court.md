@@ -10,7 +10,7 @@
 - Elana Kagan (D nom)
 - Clarence Thomas (R nom)
 
-## The Song  (Jesus Loves Me)
+## The Song (Jesus Loves Me)
 
 > *Jackson, Barrett, Kavanaugh,
 > 
@@ -44,6 +44,7 @@
 - Roberts Court (2005-present)
 	- Conservative, semi restrained, semi activist
 	- Obergefell v. Hodges (gay marriage)
+	- Dobbs v. JWHO (anti-abortion)
 
 ## Hot Potato Nominations
 
@@ -76,3 +77,29 @@
 
 - Video on canvas (not up yet)
 
+## Limits
+
+- They're not *supposed to* do political questions
+	-  They do anyway
+- No initiative (must wait on cases)
+- No army
+- Checks and Balances
+	- Impeachment
+	- Appts/Confirmations
+	- Judicial Structure/# of Judges
+	- Specific legislation, no room for interpretation
+	- Constitutional Amendments
+	- Restricting Jurisdiction
+- True Constitutional questions are rare (we've answered most of them already)
+
+## What Kind Of Judges Do We Want?
+
+| Arbiter           | Advocate                        |
+| ----------------- | ------------------------------- |
+| Letter of the Law | Spirit of the Law               |
+| Rule of Law       | Natural Order                   |
+| Referee           | Biblical Judges (think Deborah) |
+
+- Some of the things that the Judicial covers should be covered by the Legislative, but they're kind of dead set on not doing their job...
+- Restraint vs. Activism
+- 

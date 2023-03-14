@@ -18,4 +18,6 @@ enableLinkPreview: true
 ## Prophets
 
 - [Prophets and Prophecy](notes/Spring%202023/Wisdom%20and%20Prophets/Prophets%20and%20Prophecy.md)
-- [[notes/Spring 2023/Wisdom and Prophets/Amos]]
+- [Amos](notes/Spring%202023/Wisdom%20and%20Prophets/Amos.md)
+- [Hosea: Faithfulness](notes/Spring%202023/Wisdom%20and%20Prophets/Hosea%20(Part%202).md)
+- [Isaiah: YHWH is Salvation](notes/Spring%202023/Wisdom%20and%20Prophets/Intro%20to%20Isaiah.md)
