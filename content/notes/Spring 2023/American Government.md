@@ -16,4 +16,4 @@ enableLinkPreview: true
 		- [Executive and Congress Study Guide](notes/Spring%202023/American%20Government/Executive%20and%20Congress%20Study%20Guide.md)
 - [Voting](notes/Spring%202023/American%20Government/Voting.md)
 - [Just kidding turns out there actually were Judicial Notes](notes/Spring%202023/American%20Government/Judicial%20Notes.md)
-- 
+- [[notes/Spring 2023/American Government/Uncategorized Notes]]

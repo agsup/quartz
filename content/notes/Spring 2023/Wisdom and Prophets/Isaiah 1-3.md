@@ -20,4 +20,5 @@
 	- God seeks transformed lives and worship
 - God will purify Israel by exile (1:18-29, 25-26, 31)
 - Gentiles will flow into Israel (2:1-5)
-- 
+
+[[notes/Spring 2023/Wisdom and Prophets/Isaiah 6]]

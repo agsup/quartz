@@ -103,4 +103,4 @@
 - The members are supposed to cover a wide spectrum (RBG and Antonin Scolia)
 - Despite this, they are all still friends and are reasonable adults!
 
-[Supreme Court](Supreme%20Court.md)
+[Supreme Court](notes/Spring%202023/American%20Government/Supreme%20Court.md)
