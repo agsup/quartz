@@ -111,3 +111,14 @@ enableLinkPreview: true
 	- One of the furthest in is "love the Lord your God"
 
 [I wish the Bible had been more clear about...](notes/Spring%202023/World%20Christian/I%20wish%20the%20Bible%20had%20been%20more%20clear%20about....md)
+
+## How Do We Know The Truth?
+
+- Abide in the teachings of Jesus (John 8:31-32, Rom 12:1-2)
+- Spend time with Jesus in his Word, ministry and prayer
+- God has already spoken on this matter (Matt 22:29)
+- What is the heart of God in the matter? (Rom 14:17)
+- Can this be considered "fulfilling all righteousness"? (Matt 3:15)
+- How will this promote the kingdom/will of God (Matt 6:33)
+
+[Culture](notes/Spring%202023/World%20Christian/Culture.md)

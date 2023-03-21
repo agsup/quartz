@@ -1,10 +1,10 @@
 ## From Schach, chapter 11
 
-1. What three things must be specified in the specification document?
+2. What three things must be specified in the specification document?
 	2. Functional Requirements
 	3. Constraints
 	4. Acceptance Criteria
-2. List the steps of the analysis workflow, as given in the book and augmented in class.
+3. **List the steps of the analysis workflow, as given in the book and augmented in class.**
 	- Iterate  
 	- Functional Modeling  
 	- Entity Class Modeling  
@@ -12,39 +12,64 @@
 	- Extract Boundary Classes  
 	- Refine Use Cases - do use-case realization  
 	- Draw up an SPMP
-3. Explain the connection between functional modeling and use case scenarios.
+4. Explain the connection between functional modeling and use case scenarios.
 	- A Use case scenario is a specific instantiation of a use case, Functional modeling presents the scenarios of all use cases
-4. Explain each of the following and give a brief example (i.e. draw and label a small example):
-	- ERD
-	- Statechart
-	- CRC Cards
-	- Communication diagram
+5. **Explain each of the following and give a brief example (i.e. draw and label a small example):**
+	- ERD (easy rectangle diamond)
+	- Statechart (lollipop, flow)
+	- CRC Cards (class-responsibility-collaboration)
+	- Communication diagram 
 	- Sequence diagram
 
 ## From notes on Wiegers, chapter 11
 
-5. Explain each of the following and give a brief example (i.e. draw and label a small example):
-	- DFD
-	- STD
+6. **Explain each of the following and give a brief example (i.e. draw and label a small example):**
+	- DFD (circles for methods, rectangles for actors, arrows for data)
+	- STD (Rectangles for states, arrows for actions)
 	- Dialog map
 	- Class diagram
 	- Decision tree
 
+**Three of the 10 diagrams will be on the test**
+
+- Know these:
+	- What does it do?
+	- What are the symbols?
+	- Draw the diagram
+
+Example for ERD:
+
+- It models long-lived data (ex. Database)
+- Symbols are rectangle for class ,diamond for relationship, line for connection, tri-branch for "many-to" relation ("Person" can have multiple "jobs", for example)
+- Diagram using these symbols
+
+Notes:
+- 5b and 6b are the **same thing**
+- Class Diagram and ERD do the same thing (Long-Lived Data, but in different ways)
+- Communication vs. DFD
+
+| Comm                                | DFD                                    |
+| ----------------------------------- | -------------------------------------- |
+| Models one instance of one use case | Models data flow through entire system, disregarding sequence, uses hierarchy to facilitate top-down design | 
+| Different Symbols                   | Different Symbols                      |
+
+
 ## From MMM chapters 4, 5, 9
 
-6. What is conceptual integrity? Why is it so important? How is it achieved?
-	- Conceptual integrity is the maintaining of the original design and architecture when you're adding features. It is important in order to maintain ease of use and maintainability. It is achieved by using the same philosophies and balancing of the requirements.
-7. What is the second system effect? Why does it happen? How can it be avoided?
+7. **What is conceptual integrity? Why is it so important? How is it achieved?** **(very likely on the test)**
+	- Conceptual integrity is the maintaining of the original design and architecture when you're adding features. It is important in order to maintain ease of use, maintainability, and construction. Achieved by having a small team of architects (or ideally one).
+8. What is the second system effect? Why does it happen? How can it be avoided?
 	- The second system effect is where a system designer, after making a successful first system, tries to add too many extra features to the second system, usually leading to failure. It happens due to inflated confidence. It can be avoided by self-discipline, being mindful, and assigning value to functions
-8. How do program space and “size control” affect time and complexity in programming?
+9. How do program space and “size control” affect time and complexity in programming?
 	- More functionality makes it more complex, and more functionality also means more space, with speed being constant
+	- Time/Space/Complexity, improving one hurts the other two
 
 ## From Schach, chapter 8
 
 10. List and define the two types of reuse.
 	- Opportunistic Reuse - reuse of a component previously designed for a previous project 
 	- Deliberate Reuse - Specifically designing components to be reused
-11. What are the major impediments to software reuse?
+11. **What are the major impediments to software reuse?**
 	- NIH (Not invented here) syndrome  
 	- Fear that component will introduce faults  
 	- Storing the reusable components  
@@ -65,17 +90,18 @@
 
 ## From notes on Bass, chapters 1 and 2
 
-16. Define software architecture. 
+16. **Define software architecture. **
 	- The Software Architecture of a program or computing system is the structure or structures of the system which comprise software elements, the externally visible properties of those elements, and the relationships among them
-17. Give three reasons why software architecture is important.
+	- structures system software elements visible properties relationships
+1. Give three reasons why software architecture is important.
 	- It allows for communication among the stakeholders
 	- It manifests the earliest design decisions and it defines the constraints  
 	- It is a transferable abstraction of a system
-18. Briefly describe each of the following types of structures: module, component & connector, allocation.
+2. Briefly describe each of the following types of structures: module, component & connector, allocation.
 	- Module Structure - units of implementation; code based  
 	- Component & Connector Structures - run-time components and connectors which allow communication among the components  
 	- Allocation Structures - answer questions about assignments, deployments, and implementation
-19. Describe the parts of the “four plus 1” standard for architecture.
+3. Describe the parts of the “four plus 1” standard for architecture.
 	- Logical - module class view  
 	- Process - component and connector view of concurrency and functionality distribution  
 	- Development - Allocation view mapping software to development environment  
@@ -93,10 +119,6 @@
 	- Event-Driven  
 	- Client-Server  
 	- Three Tier
-22. Explain “functional decomposition”, what it is, why it is important.
-	- Breaking down modules into systems, programs, procedures to be called from the main module.  
-	- Makes reusability of lower level procedures apparent.  
-	- It is important because it allows for evaluation of coupling and cohesion
 
 ## From Schach, chapter 7
 
@@ -124,7 +146,12 @@
 	4. Common - global data  
 	5. Content - reference memory
 28. Briefly describe the steps in the evolution from modules to objects.
-	- *ask*
+	- Modules 
+	- Good modules (coupling/cohesion)
+	- Data encapsulated modules
+	- ADTs
+	- Info hiding (public/private sections)
+	- Object (inheritance)
 29. Explain the concept and benefits of polymorphism, along with any other important closely related concepts.
 	- Use of a base class that is inherited to make multiple versions of a function, called with dynamic binding
 
@@ -138,23 +165,22 @@
 	- Cyclomatic complexity - number of binary decisions + 1
 	- Fan-in - number of flows into a class plus global data accessed  
 	- Fan-out - number of flows out of a class plus number of data structures updated by the class
-		- **ask about fan-in/out**
 	- They are all equally effective
 
-## From MacConnell, chapter 5
+## From McConnell, chapter 5
 
-33. What is the Primary Technical Imperative? Why is it so important?
+33. **What is the Primary Technical Imperative? Why is it so important?**
 	- It is to manage complexity. Complexity is a major reason as to why projects fail
 35. Define abstraction and encapsulation and explain how they are related.
 	- Abstraction - engagement while safely ignoring some details  
 	- Encapsulation - Forbidding Details
-	- Abstraction allows high level, encapsulation requires high level (**ask if adequate**)
-1. Give some reasons as to why information hiding is important.
+	- Abstraction allows high level, encapsulation requires high level
+36. Give some reasons as to why information hiding is important.
 	- Decreases Complexity  
 	- Increases Modularity  
 	- Useful at all levels
 
-## From MacConnell, chapter 6
+## From McConnell, chapter 6
 
 37. Define ADT and class and explain how they are related.
 	- ADT - Abstract Data Type, collection of data and operations that work on that data
@@ -163,10 +189,10 @@
 	- The purpose of class inheritance is to create simpler code by defining a base class that specifies common elements of two or more derived classes.  
 	- It's important because it helps us to avoid the need to repeat code and data in multiple locations.
 39. What are the pros and the cons of using class inheritance?
-	- Pros - Avoids repeating code and data in multiple locations  
+	- Pros - Avoids repeating code and data in multiple locations (reuse code without rewriting it)
 	- Cons - Increases Complexity
-	- Reduces redundant code, increases complexity
+	- **Reduces redundant code, increases complexity**
 40. What are two things to avoid, related to using inheritance? Why?
 	- Deep Inheritance, because it is easy to lose track of.
 	- Multiple Inheritance, because it can be dangerous to your system.
-	- TLDR: Multiple, Deep, Complexity (**make sure this is adequate**)
+	- TL;DR: **Multiple, Deep, Complexity**

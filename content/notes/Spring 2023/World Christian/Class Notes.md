@@ -15,6 +15,7 @@ enableLinkPreview: false
 - [The Work of the Spirit in the Epistles](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Work%20of%20the%20Spirit%20in%20the%20Epistles.md)
 - [Worldview](notes/Spring%202023/World%20Christian/Class%20Notes/Worldview.md)
 - [Truth](notes/Spring%202023/World%20Christian/Class%20Notes/Truth.md)
+- [Culture](notes/Spring%202023/World%20Christian/Culture.md)
 
 ## Visiting Speakers
 
