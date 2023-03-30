@@ -15,4 +15,4 @@
 
 ## How Does Our View Of The Truth Effect The Conversation?
 
-
+[[Keller's 3 Points]]

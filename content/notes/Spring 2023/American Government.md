@@ -17,4 +17,4 @@ enableLinkPreview: true
 - [Voting](notes/Spring%202023/American%20Government/Voting.md)
 - [Just kidding turns out there actually were Judicial Notes](notes/Spring%202023/American%20Government/Judicial%20Notes.md)
 - [Election Notes](notes/Spring%202023/American%20Government/Election%20Notes.md)
-- 
+- [Social Justice](notes/Spring%202023/American%20Government/Social%20Justice.md)

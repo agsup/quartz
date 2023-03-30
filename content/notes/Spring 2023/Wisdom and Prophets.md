@@ -21,3 +21,5 @@ enableLinkPreview: true
 - [Amos](notes/Spring%202023/Wisdom%20and%20Prophets/Amos.md)
 - [Hosea: Faithfulness](notes/Spring%202023/Wisdom%20and%20Prophets/Hosea%20(Part%202).md)
 - [Isaiah: YHWH is Salvation](notes/Spring%202023/Wisdom%20and%20Prophets/Intro%20to%20Isaiah.md)
+- [Jonah](notes/Spring%202023/Wisdom%20and%20Prophets/Jonah.md)
+- [Micah](notes/Spring%202023/Wisdom%20and%20Prophets/Micah.md)

@@ -12,13 +12,13 @@
 
 ## The Song (Jesus Loves Me)
 
-> *Jackson, Barrett, Kavanaugh,
+> *Jackson, Barrett, Kavanaugh,*
 > 
-> Alito, Roberts (chief of all),
+> *Alito, Roberts (chief of all),*
 > 
-> Gorsuch, Sotomayor too,
+> *Gorsuch, Sotomayor too,*
 > 
-> Kagan, Thomas, that's our crew*
+> *Kagan, Thomas, that's our crew*
 
 ## History of the Supreme Court
 

@@ -22,4 +22,3 @@
 ## Parties still suck.
 
 - Washington's Farewell Address predicted the future perfectly
-
