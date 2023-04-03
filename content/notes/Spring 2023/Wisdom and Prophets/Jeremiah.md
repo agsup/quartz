@@ -22,4 +22,15 @@ Theme: "A New Covenant"
 4. Egypt, Assyria(:obs_down_arrow_with_tail:), and Babylon (:obs_up_arrow_with_tail:) fight over Palestine
 5. Jeremiah says **Babylon** is God''s agent, but Zedekiah allies with Egypt
 6. Jerusalem is besieged in 586, and Zedekiah **does not give up the fight** as Jeremiah advised
-7. When Governor Gedaliah is killed, Jeremiah and Baruch are taken by the murderers to Egypt
+7. When Governor Gedaliah is killed, Jeremiah and Baruch **are taken by the murderers** to Egypt
+
+## 4 Facts About The Book
+
+1. Longest book in the OT (longer than book of 12 combined)
+2. Loose collection of oracles - poetic with some prose
+3. Jeremiah dictated chapters 1-35 to Baruch (scribe) (36:4)
+4. There are multiple books of Jeremiah today:
+	- First edition burned by Jehoiakim (36:23)
+	- Hebrew Jeremiah: longer than 35 chapters (36:32)
+	- Greek Jeremiah: 6/7<sup>ths</sup> the length of the Hebrew and the OAN (Oracles of the Nations) are in a different order and location
+	- 
