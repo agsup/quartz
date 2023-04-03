@@ -35,4 +35,15 @@ Theme: "A New Covenant"
 	- Greek Jeremiah: 6/7<sup>ths</sup> the length of the Hebrew and the OAN (Oracles of the Nations) are in a different order and location
 	- The DSS confirm at least 2 Jeremiahs, the Hebrew and Greek (4QJer<sup>a,b,c</sup>) (4th Cave at Qumran)
 		- Minor difference between them, just inclusion of specific oracles
-	- 
+
+## 7 Sign Acts (not comprehensive)
+
+1. Linen belt in rock crevice = ruined/useless (13:1-11)
+	- Moisture ruins the fabric
+2. Bought jug and smashed it = city & people (19)
+3. Made/wore a yoke = Nebuchadnezzar (27:1-15)
+	- Hananiah (false prophet) broke the yoke to contradict Jeremiah (28)
+4. Buys a field = exile will be temporary (32:6-15)
+5. Throws scroll in sea = Babylon will sink (51:59-64)
+6. Buries stones in Egypt = Babylonian throne/conquest (43:8-13)
+7. No funeral/feast = no time because of exile (16:5-9)
