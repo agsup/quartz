@@ -33,4 +33,6 @@ Theme: "A New Covenant"
 	- First edition burned by Jehoiakim (36:23)
 	- Hebrew Jeremiah: longer than 35 chapters (36:32)
 	- Greek Jeremiah: 6/7<sup>ths</sup> the length of the Hebrew and the OAN (Oracles of the Nations) are in a different order and location
+	- The DSS confirm at least 2 Jeremiahs, the Hebrew and Greek (4QJer<sup>a,b,c</sup>) (4th Cave at Qumran)
+		- Minor difference between them, just inclusion of specific oracles
 	- 
