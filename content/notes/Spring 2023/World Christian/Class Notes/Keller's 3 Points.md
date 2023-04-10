@@ -48,4 +48,4 @@
 - A Man for All Peoples: Richardson
 - Prayer: Rebelling Against the Status Quo: Wells
 
-[[notes/Spring 2023/World Christian/Islam]]
+[[notes/Spring 2023/World Christian/Class Notes/Islam]]

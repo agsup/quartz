@@ -13,7 +13,7 @@ enableLinkPreview: true
 - Dead Sea Scroll (1QIsa, first scroll of Isaiah at Qumran)
 	- Almost complete
 	- 2nd c. BCE
-- One of the most quoted OT books in the NT
+- One of the most quoted OT books in the NTq
 
 ## Jesus' Parables are Rooted in Isaiah's Prophecy
 

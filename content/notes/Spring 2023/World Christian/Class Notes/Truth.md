@@ -102,7 +102,7 @@ enableLinkPreview: true
 
 ## One way of Looking
 
-![](notes/Spring%202023/World%20Christian/Pasted%20image%2020230224142830.png)
+![](notes/Spring%202023/World%20Christian/Class%20Notes/Pasted%20image%2020230224142830.png)
 
 - At the center of this is God and his absolute truth
 - Outer circles are rules/societal truths derived from it
@@ -110,7 +110,7 @@ enableLinkPreview: true
 	- Ex. Too far is requiring circumcision, further in is "do not steal"
 	- One of the furthest in is "love the Lord your God"
 
-[I wish the Bible had been more clear about...](notes/Spring%202023/World%20Christian/I%20wish%20the%20Bible%20had%20been%20more%20clear%20about....md)
+[I wish the Bible had been more clear about...](notes/Spring%202023/World%20Christian/Class%20Notes/I%20wish%20the%20Bible%20had%20been%20more%20clear%20about....md)
 
 ## How Do We Know The Truth?
 
@@ -121,4 +121,4 @@ enableLinkPreview: true
 - Can this be considered "fulfilling all righteousness"? (Matt 3:15)
 - How will this promote the kingdom/will of God (Matt 6:33)
 
-[Culture](notes/Spring%202023/World%20Christian/Culture.md)
+[Culture](notes/Spring%202023/World%20Christian/Class%20Notes/Culture.md)

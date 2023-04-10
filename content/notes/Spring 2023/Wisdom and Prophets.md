@@ -13,7 +13,6 @@ enableLinkPreview: true
 - [Sources of Evil and the Christian's Response](notes/Spring%202023/Wisdom%20and%20Prophets/Sources%20of%20Evil%20and%20the%20Christian's%20Response.md)
 - [Ecclesiastes](notes/Spring%202023/Wisdom%20and%20Prophets/Ecclesiastes.md)
 - [Song of Solomon](notes/Spring%202023/Wisdom%20and%20Prophets/Song%20of%20Solomon.md)
-- [Amos](notes/Spring%202023/Wisdom%20and%20Prophets/Amos.md)
 
 ## Prophets
 
@@ -24,4 +23,4 @@ enableLinkPreview: true
 - [Jonah](notes/Spring%202023/Wisdom%20and%20Prophets/Jonah.md)
 - [Micah](notes/Spring%202023/Wisdom%20and%20Prophets/Micah.md)
 - [Jeremiah](notes/Spring%202023/Wisdom%20and%20Prophets/Jeremiah.md)
-- 
+- [[notes/Spring 2023/Wisdom and Prophets/Ezekiel]]

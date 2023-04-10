@@ -15,7 +15,11 @@ enableLinkPreview: false
 - [The Work of the Spirit in the Epistles](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Work%20of%20the%20Spirit%20in%20the%20Epistles.md)
 - [Worldview](notes/Spring%202023/World%20Christian/Class%20Notes/Worldview.md)
 - [Truth](notes/Spring%202023/World%20Christian/Class%20Notes/Truth.md)
-- [Culture](notes/Spring%202023/World%20Christian/Culture.md)
+- [Culture](notes/Spring%202023/World%20Christian/Class%20Notes/Culture.md)
+- [Islam](notes/Spring%202023/World%20Christian/Class%20Notes/Islam.md)
+- [God's Purpose in History](notes/Spring%202023/World%20Christian/Class%20Notes/God's%20Purpose%20in%20History.md)
+- [Islam](notes/Spring%202023/World%20Christian/Class%20Notes/Islam.md)
+- [The Origin of Our Diversity](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Origin%20of%20Our%20Diversity.md)
 
 ## Visiting Speakers
 

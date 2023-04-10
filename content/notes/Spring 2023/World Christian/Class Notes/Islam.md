@@ -39,4 +39,9 @@
 - Remember to be loving and respectful (1 Peter 3:15)
 - Be willing to admit our own inconsistencies and weaknesses
 
-## 
+## Travis' C-Scale
+
+- C1-C6 scale
+- High-risk to low-risk
+
+ [God's Purpose in History](notes/Spring%202023/World%20Christian/Class%20Notes/God's%20Purpose%20in%20History.md)
