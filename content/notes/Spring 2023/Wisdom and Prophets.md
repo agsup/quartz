@@ -23,4 +23,4 @@ enableLinkPreview: true
 - [Jonah](notes/Spring%202023/Wisdom%20and%20Prophets/Jonah.md)
 - [Micah](notes/Spring%202023/Wisdom%20and%20Prophets/Micah.md)
 - [Jeremiah](notes/Spring%202023/Wisdom%20and%20Prophets/Jeremiah.md)
-- [[notes/Spring 2023/Wisdom and Prophets/Ezekiel]]
+- [Ezekiel](notes/Spring%202023/Wisdom%20and%20Prophets/Ezekiel.md)
