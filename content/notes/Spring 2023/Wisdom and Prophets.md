@@ -24,3 +24,4 @@ enableLinkPreview: true
 - [Micah](notes/Spring%202023/Wisdom%20and%20Prophets/Micah.md)
 - [Jeremiah](notes/Spring%202023/Wisdom%20and%20Prophets/Jeremiah.md)
 - [Ezekiel](notes/Spring%202023/Wisdom%20and%20Prophets/Ezekiel.md)
+- [Daniel](notes/Spring%202023/Wisdom%20and%20Prophets/Daniel.md)

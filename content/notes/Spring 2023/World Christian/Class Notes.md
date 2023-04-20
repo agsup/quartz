@@ -20,6 +20,7 @@ enableLinkPreview: false
 - [God's Purpose in History](notes/Spring%202023/World%20Christian/Class%20Notes/God's%20Purpose%20in%20History.md)
 - [Islam](notes/Spring%202023/World%20Christian/Class%20Notes/Islam.md)
 - [The Origin of Our Diversity](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Origin%20of%20Our%20Diversity.md)
+- [[The Cost of Being a (World) Christian]]
 
 ## Visiting Speakers
 
