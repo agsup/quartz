@@ -56,3 +56,30 @@
 - Galatians 2:20
 	- It is no longer I who live, but Christ who lives in me
 - *You* can no longer do what *you* want to do because *you* ***died*** during baptism, leaving only Christ
+
+## Reflected in our Attitude Toward Sin (and what makes us Stumble)
+
+- Matthew 5:29-30
+- How dear to you is your secret sin?
+- What relationships are you in which cause you to stumble?
+- What are you willing to give in exchange for your soul?
+
+## The Test Case
+
+- Matthew 19:16-30; Mark 10:17-30; Luke 18:18-30
+- Why was Jesus so hard on the rich young ruler?
+	- He wants the "easy way to heaven"
+	- The young man thinks he is "good"
+		- We have the same problem in modern Christianity
+
+## Why Give Our Life?
+
+- It was from God to begin with, we are only giving Him what's His
+- We have been purchased by the blood of Christ, our life isn't ours anyway
+- Christ gave his life for us, we should lay our lives down for others
+- We don't know the best way to live our lives anyway!
+
+## The Call to Be a World Christian
+
+- ***Are you willing to pay the price?***
+
