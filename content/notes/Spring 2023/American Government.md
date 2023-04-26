@@ -18,4 +18,5 @@ enableLinkPreview: true
 - [Just kidding turns out there actually were Judicial Notes](notes/Spring%202023/American%20Government/Judicial%20Notes.md)
 - [Election Notes](notes/Spring%202023/American%20Government/Election%20Notes.md)
 - [Social Justice](notes/Spring%202023/American%20Government/Social%20Justice.md)
-- [[notes/Spring 2023/American Government/Pressure and Influence]]
+- [Pressure and Influence](notes/Spring%202023/American%20Government/Pressure%20and%20Influence.md)
+- [[]]

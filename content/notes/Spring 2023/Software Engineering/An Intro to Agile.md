@@ -1,5 +1,3 @@
-
-
 - The Waterfall has many offshoot techniques
 	- One is the UP, from that comes Agile, from which comes Scrum
 	  

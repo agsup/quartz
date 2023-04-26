@@ -33,3 +33,26 @@
 - To be ready to do whatever, whenever, wherever for the sake of Christ
 	- Important to note that there is *nothing to negotiate*
 
+## The Paradox of the Cost
+
+- Matthew 16:21-28
+	- The meaning of *psyche*, contrasted with *zoe* and *bios*
+		- *bios, biotikos*: lowest level of life, very closely associated with the idea of "flesh", can also mean "possessions"
+		- *psyche*: animal-like life, breathing, eating, that which constitutes being "alive" in the fleshly sense, opposite of "spiritual"
+- Those who preserve their life will lose it, those who lose it for Jesus will gain it.
+	- *This is the paradox*
+- The *psyche* is what *we want to be*, but to follow Jesus is to be what *He wants us to be*.
+
+## Lessons from the Seed
+
+- John 12:20-26
+- The seed must die for it to produce fruit
+- Romans 12:1-2
+
+## The Meaning of Baptism
+
+- Romans 6:1-18
+	- If indeed we understand what happened when we were immersed, there is no longer an "I" or a "we"
+- Galatians 2:20
+	- It is no longer I who live, but Christ who lives in me
+- *You* can no longer do what *you* want to do because *you* ***died*** during baptism, leaving only Christ
