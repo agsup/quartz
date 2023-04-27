@@ -1,3 +1,5 @@
+---
+---
 - Main point: self-awareness/sacrifice is essential to the faith
 
 ## Why is this Hard?
