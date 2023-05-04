@@ -173,4 +173,4 @@
 
 ## James Hudson 
 
-[God's Purpose in History](notes/Spring%202023/World%20Christian/Class%20Notes/God's%20Purpose%20in%20History.md)
+[The Cost of Being a (World) Christian](notes/Spring%202023/World%20Christian/The%20Cost%20of%20Being%20a%20(World)%20Christian.md)

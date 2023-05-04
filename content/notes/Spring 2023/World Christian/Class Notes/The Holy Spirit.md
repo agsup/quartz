@@ -1,6 +1,6 @@
 ---
 title: The Holy Spirit
-enableToc: false
+enableToc: fa lse
 enableLinkPreview: true
 ---
 

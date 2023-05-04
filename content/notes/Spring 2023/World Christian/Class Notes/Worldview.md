@@ -56,4 +56,4 @@ enableLinkPreview: true
 - (Excluded Middle)
 - Natural World
 
-## Transformation of the Mind
+[Truth](notes/Spring%202023/World%20Christian/Class%20Notes/Truth.md)

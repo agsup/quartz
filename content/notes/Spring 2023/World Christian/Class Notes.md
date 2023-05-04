@@ -16,9 +16,9 @@ enableLinkPreview: false
 - [Worldview](notes/Spring%202023/World%20Christian/Class%20Notes/Worldview.md)
 - [Truth](notes/Spring%202023/World%20Christian/Class%20Notes/Truth.md)
 - [Culture](notes/Spring%202023/World%20Christian/Class%20Notes/Culture.md)
+	- [Keller's 3 Points](notes/Spring%202023/World%20Christian/Class%20Notes/Keller's%203%20Points.md)
 - [Islam](notes/Spring%202023/World%20Christian/Class%20Notes/Islam.md)
 - [God's Purpose in History](notes/Spring%202023/World%20Christian/Class%20Notes/God's%20Purpose%20in%20History.md)
-- [Islam](notes/Spring%202023/World%20Christian/Class%20Notes/Islam.md)
 - [The Origin of Our Diversity](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Origin%20of%20Our%20Diversity.md)
 - [The Cost of Being a (World) Christian](notes/Spring%202023/World%20Christian/The%20Cost%20of%20Being%20a%20(World)%20Christian.md)
 

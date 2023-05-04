@@ -50,4 +50,4 @@ enableLinkPreview: true
 - Remember that all will be judged in the end
 
 ## Lament/Praise Psalms
-[see notes](file:///home/gregs/Downloads/ Poetry Primer Worksheet.docx)
+[see notes](file:///home/gregs/Downloads/Poetry Primer Worksheet.docx)

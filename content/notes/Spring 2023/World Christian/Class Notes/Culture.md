@@ -15,4 +15,4 @@
 
 ## How Does Our View Of The Truth Effect The Conversation?
 
-[[notes/Spring 2023/World Christian/Class Notes/Keller's 3 Points]]
+[Keller's 3 Points](notes/Spring%202023/World%20Christian/Class%20Notes/Keller's%203%20Points.md)

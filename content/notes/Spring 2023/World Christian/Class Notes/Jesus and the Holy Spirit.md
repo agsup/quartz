@@ -34,7 +34,7 @@ enableLinkPreview: true
 
 ## Our Responsibility
 
-- Are we and Undertaker or a Mid-wife?
+- Are we an Undertaker or a Mid-wife?
   - Do we make the dead look alive or do we actually help them through obtaining *Zoe*?
 
 ## The HS as Subject
@@ -42,3 +42,7 @@ enableLinkPreview: true
 >To the Prophet, God is always apprehended, experienced, and conceived as a Subject, never an object.
 >
 >*Abraham Heschel*
+
+[First Verse Memorization](notes/Spring%202023/World%20Christian/Memory%20Work/First%20Verse%20Memorization.md)
+
+[The Work of the Spirit in Acts](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Work%20of%20the%20Spirit%20in%20Acts.md)

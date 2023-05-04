@@ -130,4 +130,4 @@ enableLinkPreview: true
 - Paul is defending himself before King Agrippa
 - Paul is not afraid to say some uncomfortable truths to the King
 
-[[notes/Spring 2023/World Christian/Class Notes/The Work of the Spirit in the Epistles]]
+[The Work of the Spirit in the Epistles](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Work%20of%20the%20Spirit%20in%20the%20Epistles.md)

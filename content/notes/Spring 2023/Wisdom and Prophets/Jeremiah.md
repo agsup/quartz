@@ -20,7 +20,7 @@ Theme: "A New Covenant"
 	- Either the Pentateuch or just Deuteronomy
 3. Josiah reforms Jerusalem before his premature death in 609 BC
 4. Egypt, Assyria(:obs_down_arrow_with_tail:), and Babylon (:obs_up_arrow_with_tail:) fight over Palestine
-5. Jeremiah says **Babylon** is God''s agent, but Zedekiah allies with Egypt
+5. Jeremiah says **Babylon** is God's agent, but Zedekiah allies with Egypt
 6. Jerusalem is besieged in 586, and Zedekiah **does not give up the fight** as Jeremiah advised
 7. When Governor Gedaliah is killed, Jeremiah and Baruch **are taken by the murderers** to Egypt
 

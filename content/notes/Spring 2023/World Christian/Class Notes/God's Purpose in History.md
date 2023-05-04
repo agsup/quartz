@@ -73,3 +73,5 @@
 - God can use a few, dedicated people to accomplish much
 - God works with us, in spite of us, and without us
 - God's work will be accomplished
+
+[The Origin of Our Diversity](notes/Spring%202023/World%20Christian/Class%20Notes/The%20Origin%20of%20Our%20Diversity.md)
