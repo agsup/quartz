@@ -11,7 +11,7 @@ enableLinkPreview: true
 		- > “to say of what is that it is, and of what is not that it is not, is true.”
 	- Plato: "Cave of Idealism"
 		- Shadows on the wall illustrating reality
-	- $\alpha \lambda \epsilon \theta \epsilon \iota \alpha$ is used 98 times in Bible, 20 times in John
+	- $\alpha\lambda\epsilon\theta\epsilon\iota\alpha$ is used 98 times in Bible, 20 times in John
 - Dallas Willard
 	- Truth vs. Knowledge
 		- Can something be known if it is untrue?

@@ -5,7 +5,7 @@
 - Societies have their own individualized coping mechanisms for the challenges of the world
 - 
 
-## How An We Interact With Cultures?
+## How Can We Interact With Cultures?
 
 
 
