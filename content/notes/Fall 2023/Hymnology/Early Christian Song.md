@@ -1,3 +1,8 @@
+---
+title: Early Christian Song
+enableToc: false
+enableLinkPreview: true
+---
 ## Prelude
 
 - Church started on Pentecost (50 days after Passover)

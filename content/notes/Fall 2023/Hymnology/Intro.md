@@ -1,3 +1,8 @@
+---
+title: Intro
+enableToc: false
+enableLinkPreview: true
+---
 # Definitions
 
 - **Hymnology: *The study of congregational singing***
