@@ -1,1 +1,5 @@
-- [Intro](notes/Fall%202023/Operating%20Systems/Intro.md)
+---
+title: Operating Systems
+enableToc: false
+enableLinkPreview: true
+---
