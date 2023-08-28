@@ -53,4 +53,4 @@
 - Large Development Efforts
 	- Might have to manage multiple parties
 
-[[Retrospective]]
+[[notes/Spring 2023/Software Engineering/Retrospective]]

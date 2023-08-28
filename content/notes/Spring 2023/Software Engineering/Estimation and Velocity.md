@@ -48,4 +48,4 @@
 	- Point inflation
 	- Cutting corners
 
-[[Sprint Planning]]
+[[notes/Spring 2023/Software Engineering/Sprint Planning]]

@@ -60,4 +60,4 @@ enableLinkPreview: true
 		- Each city has its own government
 		- All leaders in every government in the US are elected
 	4. Bill of Rights (1789)
-[[Political Science|Next: Political Science]]
+[[notes/Spring 2023/American Government/Political Science|Next: Political Science]]

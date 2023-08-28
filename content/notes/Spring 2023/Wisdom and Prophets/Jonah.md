@@ -43,5 +43,5 @@
 
 ## Jonah Ends With A Question
 
-*[[To whom does the power of salvation belong?]]*
+*[[notes/Spring 2023/Wisdom and Prophets/To whom does the power of salvation belong?]]*
 

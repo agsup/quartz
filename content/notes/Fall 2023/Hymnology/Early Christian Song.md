@@ -1,0 +1,41 @@
+## Prelude
+
+- Church started on Pentecost (50 days after Passover)
+- Church was influenced primarily by Jewish culture
+- Levites were initially assigned as the chorus/band to sing the songs of praise
+	- This was Pre-Babylon, far before Jesus
+- Synagogues
+	- Places of worship, not just study
+	- Invented during Babylonian exile
+	- Exist all over the world for Jewish worship
+- Instruments were used in Jewish worship, but not in the synagogue (reason unknown)
+	- Side-note, *a cappella* means "in the style of the chapel"
+- Points of focus in early Christian worship
+	- Fellowship (breaking bread)
+	- Communion (also called breaking bread)
+	- Read Scripture
+	- Pray
+	- Listen to a sermon (Exhortation)
+- Potential reasons for unaccompanied singing
+	- Discreetness (during times of persecution)
+	- Courtesy (noise levels)
+	- Monetary
+	- Expertise
+	- Instruments associated with Pagan practice
+	- Text was more important than the music
+- Details about the music
+	- Monophonic/limited harmony
+	- No notation
+	- Often had heavy ornamentation on longer syllables
+	- Most often sung by a cantor, sometimes by a group
+	- Mostly in Hebrew, but probably switched to Greek around the time of Paul's missionary journey
+- Music in the Graeco-Roman World
+	- Music was seen as magical
+	- Doctrine of Ethos
+		- Music that you listen to has an effect on your life's outcome (Plato/Aristotle)
+		- Specific keys/chords could affect mood (in more specific ways than we think of today)
+	- Intoning important texts
+		- Intoning: speaking/singing in a specific "sacred" pitch or range of pitches to give reverence to a text
+		- Both Greeks and Christians did this
+		- Still done today in synagogue
+		- 

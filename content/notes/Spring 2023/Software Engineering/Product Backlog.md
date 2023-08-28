@@ -45,4 +45,4 @@
 		- Even flow of PBI's
 		- Inventory
 
-[[Estimation and Velocity]]
+[[notes/Spring 2023/Software Engineering/Estimation and Velocity]]

@@ -23,4 +23,4 @@
 
 ## Zechariah
 
-[[Daniel]]
+[[notes/Spring 2023/Wisdom and Prophets/Daniel]]
