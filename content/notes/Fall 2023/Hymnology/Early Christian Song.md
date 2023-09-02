@@ -34,7 +34,8 @@ enableLinkPreview: true
 	- Often had heavy ornamentation on longer syllables
 	- Most often sung by a cantor, sometimes by a group
 	- Mostly in Hebrew, but probably switched to Greek around the time of Paul's missionary journey
-### Music in the Graeco-Roman World
+
+## Music in the Graeco-Roman World
 
 - Music was seen as magical
 - Doctrine of Ethos
@@ -83,13 +84,14 @@ enableLinkPreview: true
 	- Not even of Hebrew origin
 	- Likely of Syrian origin
 	- Rooted in gnosticism (*Gnosis*: knowledge), so didn't gain traction
-### Summary of Early Greek Psalms
+
+## Summary of Early Greek Psalms
 
 1. Most were hymns ("hymnos") by the strictest definition (songs of praise or "worship") from the word "proskuneo" (to kiss forward, to prostrate oneself before)
 2. They contain colorful, descriptive metaphors that were sung in short, very direct phrases (Dr. Ganus: "popcorn" phrases)
 3. Simple melodies with syllabic musical declamation
 
-### Legalization and Establishment
+## Legalization and Establishment
 
 - Leaders of the early Church
 	- Bishop: "overseer"
