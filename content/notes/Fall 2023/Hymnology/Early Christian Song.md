@@ -93,7 +93,47 @@ enableLinkPreview: true
 
 ## Legalization and Establishment
 
+- 2nd and 3rd century church
+	- Centralization of power
+	- Growing persecution from Rome
 - Leaders of the early Church
 	- Bishop: "overseer"
-	- Elder
+	- Elder: self-explanatory, interchangeable with bishop
 	- Pastor: "shepherd"
+- 2nd and 3rd century consolidation of power
+	- Individual bishops claimed sole authority over certain regions
+	- The congregations in that region followed the practices and mandates of the head bishop
+	- By the end of the 3rd century, congregations began to meet in dedicated buildings rather than in houses
+- Reasons for persecution of Christians by Romans
+	- Certain leadership (ex. Nero)
+	- Did not exalt Caesar as "lord"
+	- Did not participate in state sanctioned rites
+	- Worshipped in homes
+- Periods of persecution
+	- Nero
+		- Blamed Christians for the great fire of Rome in 64 A.D
+		- Executed Paul and Peter
+	- Domitian
+		- Might have exiled John to Patmos
+		- Possibly responsible for more widespread persecution, but this is disputed
+	- Diocletian
+		- Responsible for the "Great Persecution"
+		- Forced subjects to worship the Emperor
+		- Many died, others fled
+		- Many fled to a mountain and found refuge in *[San Marino](https://www.google.com/search?q=san+marino&tbm=isch&ved=2ahUKEwjj8NHm2ZGBAxWzJN4AHbOcBscQ2-cCegQIABAA&oq=san+marino&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMggIABCABBCxAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CwgAEIAEELEDEIMBOgcIABCKBRBDOggIABCxAxCDAToKCAAQigUQsQMQQ1CHBViKDGDaDWgAcAB4AIABTogB9gWSAQIxMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=gDH2ZOOwFLPJ-LYPs7mauAw&bih=857&biw=1485&client=firefox-b-1-d)*
+- Legalization of Christianity under Constantine
+	- Won a battle under the name of Christ, issued the Edict of Milan which legalized Christianity
+	- Returned Christian property and made Sunday a day of worship
+	- Mother (Helena) was Christian, had Constantine build large [basilicas](https://www.google.com/search?client=firefox-b-1-d&sca_esv=562581159&channel=fenc&sxsrf=AB5stBhNcR0UVmiGWX23QQl7WQ02D1N4yQ:1693856125731&q=basilica&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjl3rHl2ZGBAxV7lWoFHV3wC0kQ0pQJegQIDhAB&biw=1485&bih=857&dpr=1.5) over holy sites
+	- Likely won the favor of Christians for political reasons (as well as for his mother)
+	- Council of Nicaea
+		- Addressed the problem of Arius of Alexandria
+		- Arius taught that the trinity was not equal parts, but that there was a hierarchy
+		- Arius was refuted, but they were unable to eliminate the heresy
+		- The [Goths of Italy](https://www.google.com/search?channel=fenc&client=firefox-b-1-d&q=Goths+of+Italy) were fond of Arian theology
+		- Arians produced a large number of their own hymns
+		- Date of Easter established
+		- Issued the [Creed of Nicaea](https://en.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed) (list of beliefs)
+		- The conflict with gnostic heresies caused distrust in "human-composed" hymns
+			- Many advocated for only singing straight from Scripture
+	- 
