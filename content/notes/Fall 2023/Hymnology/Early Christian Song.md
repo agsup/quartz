@@ -164,5 +164,7 @@ enableLinkPreview: true
 		- "When in Rome..." actually was church advice, meet people in their culture rather than imposing your own culture (avoid syncretism)
 	- Antiphonal songs
 - Nicetas of Remesiana, Bishop of Dacia
-	- May have authored the "[Te Deum](https://en.wikipedia.org/wiki/Te_Deum)"
-	- 
+	- May have authored the ["Te Deum"](https://en.wikipedia.org/wiki/Te_Deum)
+- Augustine, Bishop of Hippo
+	- Baptized Ambrose, conflicted about music in the church
+- 
