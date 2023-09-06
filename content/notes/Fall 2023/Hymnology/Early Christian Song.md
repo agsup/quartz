@@ -143,11 +143,26 @@ enableLinkPreview: true
 		- Outlawed pagan ceremonies and the Olympic games
 		- Allowed Christians to re-appropriate pagan temples
 		- Insisted on the acceptance of Nicene theology (trinitarianism)
+- Christian song of the Byzantines
+	- Music of the Eastern Roman Empire
+		- Strong Jewish/Syrian (Antioch) influence
+		- Hymns of monophonic, unaccompanied chant
+		- Strongly didactic (doctrinal), especially Trinitarian
+		- ["Troparion"](https://en.wikipedia.org/wiki/Troparion): an early type of byzantine hymn, short, of one stanza
 
-### Christian song of the Byzantines
-- Music of the Eastern Roman Empire
-	- Strong Jewish/Syrian (Antioch) influence
-	- Hymns of monophonic, unaccompanied chant
-	- Strongly didactic (doctrinal), especially Trinitarian
-	- "[Troparion](https://en.wikipedia.org/wiki/Troparion)": an early type of byzantine hymn, short, of one stanza
+### Increasing Power of the Bishop of Rome
+
+- With the Emperor in Constantinople, the Bishop of Rome became more powerful
+- By the 6th century, Latin began to replace Greek in the Western Church
+- Latin Vulgate replaced Greek Septuagint/NT
+- By the 6th century, the Bishop of Rome began to be called "papa" (Pope)
+- Hilary, Bishop of Poitiers
+	- Brought the Greek style back from Asia minor, with emphasis on the Trinity
+- Ambrose, Bishop of Milan
+	- Baptized Augustine/gave council to Theodosius
+	- Responsible for "When in Rome..."
+		- "When in Rome..." actually was church advice, meet people in their culture rather than imposing your own culture (avoid syncretism)
+	- Antiphonal songs
+- Nicetas of Remesiana, Bishop of Dacia
+	- May have authored the "[Te Deum](https://en.wikipedia.org/wiki/Te_Deum)"
 	- 
