@@ -133,7 +133,21 @@ enableLinkPreview: true
 		- The [Goths of Italy](https://www.google.com/search?channel=fenc&client=firefox-b-1-d&q=Goths+of+Italy) were fond of Arian theology
 		- Arians produced a large number of their own hymns
 		- Date of Easter established
-		- Issued the [Creed of Nicaea](https://en.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed) (list of beliefs)
+		- Issued the [Creed of Nicaea](https://en.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed) (their list of beliefs)
 		- The conflict with gnostic heresies caused distrust in "human-composed" hymns
 			- Many advocated for only singing straight from Scripture
+	- Ottomans invaded in 1453, ending the Eastern Roman Empire (Constantinople was the capital all the way up until then)
+	- Creed of Constantinople (381 AD)
+		- Very similar to the Nicene Creed, but without the anathematization
+	- Theodosius
+		- Outlawed pagan ceremonies and the Olympic games
+		- Allowed Christians to re-appropriate pagan temples
+		- Insisted on the acceptance of Nicene theology (trinitarianism)
+
+### Christian song of the Byzantines
+- Music of the Eastern Roman Empire
+	- Strong Jewish/Syrian (Antioch) influence
+	- Hymns of monophonic, unaccompanied chant
+	- Strongly didactic (doctrinal), especially Trinitarian
+	- "[Troparion](https://en.wikipedia.org/wiki/Troparion)": an early type of byzantine hymn, short, of one stanza
 	- 
