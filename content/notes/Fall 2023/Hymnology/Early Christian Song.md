@@ -167,4 +167,35 @@ enableLinkPreview: true
 	- May have authored the ["Te Deum"](https://en.wikipedia.org/wiki/Te_Deum)
 - Augustine, Bishop of Hippo
 	- Baptized Ambrose, conflicted about music in the church
-- 
+
+### The End of Congregational Singing
+
+- Large churches were built
+- Buildings revered as holy places/shrines
+- Church hierarchy developed with a single bishop at the top
+- Influence or skills were often valued above spiritual qualities
+- Ordained priests, "clergy" were put in control of local churches and buildings
+- "Laymen" were not allowed to be active in church affairs
+- Everything becomes more "professional"
+
+### Congregational Singing Returns
+
+- Council at Laodicea (get notes from ppt)
+- Liturgy: A standardized pattern of worship (including texts, melodies, etc.)
+	- Division 1 of 2: Mass
+		- Daily celebration of Eucharist (Lord's Supper)
+	- Division 2 of 2: Divine Offices
+		- 8 daily prayer hours consisting of assigned readings, prayers, and songs for each day primarily used in monastic orders
+- Pope Gregory I "The Great"
+	- "Gregorian Chant" is named after him (though he ***did not write any of them***, nor were they from his time)
+	- Responsible for standardizing the liturgy for the whole church
+- The Medieval Church
+	- Get notes from ppt
+- Mass
+	- Proper: texts change
+	- Ordinary: always the same
+		- Kyrie
+		- Gloria
+		- Credo
+		- Sanctus
+		- Agnus Dei
