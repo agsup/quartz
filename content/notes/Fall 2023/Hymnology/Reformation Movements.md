@@ -37,4 +37,45 @@ title: Reformation Movements
 	- True Polyphony: fully independent melodies
 - Disputes about polyphonic music
 	- Overcomplexity in music overshadowed the words
-	- 
+		- Some chants were also mixed with others, making the individual chants hard to discern
+- Around the time of the Renaissance, there was growing dissatisfaction with the church's doctrine
+	- Wealth accumulated (and kept) by the church
+	- Indulgences (pay up to absolve your sin)
+	- Celibacy of the priesthood
+	- Worship in Latin rather than the common language
+	- Unspiritual music and complexity for complexity's sake
+	- etc.
+- John Wycliffe
+	- Translated the Bible into English
+	- Translated into English
+	- Led the "Lollard" movement
+		- Once was an insult, they appropriated the title
+	- Was declared a heretic after his death
+- Jan Hus
+	- Admired Wycliffe
+	- Didn't like indulgences
+	- Promised safe passage to defend his ideas
+		- This was a lie, they burned him at the stake
+		- The Roman church absolutely sucked.
+	- Hussites
+		- Loved singing hymns, Hus wrote a number of them
+		- Sometimes known as the "Bohemian Brethren" or "Unity of Brethren" (*Unitas Fratum*)
+		- Many of these hymns were adopted by German-speaking people in other movements
+		- Known for:
+			- simple worship
+			- Reverence of the Eucharist (with everyone taking the body and the blood instead of just the body)
+			- Reverence of Scripture
+			- Songs about persecution, perseverance, and unity
+			- They fled to other parts of Europe while persecuted, including Moravia (Modern Czech Rep.)
+- Martin Luther
+	- Catholic priest, professor of Theology
+	- Pope Leo X authorized the Archbishop of Mainz to sell indulgences to rebuild St. Peter's basilica in Rome (seen as the most important church in Rome)
+	- Johann Tetzel was in charge of indulgences in German
+		- "When a coin in the coffer rings, a soul from Purgatory springs"
+	- 95 Theses
+		- Allegedly posted on the door of the All Saints Church in Wittenberg
+		- Excommunicated by the Pope in 1521, called to appear before the Diet of Worms (gen. assembly of the HRE)
+		- "I cannot and will not recant anything, since it is neither safe nor right to go against conscience. May God help me. Amen."
+		- Frederick the Wise, Elector of Saxony had Luthor "kidnapped" by "robbers" on his way home to be taken into "custody" in a castle for a year
+		- Translated the Bible from Latin:luc_arrow_right:German
+		- 
