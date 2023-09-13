@@ -76,6 +76,9 @@ title: Reformation Movements
 		- Allegedly posted on the door of the All Saints Church in Wittenberg
 		- Excommunicated by the Pope in 1521, called to appear before the Diet of Worms (gen. assembly of the HRE)
 		- "I cannot and will not recant anything, since it is neither safe nor right to go against conscience. May God help me. Amen."
-		- Frederick the Wise, Elector of Saxony had Luthor "kidnapped" by "robbers" on his way home to be taken into "custody" in a castle for a year
-		- Translated the Bible from Latin:luc_arrow_right:German
-		- 
+		- Frederick the Wise, Elector of Saxony had Luther "kidnapped" by "robbers" on his way home to be taken into "custody" in a castle for a year
+		- Translated the Bible from Latin to German
+- Frederick the Wise
+	- Charged admission to see over 19,000 relics
+	- A person would gain an indulgence of 1,902,202 years and 270 days reduction in their purgatory sentence just for viewing the relics
+	- Very surprising for him to agree with Luther
