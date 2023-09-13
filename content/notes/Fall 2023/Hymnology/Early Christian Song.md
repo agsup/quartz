@@ -190,12 +190,16 @@ enableLinkPreview: true
 	- "Gregorian Chant" is named after him (though he ***did not write any of them***, nor were they from his time)
 	- Responsible for standardizing the liturgy for the whole church
 - The Medieval Church
-	- Get notes from ppt
+	- Singing was carried out by monks/nuns in monasteries/convents
+	- Carried out by trained singers in cathedrals
+	- Congregation joins in on parts of the Ordinary (Kyrie, Gloria, Sanctus)
 - Mass
 	- Proper: texts change
 	- Ordinary: always the same
-		- Kyrie
+		- Kyrie (is in Greek, check test)
 		- Gloria
 		- Credo
 		- Sanctus
 		- Agnus Dei
+
+[Reformation Movements](notes/Fall%202023/Hymnology/Reformation%20Movements.md)
