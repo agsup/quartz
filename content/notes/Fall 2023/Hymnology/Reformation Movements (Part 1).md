@@ -188,4 +188,11 @@ title: Reformation Movements
 	- Later, others followed the stricter teachings of Jacob Ammann (Amish)
 	- The Old Amish still use the Ausbund, making it the *oldest hymnal in continuous use in the world*
 	- "Loblied" (Praise Song) is the most famous song that is often sung in worship and for special occasions
-	- 
+- We Gather Together
+	- Adrianus Valerius (1626)
+	- Seeking independence from King Philip II of Spain (Catholic Spain had taken control of some of Holland)
+- Faith of our Fathers
+	- Frederick Faber (1849, Catholic)
+	- Advocated a return to England's "rightful religion" (Catholicism) from Anglicanism (see [King Henry VIII's break from Catholicism](https://en.wikipedia.org/wiki/Henry_VIII))
+
+[[Reformation Movements (Part 2)]]
