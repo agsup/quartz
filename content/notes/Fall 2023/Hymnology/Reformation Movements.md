@@ -82,3 +82,110 @@ title: Reformation Movements
 	- Charged admission to see over 19,000 relics
 	- A person would gain an indulgence of 1,902,202 years and 270 days reduction in their purgatory sentence just for viewing the relics
 	- Very surprising for him to agree with Luther
+- Luther's first liturgy
+	- Intended for worship in cathedrals abbeys and convents
+	- Still mostly in Latin
+	- Some congregational singing
+- Luther's second liturgy
+	- Intended for local worship
+	- More layman participation in hymns
+	- Free to use parts in either Latin or German
+- Lutheran Impact on Church Music
+	- Congregational singing was considered very important
+	- Spiritual songs in German often ended with "*kyrie eleison*" (Lord have mercy) known as "Leisen"
+	- Also sang Hussite hymns
+- 1524: Achtleiderbuch
+	- Luther included 4 texts and 2 hymns that he wrote
+		- One of these was "Aus tiefer Not" ("Out of the depths" or "From deep affliction"), inspired by Psalm 130
+			- Example of "bar form" (AAB)
+- Chorales
+	- Songs intended to be sung by the congregation
+	- Instruments not used for the sake of simplicity
+	- By 1500 there were >1500 collections of chorales
+	- Contrafacta (counterfeit): using a secular tune for spiritual word
+	- "O sacred head now wounded" is a contrafact of "I'm all confused by the charms of a tender maid" by Hans Leo Hassler
+	- Ein Feste Burg ("a mighty fortress") Luther's most famous hymn
+		- Based on Psalms 46
+		- Published in a hymnal by Joseph Klug in 1529 that Luther wanted to become the official hymnal for his movement
+	- Luther felt that these chorale should all be at least inspired by the Psalms, if not directly quoting
+- Wittenburg Gesangbuch
+	- Wanted to target a more progressive music taste
+	- Hired Johann Walter to write/publish this chorale book
+	- The chorales are in four part harmony
+- 16th Century Musical Developments
+	- Placement of the melody with soprano, syllabic harmonization in the other parts
+	- Complex music was preferred again
+	- Congregational singing lowered
+- Piae Cantiones
+	- Published in Sweden in the 14th century (1582, date not important, *period is*)
+		- Contained popular Scandinavian spiritual songs
+		- Mason Neale made the tune to "Tempus adest floridium" popular in England when he set it to the words for Good King Wenceslas
+	- "Lasst uns erfreuen" ("English words are adapted from Francis of Assisi's "Canticle of the Sun") had the tune for "All Creatures of our God and King"
+		- Harmonized by Ralph Vaughn Williams (part of the Oxford Movement, discussed later in the class)
+- Praxis Pietatis Melica (practice of pious melody)
+	- Most widely known Lutheran hymnal of the 1600's
+	- Johann Crüger created this collection in 1644
+	- German hymns
+	- Nun danket alle Gott (Now thank we all our God)
+	- Jesu miene Freude (Jesus Priceless Treasure)
+		- Bach made this one famous
+- Thirty Year's War
+	- Terrible, lots of senseless killing/environmental damage
+	- Conflict between the Catholics and the Protestants
+	- Produced lots of skepticism of religious leaders in politics/theocracy in general
+- Pietism
+	- Reaction to the 30YW
+	- Led to Philip Jakob Spener
+	- He "described" the movement as a restoration of Christianity
+	- Sub-movement of Lutheranism
+	- Aimed to get to the "heart" of Christianity
+	- Personal spiritual renewal and transformation rather than corporate
+	- More extreme pietists said "Jesus is good, but we don't like the church very much"
+	- Often met in house churches
+	- Sang songs of personal testimony of about the suffering of Christ, often sung by a soloist with an organ
+	- Tunes were sweeter, more folk-like rather than the formal feel of a Lutheran chorale
+	- Joachim Neander
+		- Undisciplined student before he came to Christ
+		- Became a teacher
+		- Wrote hymns and tunes we know (retreated to a cave, "Neanderthal" transliterated from "The Valley of Neander")
+- Evolution of Lutheran Music
+	- By the beginning of the 18th century, Pietist texts were allowed in Lutheran worship
+	- The organ became more prominent and congregational singing declined
+		- As a result, many hymnals published words with no music
+	- Chorales were sung very slowly, practiced by Amish/Mennonite descendants
+- Ulrich Zwingli
+	- Zurich (Southern Switzerland)
+	- Ordained as a Catholic priest
+	- Influenced by Luther and Erasmus, but had very strong personal beliefs
+		- Erasmus
+			- Critic/satirist who wanted to reform the church
+			- From Rotterdam, Holland
+			- Remained loyal to Roman Catholicism
+			- Knew how to tread the line as to not be killed by the church
+	- Encouraged Zurich to break from Catholicism
+	- Against celibacy of priests, images in church buildings, etc.
+	- Loved music, didn't want singing in church to be elaborate, removed instruments from his churches
+	- Preferred recitation of psalms/canticles over singing
+	- Forbade instruments in worship, had organs removed
+	- Some cantons (divisions of Switzerland) followed him, some remained loyal to Rome
+	- Led to war, he died at 47
+- Anabaptists
+	- Originally followed Zwingli
+	- Believed that baptism was only for those who could confess their own faith (this excluded infant baptism, which is popular in Orthodox branches)
+	- "*Ana*" is Latin for "again"
+	- Known as the Swiss Brethren
+- Felix Manz
+	- Anabaptists were persecuted both by the Orthodox and by Zwingli's followers
+	- Manz was one of the first Anabaptist martyrs, drowned in Zurich
+- Ausbund
+	- First Anabaptist songbook
+	- Title: "Genuinely Beautiful Christian Songs Which Were Written and Song Through God's Grace by the Swiss Brethren in the Passau Castle Prison" (generally known as the Ausbund)
+	- Still used by Amish today
+	- This book will likely be on the test
+	- All songs are in Swiss German
+- Mennonites and Amish
+	- Many Anabaptists in Holland/Germany followed Menno Simons (Mennonites)
+	- Later, others followed the stricter teachings of Jacob Ammann (Amish)
+	- The Old Amish still use the Ausbund, making it the *oldest hymnal in continuous use in the world*
+	- "Loblied" (Praise Song) is the most famous song that is often sung in worship and for special occasions
+	- 
