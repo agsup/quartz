@@ -29,4 +29,175 @@ title: Reformation Movements (Part 2)
 	- 1542: Marot published 30 psalms in french verse which were very popular with the Huguenots
 	- Because of this indirect association, he was exiled from France, despite not being Huguenot himself
 	- Moved to Geneva and continued to versify the psalms in French (completed 49 psalms)
-- [St. Bartholomew Day Massacres](https://www.worldhistory.org/St._Bartholomew%27s_Day_Massacre/) (death of many Huguenots)
+- [St. Bartholomew's Day Massacres](https://www.worldhistory.org/St._Bartholomew%27s_Day_Massacre/) (death of many Huguenots)
+- Theodore Beza
+	- Calvin commissioned him first to finish a Psalter
+	- The complete Geneva Psalter was published in 1562
+	- Most tunes collected from other sources or written by [Louis Bourgeois](https://en.wikipedia.org/wiki/Louis_Bourgeois_(composer))
+- Geneva Psalter
+	- Monophonic and unaccompanied music
+	- Simple and Syllabic, only short/long rhythmic values
+	- Mostly step-wise motion
+	- Had a lilt because of this pattern, Q. Elizabeth I called them "Genevan Jigs"
+	- Also included Ten Commandments/Nunc Dimittis
+	- 125 tunes and texts in 110 meters (many meters were specific to certain Psalms)
+		- ex. Psalm 42 was 8-7-8-7-7-7-8-8
+- Aftermath
+	- Some followers began to sing spiritual songs with 4 to 5 parts at home
+	- Calvin and Bourgeois had a falling out, as Bourgeois wanted to have 4 part harmony and instruments in worship
+	- Shortly after Calvin's death, Claude Goudimel published a collection of psalm settings in 4 part harmony for "home use only"
+# English Reformation
+
+- Not about religion at all
+- Started with the Anglican Church (Henry VIII)
+	- Created because of a divorce dispute, very complicated for the Pope
+	- Would cause the disgrace of Catherine (aunt of the HRE), indirectly caused "Bloody Mary" to be illegitimate
+	- Henry married Anne Boleyn
+	- Archbishop of Canterbury annulled the previous marriage
+	- Parliament declared that the Church of England was independent from Rome
+		- King is head of the church
+	- Roman Catholic assets seized
+- Henry VIII was not a spiritual reformer <u>in any way</u>
+- Critical of Luther, banned a collection of Lutheran hymns in England
+- Had William Tyndale executed for translating the Bible into English
+- Edward VI
+- When Henry died, his son became king at age 9
+	- Thomas Cranmer, the Archbishop of Canterbury, encouraged the king to make some religious reforms
+	- They declared English the language the language of the church, and they established an English liturgy in "The Book of Common Prayer"
+	- Simplified church music
+- Lady Jane Grey
+	- Edward died of TB
+		- Cousin became queen for 9 days before being deposed and put to death
+		- Mary I ("Bloody Mary")
+	- Catherine of Aragon's daughter
+	- Became queen for 5 years
+	- Attempted to restore Catholicism
+	- Nickname gained from executing 300+ people (including the Bishop of Canterbury)
+		- Many other Protestants killed/forced to flee to mainland Europe
+	- Many moved to Geneva
+		- Upon their return, they brought Calvinism with them, including congregational psalm singing
+- Thomas Sternhold
+	- Groom of the Robes for Henry VIII/Edward VI
+	- Wanted to nurture the spiritual growth of Edward VI
+	- Worried about the influence of court ballads
+	- Set some psalms to the same meter as court ballads (became known as "common meter" for spiritual songs)
+- Act of Uniformity (1549)
+	- With the influence of Archbishop Thomas Cranmer
+	- Encouraged singing of Psalms
+- Sternhold's (Partial) Psalter
+	- First version contained 19 psalms
+	- Expanded version published after Sternhold's death
+		- Included more psalms by Sternhold and 7 elaborated by clergyman John Hopkins
+		- Became known as the "Sternhold and Hopkins Psalter" (I'll refer to it as the Old Version)
+- Anglo-Genevan Psalter
+	- Many protestants fled to Geneva during Bloody Mary's reign
+	- Took the Old Version with them
+	- Published the Psalter in 1556
+	- Two more editions published, last one contained 87 psalms
+	- Tunes in English and French
+- Elizabeth I
+	- Half sister of Bloody Mary
+	- Daughter of Henry VIII and Anne Boleyn, Protestant
+	- Refugees began to return to England
+	- Finished the Old Version
+- The Old Version
+	- Called this after it was finished (and obviously not until after the New Version)
+	- Psalms/other texts included
+	- Only 47 monophonic tunes, mostly in common meter
+	- allowed for interchangeable tunes/texts, typical of English Psalmody
+	- Private endeavor, not funded by the church
+	- 4 part version was published later by John Day
+- Anglican Worship
+	- Very formal, closely tied to Catholic tradition
+- Puritans
+	- Wanted reform from within the Anglican church
+	- Preferred congregational singing and simple music
+	- Sometimes called "dissenters"
+- Separatists/Congregationalists
+	- Saw no potential for change in the church, so separated from the Anglican church
+	- Many moved to Holland, many of the Pilgrims were separatists
+	- Used the Old Version
+	- Most practiced infant baptism, but there were some who only baptized adults, became simply called the "Baptists" (this is where the congregation of the same name comes from)
+- Division in England
+	- Most Christians in England were Anglican
+	- Some were Puritan, they showed their difference by singing loudly
+	- Puritans tended to believe that they were the only ones that would be saved (God's elect)
+	- Puritans were politically active, started to irritate the King by rivaling him politically
+- War, Execution, and new Leadership in England
+	- Civil war broke out in 1642
+	- King Charles I was executed in 1649, monarchy dissolved
+	- Oliver Cromwell (Puritan), led the country from 1649-60
+		- Viewed as religiously oppressive
+- More on the Old Version
+	- Used by nearly everyone
+	- Many editions were made over 300 years, and for 100 years it was the primary psalter in England
+- Old Hundredth
+	- William Kethe's version of Psalm 100
+	- Tune from the Genevan Psalter
+	- Same tune used for the Common Doxology ("Praise God From Whom All Blessings Flow")
+- Scotland
+	- John Knox
+		- Fled to Geneva under Mary I
+		- Returned to Scotland, led the establishment of the Reformed Protestant Church in Scotland
+		- Preached at St. Giles' Cathedral in Edinburgh
+		- Highly influential political and religious leader until his death
+	- Scottish Psalter
+		- Published in 1664
+		- 76 texts from the Old Version, with added texts from the Anglo-Genevan, plus new ones
+		- More eclectic variety than what was in the Old Version (only 12 common meter songs in the original psalter)
+		- Version 2: Every Psalm is in common meter
+		- Alternate versions were given, sometimes in different meters
+- More Psalters
+	- Parker Psalter
+		- Matthew Parker (Archbishop of Canterbury)
+		- Music for 9 of the psalms were written by [Thomas Tallis](https://en.wikipedia.org/wiki/Thomas_Tallis) (famous)
+		- Very high skill for congregational song
+	- Daman's Psalter
+		- William Daman
+		- Published in part books (a book for each part)
+	- Este's Psalter
+		- Thomas Este
+		- Published an all part version that could be read from opposite sides of a table
+			- He also gave the songs names that showed their origins (eg. [WINCHESTER](https://hymnary.org/tune/winchester_old_kirbye))
+	- Ravenscroft Psalter
+		- Thomas Ravenscroft
+		- Used tunes/texts from the Old Version
+		- Harmonized by some of the greatest composers of England
+		- Several songs were given multiple versions
+		- Parts printed separately on the same page
+			- Common technique used for madrigal books
+- Common tunes
+	- Tunes that were commonly used over various sets of words of matching meter
+- James I of England (aka. King James VI of Scotland)
+	- Famous for authorizing the translation we know as the KJV
+	- Wrote a psalter that wasn't very popular (unusual meters)
+- Playford's Psalter
+	- John and Henry Playford's publication
+	- New hymns placed after psalms, meant to be sung with the same tune
+	- Music reflected changing tastes
+	- Included instructions on singing the solfege system
+	- Asked some of the greatest composers of his day to compose the tunes
+- Lining out songs
+	- Presbyterians invented the technique
+	- Leader leads the song, congregation would respond by echoing back
+- Musical Changes in the Churches
+	- Some churches asked small groups to learn the music in advance (prototypical praise teams)
+	- Many independent churches added organs/other instruments to bolster the congregation
+	- After a subsequent increase in complexity, congregations stopped singing
+- The New Version
+	- Tate/Brady Psalter
+	- K. William III approved the use of this psalter
+	- Tate was a librettist for Purcell in [Dido and Aeneas](https://en.wikipedia.org/wiki/Dido_and_Aeneas)
+	- Brady was a chaplain for the royal family
+	- Supplement authorized by Q. Anne issued 7 years later
+- Changing tastes
+	- New Version had the most complex music in a psalter for its time
+	- Tunes were more ornate/melismatic (more than one note per syllable)
+	- Aim was to make church music more entertaining
+	- The anonymous "*Lyra Davidica*" demonstrates a more emotional, Pietist influence
+- Ainsworth Psalter (hey that's my topic!)
+	- Check out the [outline](Outline.md)
+- Bay Psalm Book
+	- see above
+- Cotton Mather
+	- see above (again)
