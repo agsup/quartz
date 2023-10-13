@@ -12,6 +12,7 @@ title: Reformation Movements (Part 2)
 - Versification of Psalms
 	- Psalms restructured to fit in a meter
 		- Ex. Psalms 23:
+		  
 > The Lord's my Shepherd I'll not want (8)
 > something something (I'll come back and fill this in)
 

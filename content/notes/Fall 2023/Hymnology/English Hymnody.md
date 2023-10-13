@@ -1,0 +1,75 @@
+---
+title: English Hymnody
+---
+
+- Why the opposition?
+	- Chance for secularism to sneak in
+	- We are not inspired of God, so we do not have the authority to write songs for Him
+	- Not directly of Scripture
+- Opposition
+	- Henry VIII
+		- Banned the use of Coverdale's "Ghoostly Psalms and Spiritual Songs"
+			- Had hymns
+		- Wither was imprisoned for not applying for a license to publish his hymnal "Hymns and Songs of the Church" in 1623
+		- Hymns were snuck into publications and eventually became more popular
+			- Day's Psalter included 6 hymns
+			- Playford's had more
+		- The 1708 supplement to the New Version had 16 hymns
+- Separatists and Hymns
+	- Separatists were early adopters
+- Benjamin Keach
+	- Pastor of a Particular Baptist church
+		- Baptists were against infant baptism
+		- *Particular* Baptists held onto *Particular* Atonement (Christ only died for the chosen)
+	- Started singing a hymn after the Lord's Supper
+		- Based in Matt 26:30
+	- Congregation split over the matter
+	- Published "Spiritual Melody"
+		- Included over 300 hymns
+	- Other Baptist churches also started singing hymns
+- Isaac Watts
+	- Father imprisoned for religious teachings (Dissenter/Separatist)
+	- Classically trained
+		- Learned Latin at age 4
+		- Learned Greek at age 9
+		- Learned French at age 11
+		- Learned Hebrew at age 13
+	- Wrote an [acrostic of his name](http://hymnpod.com/hymn-authors/isaac-watts/)
+	- Wrote his first hymn at age 16
+	- Produced >700 poetic texts for Christian singing
+	- Hymns often related to the sermon of the day
+	- Popular because of:
+		- Vivid imagery
+		- Scriptural basis
+		- Naturally flowing language
+	- Watts became a minister
+		- Started in his early 20's
+		- After his health declined he retired from preaching
+	- Publications
+		- *Horae Lyricae* (Lyrical Poems)
+		- Hymns and Spiritual Songs (1707)
+			- Divided in three parts
+				1. Poems that paraphrased Scripture
+				2. Songs on "divine subjects"
+				3. Songs for the Eucharist
+					- Included "When I Survey the Wondrous Cross"
+	- Psalm Adaptations
+		- Psalms of David: Imitated in the Language of the New Testament and Apply'd to the Christian State of Worship (1719)
+		- Versified 138 psalms
+			- Attempted to "Nationalize" and "Christianize" them
+			- Didn't versify all 150 of them because he felt they weren't relevant to Christian life
+		- Included "Joy to the World" (Psalm 98) and "Our God, Our Help in Ages Past" (Psalm 90)
+	- Watts' Later Years
+		- Sir Thomas Abney (Lord Mayor of London) invited Watts to spend a week in their estate
+			- Watts remained there for 36 years
+		- Published "Divine and Moral Songs for Children" (1715)
+			- Sold 80,000 copies in the first year!
+- Hymns in America
+	- Lots of opposition
+- The Moravians ([Review](notes/Fall%202023/Hymnology/Reformation%20Movements%20(Part%201).md#1054)])
+	- Count Nikolaus of Zinzendorf invited the Moravians to Saxony
+		- Established community called "Herrnhut" (The Lord's Watch)
+	- Zinzendorf published a hymnal in 2 volumes that included 3265 hymns
+	- Moravians sent missionaries all over the world, they have a very rich musical tradition (pretty neat!)
+- Wesley Brothers
+	- 
