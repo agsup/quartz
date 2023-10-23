@@ -1,8 +1,6 @@
 ---
 title: American Hymnody
 ---
-
-
 - Attempts to increase congregational musical literacy
 - "An Introduction to the Singing of Psalm-Tunes" (John Tufts)
 	- Used an early form of solfege (fa-sol-la-fa-sol-la-mi)
@@ -17,4 +15,21 @@ title: American Hymnody
 	- First recognized American composer of 4 part a cappella of various types
 	- "Spake and sung and thought as a man above the common abilities"
 	- Wrote "Chester" (used in the American Revolution)
+	- An "itinerant music reformer" (traveling music teacher)
+- Christian Harmony (Jeremiah Ingalls, 1805)
+	- NORTHFIELD is a popular example of a fuguing tune (staggered entrances of a motif)
+- Timothy Dwight
+	- First American to write a hymn in common use ("I Love Thy Kingdom, Lord")
+	- Grandson of Johnathan Edwards and a president of Yale
+- Oliver Holden
+	- Wrote oldest American hymn still in common use
+	- CORONATION (aka. All Hail The Power of Jesus' Name)
+- Great Revival
+	- 1801: Barton W. Stone + other Presbyterian, Baptist, and Methodist ministers held a religious renewal at Cane Ridge Meeting House
+	- Drew tens of thousands
+		- They brought food and shelters
+	- American Restoration Movement
+		- Collaborative effort between Stone and Alexander Campbell
+		- This movement spawned the Churches of Christ, Christian Churches, and Disciples of Christ
+	- Their "camp meeting songs" or "frontier songs" were catchy, simple, and repetitive
 	- 
