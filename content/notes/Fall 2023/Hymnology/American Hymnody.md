@@ -1,3 +1,8 @@
+---
+title: American Hymnody
+---
+
+
 - Attempts to increase congregational musical literacy
 - "An Introduction to the Singing of Psalm-Tunes" (John Tufts)
 	- Used an early form of solfege (fa-sol-la-fa-sol-la-mi)
