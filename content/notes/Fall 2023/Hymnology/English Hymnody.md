@@ -66,7 +66,7 @@ title: English Hymnody
 			- Sold 80,000 copies in the first year!
 - Hymns in America
 	- Lots of opposition
-- The Moravians ([Review](notes/Fall%202023/Hymnology/Reformation%20Movements%20(Part%201).md#1054)])
+- The Moravians ([Review](notes/Fall%202023/Hymnology/Reformation%20Movements%20(Part%201).md#1054))
 	- Count Nikolaus of Zinzendorf invited the Moravians to Saxony
 		- Established community called "Herrnhut" (The Lord's Watch)
 	- Zinzendorf published a hymnal in 2 volumes that included 3265 hymns
