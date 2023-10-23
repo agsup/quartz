@@ -1,0 +1,15 @@
+- Attempts to increase congregational musical literacy
+- "An Introduction to the Singing of Psalm-Tunes" (John Tufts)
+	- Used an early form of solfege (fa-sol-la-fa-sol-la-mi)
+	- Inserted the solfege letters in place of the notes on a staff
+	- Periods, colons, etc. indicated duration
+- Cotton Mather stated that the churches in Boston had been taught "regular singing" over 3 years
+- Singing school books were normally horizontal, with one line of a text per tune
+- Sometimes included harmonies (1 or 2 part)
+- An uncommon collection of 4 part songs were published by James Lyon (Urania, 1761)
+- William Billings
+	- Boston tanner, self-taught musically
+	- First recognized American composer of 4 part a cappella of various types
+	- "Spake and sung and thought as a man above the common abilities"
+	- Wrote "Chester" (used in the American Revolution)
+	- 

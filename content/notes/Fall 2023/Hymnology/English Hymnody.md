@@ -72,4 +72,70 @@ title: English Hymnody
 	- Zinzendorf published a hymnal in 2 volumes that included 3265 hymns
 	- Moravians sent missionaries all over the world, they have a very rich musical tradition (pretty neat!)
 - Wesley Brothers
-	- 
+	- John and Charles (Sons of Samuel and Susanna Wesley)
+	- John studied to become an Anglican priest like his father
+	- Charles became a student at Oxford
+	- Formed the Holy Club
+		- Study, Service, and Fasting
+	- The Holy Club was very methodical in their methods of being righteous, so they became the *Methodists*
+- Voyage to America (1735)
+	- James Oglethorpe (Gov of Georgia) invited the Wesleys to convert the "Indians" in the New World
+	- John learned German to communicate with the Moravians
+	- John studied the Zinzendorf songbook
+	- John noted the sincerity and dedication of the Moravians
+	- First hymnal published in America by John, included 5 Moravian hymns (A Collection of Psalms and Hymns)
+		- Published in Charleston, SC
+		- Also included 35 Watts hymns (adjusted to be less nationalistic/sentimental)
+		- Also first hymnal to be used in Anglican worship
+		- First *hymnal* (not a Psalter) published in America
+	- Wesley's parish did not readily accept hymns
+	- Congregation objected when John withheld communion from someone who refused his marriage proposals
+	- Accused of defamation
+	- Charles was not very successful with his mission to the Indians (too demanding/autocratic)
+	- Both return to England
+- Back in England
+	- Both brothers went to many Moravian assemblies in Aldersgate Street, Central London
+	- Both experience a spiritual conversion
+	- Conversion helped Charles with his "intemperance" (both alcohol and temper)
+-  Wesleyan Hymns
+	- Charles wrote >7000, 4000 published
+	- "Where Shall My Wondering Soil Begin" was inspired by his conversion
+	- Both brothers published another hymnal of the same name as their first, again with many Watts hymns
+- The Foundery
+	- John was a talented preacher/administrator
+	- Foundery was the headquarters of the Methodist church for many years
+	- John worked out the rules for the Methodist faith
+- Charles married Sally Gwynne, who was very musically talented
+- Charles was an itinerant preacher, eventually stopped due to exhaustion
+	- Rode on horseback from church to church on Sunday
+- Foundery Collection
+	- First stanzas with melodies
+	- Eventually included Harmony ("Sacred Harmonies")
+		- John didn't approve at first, but eventually turned
+- Wesleyan Contributions to Hymnody
+	- Methodists reached out to the non-religious
+	- Introduced invitation songs
+	- 64 collections of hymns
+	- Charles experimented with adding a refrain to his poems
+
+# Fill in some information here from Monday 10/16
+
+- Olney Hymnal
+	- Pronounced "oney" because silly Bri'ish people innit
+	- Included songs from John Newton (of Amazing Grace fame) and William Cowper (pronounced "cooper")
+- Newton
+	- British Navy deserter
+	- Became a slave ship captain
+	- Had a conversion experience
+	- Advocated for abolishing slavery
+- Amazing Grace
+	- Poem titled "Faith's review and expectation"
+	- Tune is "New Britain", written multiple decades after Newton's death
+- William Cowper
+	- Struggled with depression
+	- Helped by Morley and Mary Unwin
+	- After Morley's death, Mary moved to Olney along with Cowper
+	- Cowper missed Newton very much after his death as Newton was very influential in keeping his mental health afloat
+
+[American Hymnody](notes/Fall%202023/Hymnology/American%20Hymnody.md)
+
