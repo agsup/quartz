@@ -1,0 +1,58 @@
+---
+title: Later British Hymnody
+---
+- The "Singing Class" movement
+	- British singing schools
+	- Popular with Methodists and other "evangelical" churches who liked simpler church music
+	- Anglicans were more in line with [Mason](notes/Fall%202023/Hymnology/American%20Hymnody.md) (more sophisticated, imposing music)
+- "Sacred Melodies"
+	- Hayden, Mozart, and Beethoven tunes paired with British church poetry
+- Reginald Heber
+	- Anglican Bishop of Calcutta, India (died there at 42)
+	- Legacy of excellent poetry (Holy, Holy, Holy)
+- John Keble
+	- Priest and tutor at Oxford
+	- Worried about deflection from Anglicanism
+	- Oxford Movement
+	- Also called the Tractarian Movement (return to traditional, more formal Anglicanism)
+- John Henry Newman
+	- Anglican priest, theologian, and poet
+	- After an audience with the Pope, he converted to Catholicism
+- Francis Havergal
+	- Well educated woman
+		- Proficient in 7 languages and memorized the NT
+	- Wrote "Take my Life and Let it Be"
+- John Mason Neale and Catherine Winkworth
+	- Translators, translated many old hymns to English
+- Oxford Movement Hymnals
+	- Rugby School in Warwickshire published "Psalms and Hymns for the Use of Rugby School Chapel"
+	- High quality music with just one line for the tine to be accompanied by organ
+	- "Hymns Ancient and Modern" was the most influential Oxford Movement hymnal
+- John Dykes
+	- Most important composer of the Oxford Movement
+	- Wrote music for more than 300 hymns
+		- Wrote the tune paired with "Holy, Holy, Holy" (NICAEA)
+		- Also wrote tunes for "O for a Closer Walk with God", "Jesus, the Very Thought of Thee", and "Father, Hear the Prayer We Offer"
+- "Jerusalem"
+	- Robert Bridges: Poet Laureate of England
+	- Adapted poem by William Blake (written in 1804, adapted in 1916)
+		- Middle of WWI
+	- Commissioned Sir Hubert Parry to set the poem to music
+- Scottish Presbyterians
+	- Many psalm settings from the Scottish Psalter are in our hymnals
+	- Latter 19th century: Scottish Presbyterians started using hymns in worship
+- Welsh Hymns
+	- "Ebenezer" came from the Welsh
+	- "CWM RHONDDA" (not an abbreviation, actual Welsh words), John Hughes
+		- Named after a valley in Wales
+		- Sung to the text, "Arglewydd, arwain trwy'r anialwch" in Welsh (by William Williams, yes that's his actual name)
+- "The English Hymnal"
+	- Published by Percy Dearmer and Ralph Vaughn Williams in 1906
+	- Collaborated with Martin Shaw on 2 more very influential hymnals in the 20's
+	- Drew from tradition medieval music, incorporated folk tunes or folk like tunes
+		- Ex. "For All the Saints" (Note: this one is very good)
+		- KINGSFOLD might be from the Middle Ages
+			- Ballad meter, might be a Sternhold tune (maybe 500-ish years old)
+			  
+[[Pre-Civil-War Churches]]
+	

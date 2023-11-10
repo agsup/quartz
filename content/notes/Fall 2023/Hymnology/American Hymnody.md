@@ -32,4 +32,49 @@ title: American Hymnody
 		- Collaborative effort between Stone and Alexander Campbell
 		- This movement spawned the Churches of Christ, Christian Churches, and Disciples of Christ
 	- Their "camp meeting songs" or "frontier songs" were catchy, simple, and repetitive
-	- 
+- Southern Hymns
+	- Northeast started reverting to more formal, detached song
+	- Southern churches still embraced musical instruction/involvement
+		- Used "Christian Harmony"
+- Sacred Harp
+	- Benjamin Franklin White led singing schools in Western Georgia
+	- White and E.J. King published "Sacred Harp"
+	- Printed with shape notes
+- Southern Musical Convention
+	- Huntersville, Georgia
+	- Organized by White
+	- Included music instruction, fellowship, potlucks, revivals, performances, worship, etc.
+	- Oversaw three revisions of "Sacred Harp"
+	- Chattahoochee Musical Convention (similar) might still meet today (may have stopped due to COVID)
+- Lowell Mason
+	- *Instrumental* (ha-ha) in getting music education in Boston public schools
+	- Also stamped out participatory music in churches in the North
+	- Disliked "unscientific", "unsophisticated" music as well as the use of shape notes
+	- Thought that music for God should be civilized and complex
+- Alexander Campbell
+	- Discussed earlier on the page (co-founder of the ARM)
+	- Subscribed to the Anabaptist belief against infant baptism
+	- Highly educated
+	- Founded Bethany College
+	- Published several journals and a hymnal
+- The Instrumental Music Question
+	- Civil War
+		- Most churches had no instruments, but some wealthier churches had organs
+		- More churches added instruments after the War
+		- Led to a split in the Restoration Movement
+- Church Choirs
+	- More skilled singers were intentionally seated together
+	- Sometime they were featured alone
+- Henry Ward Beecher
+	- To revive congregational singing, he compiled a hymnal
+	- This hymnal was put in the hands of the congregation (this was not done previously)
+	- Related to Harriet Beecher Stowe
+- Ann Lee and the Shakers
+	- Moved to America from England ("Shaking Quakers")
+		- Religious/ecstatic movements
+	- Emerged from the Quaker movement
+	- Also known as the "Friends" (modern common name)
+	- Admired for their industry/creativity
+	- Famous hymn: "Simple Gifts"
+
+[[notes/Fall 2023/Hymnology/Later British Hymnody]]

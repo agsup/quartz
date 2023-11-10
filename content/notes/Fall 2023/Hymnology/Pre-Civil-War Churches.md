@@ -1,0 +1,58 @@
+---
+title: Pre-Civil-War Churches
+---
+- Anglican churches in America became known as Episcopalian
+	- North and South divisions (Northern/Southern Baptist)
+	- Northern churches were generally abolitionist, instrumental and wealthier
+	- Political and social instability caused the "Third Great Awakening" (1857)
+		- Interdenominational prayer meetings, benevolence, evangelism, Sunday Schools
+- YMCA
+	- Young Men's Christian Association
+	- Founded in London by George Williams in 1844 as a ministry
+		- Farwell Hall was the first American YMCA (1867)
+- "Gospel Songs"
+	- Easy to sing, lively, sentimental, simple (similar to camp meeting songs)
+	- Different from what we consider gospel music today
+	- Style Example: Camptown Races
+- William Bradbury
+	- Studied under Mason, but was not a snob
+	- Started a piano factory and taught singing schools
+	- Wrote in the style of the gospel song
+		- Tunes for "Jesus Loves Me", "Just As I Am", "My Hope Is Built On Nothing Less", and more
+- P. P. Bliss
+	- Met Bradbury in 1857, became an itinerant music teacher
+	- Moved to Chicago in 1864 and taught, sang, and wrote church songs
+	- Dwight Moody convinced him to go full time with his church music career
+	- Sang in evangelistic campaigns of Maj. D.W. Whittle
+	- Published  "Gospel Songs for the Gospel Meetings"
+	- Collaborated with Ira Sankey to produce "Gospel Hymns and Sacred Songs"
+	- Bliss and his wife died in a train accident in 1876
+	- Left a lot of popular songs ("Hallelujah! What a Savior", music for "It is Well With My Soul", and more, many were invitation songs)
+- Ira Sankey
+	- Collaborated with Bliss, worked for Moody as a song leader/writer and soloist
+	- Carried a harmonium (portable organ) on tour
+	- Made trips to England for gospel meetings
+	- Wrote music for "The Ninety and Nine"
+	- Also wrote "Faith is the Victory"
+- Charles Alexander and Homer Rodeheaver
+	- Transitional period: most new hymn music/text are now proper tunes
+	- Robert Harkness was Alexander's pianist
+	- Harkness developed a distinctive style that influenced future gospel piano players
+	- Rodeheaver was famous for clever banter and vocal/trombone solos
+	- Felt it was important to produce spiritual music in the style of popular songs
+- Fanny Crosby
+	- Blind from a botched medical treatment
+	- Raised by mother and grandmother (father died at young age)
+	- Wrote poems from youth and began publishing hymns
+	- Wrote at least 8000 hymns and other texts (exact number unknown because of her many pseudonyms)
+	- Texts accompanied by music from Bradbury, Sankey, Bliss, Doane, and others
+- Robert Lowry
+	- American Baptist minister and professor of literature
+	- Wrote words/tune to "Shall We Gather at the River"
+	- Wrote music for "How Can I Keep from Singing" and "Come We That Love the Lord"
+- William Kirkpatrick
+	- Music for "'Tis So Sweet to Trust in Jesus"
+	- Music for "O To Be Like Thee"
+	- Music for "A Wonderful Savior" (words by Crosby)
+	- Music and lyrics for "Lord, I'm Coming Home"
+[[20th Century]]
