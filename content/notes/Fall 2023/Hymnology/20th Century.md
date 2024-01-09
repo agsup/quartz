@@ -17,4 +17,4 @@ title: 20th Century
 	- Wrote "He Bore It All", "The New Song", "Sing and Be Happy" (yuck), "When All of God's Singers Get Home", etc.
 	- Personal Note: most of the hymns I hate come from this time period...
 		- Their cookie cutter nature and cloned chord progressions make sense as they were the first foray into commercialized Christian music. The CCM of its time. Boring, overstated, monotonous songs with (occasionally) very little theological value.
-- 
+[American Churches in the 20th Century](notes/Fall%202023/Hymnology/American%20Churches%20in%20the%2020th%20Century.md)

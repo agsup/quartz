@@ -1,0 +1,37 @@
+---
+title: Review
+---
+q- Remember polyphonic vs homophonic (same vs different times)
+- Responsorial music (cantor, call and response)
+- Synagogues arose with the destruction of the temple
+- Intoning scripture
+- Relation of 1 Cor 15 to worship/Christian song
+	- Paul was very critical of the Corinthian church
+	- Someone has a hymn, someone has a word of encouragement...
+- Eph 5:19
+	- Speak in psalms, hymns, and spiritual songs to the Lord
+- Acts 20:7-12
+	- Paul meets with them and breaks bread on the way back to Jerusalem
+- Heb 10:24-25
+	- "Do not forsake the assembly"
+- Acts 2:42-47
+	- "They broke bread together and had everything in common"
+- 50 days after Christ's death (Passover Weekend, also the Pentecost) the first church meets
+- After the fall of Jerusalem most hymns were in Greek (70 A.D.)
+- *Hymnos*: "A song of praise to a god" (any deity)
+- Oxyrhynchus hymn fragment
+	- Has pre-English music notation on it
+	- Oldest manuscript (but not oldest known hymn)
+- Constantine legalized Christianity in 313 A.D. with the Edict of Milan **(important guy, important date, important event name)**
+- Pope Gregory started codifying the liturgy (ordered Roman Catholic worship)
+- Order of Ordinary Mass
+	- Kyrie
+	- Gloria
+	- Credo
+	- Sanctus
+	- Agnus Dei
+- Proper Mass changes every week
+- St. Francis of Assisi wrote "Canticle of the Sun"
+- Luther lived in the 14-1500's
+- Pietists came from the aftermath of the 30 Years War
+- Pietists had more emotional music

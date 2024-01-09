@@ -1,0 +1,32 @@
+- Preface
+	- Church going was common
+	- Psalms, hymns, and early gospel songs were often sung (gradual addition of convention songs)
+	- Most churches were using an organ or piano
+- Societal Concerns
+	- Methodist Hymnals were very influential
+	- Fosdick's "God of Grace and Glory" appeared in the 1936 edition
+		- Written for the opening of the interdenominational Riverside Church in NYC, funded by John D. Rockefeller
+		- Usually paired with CWM RHONDDA
+	- Universalist/abolitionist John Greenleaf Whittier's poem "O Brother Man" also became popular
+		- Note: this one is very good
+- Lloyd O. Sanderson and Thomas Chisholm
+	- Composer, editor, and writer from the Churches of Christ
+	- Wrote music for "Be With Me Lord", "Bring Christ Your Broken Life", and "Buried with Christ" with words by Thomas Chisholm
+	- Chisholm also wrote words for "Great is Thy Faithfulness", "O To Be Like Thee", and "Only in Thee"
+- (African American) Gospel Music and Spirituals
+	- Heavy influence from jazz and blues
+	- Thomas Dorsey and Mahalia Jackson
+		- Dorsey: blues pianist, often called the "father of black gospel music"
+		- Altered a tune by George Allen to produce "Precious Lord, Take My Hand" (MLK Jr's favorite song)
+		- Jackson: Often performed the tune
+		- Also wrote "Peace in the Valley"
+- Fisk Jubilee Singers
+	- Sent out by Fisk University to raise money for the (African American) school
+	- Popularized many spirituals
+	- Performed at Henry Ward Beecher's church in Brooklyn and for President Grant and Queen Victoria
+- The Gaithers
+	- Early monetizer of CCM
+	- Bill Gaither with brother and sister performed in the Gaither Trio in the 50's
+	- Later, Bill's wife Gloria joined the group
+	- Bill and Gloria co-wrote "Because He Lives", "Something Beautiful", and "There's Something About That Name"
+- 
