@@ -19,7 +19,6 @@ title: Jan 12
 - "Open" and "Closed" secular (ordinary) history
 	- Open: God can work in history
 	- Closed: God cannot (leads to naturalism)
-		- Naturalism: causes such as famine, war, natural disaster, man-made problems, etc.
 - We should at least *try* to spot God's fingerprints in history
 - Theological Historians (*Providentialists*) say that God's influence in history is certain
 	- They recognize the "irreducible complexity of human experience"
@@ -31,3 +30,10 @@ title: Jan 12
 
 # Methodology/Terminology
 
+- **Historical Theology**: Studying the development of theology throughout history
+- **Theological History**: Studying history from a theological perspective
+- **Theological Historians (*Providentialists*)**: Historians that say that God's influence in history is certain
+- **Ordinary Historians**: Historians that either deny or are uncertain of God's influence on history
+- **Open Secular History**: History that says that God can work in history
+- **Closed Secular History**: History that says that God cannot work in history
+- **Naturalism**: causes such as famine, war, natural disaster, man-made problems, etc.
