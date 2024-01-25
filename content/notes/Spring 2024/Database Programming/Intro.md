@@ -70,7 +70,7 @@ title: DB Overview
 		- Set definition: a unordered collection with unique entries
 		- The difference between relations and sets: sets are unordered collections, whereas relations are unordered sets of ordered tuple entries
 		- Example:
-			- { (a, b), (c, d) } :luc_equal: { (c, d), (a,  b) } :luc_equal_not: { (a, b), (d, c) } 
+			- { (a, b), (c, d) } = { (c, d), (a,  b) } ≠ { (a, b), (d, c) } 
 	- 2NF
 		- *All* non-key attributes are dependent on *all* of the key
 		- Mostly relations with composite keys
