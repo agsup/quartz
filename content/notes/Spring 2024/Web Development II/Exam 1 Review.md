@@ -21,7 +21,6 @@ Test will cover <u>CommonJS</u> primarily
 - Backticks (\`\`) allow variable interpolation and embedded newlines (not \n, but actual line breaks in the code file)
 - Example:
 ```JS
-
 `i am a string
 with an embedded newline.`
 
@@ -33,7 +32,6 @@ with an embedded newline.`
 	- in gives properties, of gives contents (ie. of arrays)
 	- Example:
 ```JS
-
 for (let x in o) // x is a property of o
 for (let x of o) // x is an iterable content of o
 
@@ -73,3 +71,6 @@ y = fee(10); // this is a separate closure where n = 10
 ```
 - If you separate a method from its object, it will lose its object scope (ex. `this` keyword)
 	- To mitigate this, if you require a function passed as an arg you can put the method ran on the object in a lambda
+- Definitions:
+	- Module: file (in a general sense, a group of related code)
+	- Namespace object: an object used as a "struct" to export things as groups and avoid name conflicts
