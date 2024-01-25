@@ -1,7 +1,7 @@
 ---
 title: Early Eighteenth Century
 ---
-  # Recap
+# Recap
 
 - Eras of Music History
 	- Early (Greece)
@@ -136,4 +136,110 @@ title: Early Eighteenth Century
 	- First to bring elements into a unified system
 	- Harmonic practices could be described in universal laws
 		- Approached primary model for teaching musicians
-	- 
+
+# Bach
+
+- Trained in a family of musicians and composers
+- Virtuoso organist and keyboard player, skilled violinist
+- Embraced and excelled at all major songs, forms, and genres (except opera)
+- Religion intertwined with his music
+- Upbringing
+	- Youngest of 8, orphaned at 10
+	- Raised by organist brother
+- Career
+	- First positions were as a church organist in Arnstadt and Muhlhausen
+	- Was difficult with employers, dissatisfied with choirs, insulted a bassoon player, etc.
+	- One student attacked him with a stick
+	- Once asked for a 4 month leave, and was gone for 4 months
+	- 1703: Court musician for Duke Johann Enrst III, Weimar
+	- 1703: Organist for new church in Anhalt
+	- 1708: Court musician for Duke of Weimar
+	- 1717: Kapellmeister at court of Prince Leopold of Anhalt in Cöthen
+	- 1723: Cantor of St. Thomas School in Leipzig, taught music and provided music for 4 churches in the city
+- Married twice
+	- Maria Barbara Bach, 7 children
+	- Anna Magdalena Wilcke, 13 children
+	- First child born at 23, last born at 57
+- [Bach-Werke-Verzeichnis](https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis) (Bach Works Catalog)
+	- System for organizing Bach's works
+	- Not chronological, organized by style
+- Major Works
+	- St. Matthew Passion
+	- St. John Passion
+	- Mass in B Minor
+	- 200 church cantatas
+	- 20 secular cantatas
+	- 200 organ chorales and 70 other works for organ
+	- *Brandenburg Concertos*
+	- *The Well-Tempered Clavier*
+	- *Clavier-Übung*
+	- *Musical Offering*
+	- *The Art of Fugue*
+	- Numerous other keyboard, ensemble, orchestral and sacred compositions
+- Christianity
+	- Studied Bible deeply
+	- Sometime referred to as the fifth evangelist because of his Cantatas and Passions
+	- Nearly 3/4 of music written for worship use
+	- Added J.J. (*Jesus Juva*, meaning "Jesus, help me") to the beginning of many pieces
+	- Added "S.D.G." or *Soli Deo Gloria* (To God Alone the Glory)
+- Composed practically to fulfill the needs of the client
+- Was not seen as the greatest composer in his time
+- Organ Music
+	- Genres used in Lutheran services
+		- Chorale settings (preludes), toccatas, fantasias, preludes, fugues
+		- Familiar with organ music by northern and southern Germans, Italians, and French
+		- Distinctive style: very imaginative, master of counterpoint, virtuosity, and extensive use of pedals
+		- Renowned improviser
+	- Vivaldi's influence
+		- Arranged several Vivaldi concertos for organ/harpsichord solos
+		- Concise themes, clarified harmonic scheme, developed subjects, ritornello
+	- Orgelbuchlein
+- Harpsichord Music
+	- Masterpieces in every current genre (that Bach used)
+		- Suites: Three sets of six
+			- English Suites
+			- French Suites
+			- Partitas
+		- "French" and "English", not Bach's original title
+		- Standard dance movements
+			- English suites have virtuosic preludes
+			- French only had dance movements
+			- All contain Allemande, Courante, and Sarabande
+				- Other dance movements include Minuet, Bouree, Gigue, Gavotte, etc.
+			- Partitas were his first published compositions (1731)
+				- More demanding and adventurous than the English/French suites
+- Well-Tempered Clavier Books 1 and 2
+	- Each has 24 prelude and fugue parts in each major/minor key
+	- Arranged in rising chromatic order
+	- Demonstrate playing in all keys with near-equal temperament
+- Goldberg Variations
+	- 30 variations on a single theme preserving bass and harmonic structure
+	- Every third variation is a canon
+		- First at interval of unison, second at a 2nd, and so on
+	- Most technically demanding keyboard work composed before the 19th century
+	- One of the few works published in Bach's lifetime
+	- Inspired countless imitators since
+	- Bach's later works: Art of Fugue, Musical Offering
+- The Art of Fugue (Unfinished)
+	- Demonstrates all types of fugal writing
+	- Written in score, intended for keyboard performance
+	- 14 fugues and 4 canons in strict counterpoint
+	- One subject includes Bach's name in notation (Bb-A-C-B, B-A-C-H in German)
+	- Simple melodies set in the most complex and elaborate counterpoint
+- Chamber music
+	- 15 sonatas for solo instruments and harpsichord
+		- 6 each for violin and flute, 3 for viola da gamba
+		- Most have 4 movements: slow-fast-slow-fast
+		- Right hand harpsichord part in counterpoint with solo instrument
+	- Works for unaccompanied instruments
+		- Six sonatas and partitas for violin, six suites for cello, partita for solo flute
+		- Illusion of harmonic and contrapuntal texture in a single melodic line
+- Orchestral
+	- Brandenburg Concertos, dedicated in 1721 to the Margrave of Brandenburg
+		- From Italian concerto
+			- All but first in three-movement fast-slow-fast order
+			- Triadic themes, steady driving rhythms, ritornello forms
+		- Expanded on Italian model from Vivaldi, Torelli, etc.
+			- More ritornello material into the episodes
+			- dialogue between soloists and orchestra within eposides
+			- long cadenza for harpsichord in the fifth concerto

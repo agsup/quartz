@@ -4,4 +4,4 @@ title: Church History
 
 # Class Notes
 
-- [Jan 12](notes/Spring%202024/Church%20History/Class%20Notes/Jan%2012.md)
+- [Exam 1 Notes](notes/Spring%202024/Church%20History/Class%20Notes/Exam%201%20Notes.md)
