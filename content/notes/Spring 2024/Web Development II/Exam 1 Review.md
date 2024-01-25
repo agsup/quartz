@@ -38,3 +38,38 @@ for (let x in o) // x is a property of o
 for (let x of o) // x is an iterable content of o
 
 ```
+- == vs ===
+- "Truthiness" vs "Trueness" (kind of true vs actually the same type and value)
+	- Example:
+```JS
+1 == "1" // true
+
+1 === "1" // false
+
+```
+- Object assignment
+	- Oops! All references!
+	- Example:
+```JS
+let a = new Object();
+let b = a;
+
+b.x = 0;
+
+a.x === b.x // true
+
+```
+- Arrow notation (yay)
+- Closure
+	- A function with data that it has captured
+	- Example
+```JS
+function fee(n) {      // this is the closure
+	return m => m + n; // this is the captured data
+}
+
+x = fee(5);  // this is a closure where n = 5
+y = fee(10); // this is a separate closure where n = 10
+```
+- If you separate a method from its object, it will lose its object scope (ex. `this` keyword)
+	- To mitigate this, if you require a function passed as an arg you can put the method ran on the object in a lambda
