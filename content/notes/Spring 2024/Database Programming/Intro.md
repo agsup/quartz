@@ -84,7 +84,7 @@ title: DB Overview
 		- "3.5NF"
 		- Added retroactively
 		- 3NF + every *determinant* is a *candidate key*
-		- Determinant: One or more attributes that determine each other
+		- Determinant: One or more attributes that determine a dependent attribute
 		- Candidate key: 
 		- Fix: if a -> b, c -> b in one table, split table
 	- 4NF
