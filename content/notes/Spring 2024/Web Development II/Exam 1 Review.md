@@ -36,7 +36,7 @@ for (let x in o) // x is a property of o
 for (let x of o) // x is an iterable content of o
 
 ```
-- == vs ===
+- Double vs triple equals
 - "Truthiness" vs "Trueness" (kind of true vs actually the same type and value)
 	- Example:
 ```JS
@@ -74,3 +74,12 @@ y = fee(10); // this is a separate closure where n = 10
 - Definitions:
 	- Module: file (in a general sense, a group of related code)
 	- Namespace object: an object used as a "struct" to export things as groups and avoid name conflicts
+- NodeJS
+	- JavaScript Runtime Engine for the console
+	- Node Package: any directory that contains `package.json`
+- server.listen(x), x = port number
+
+# TODO:
+
+- Try out nodemon
+- 

@@ -1,11 +1,11 @@
 // Add your own CSS here!
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Jua&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Jua&family=Azeret+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
 
 :root {
   --font-body: "Atkinson Hyperlegible";
   --font-header: "Atkinson Hyperlegible";
-  --font-mono: "Geologica";
+  --font-mono: "Azeret Mono", monospace;
 }
 
 html {
