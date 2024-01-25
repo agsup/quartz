@@ -1,3 +1,7 @@
+---
+title: American Churches in the 20th Century
+---
+
 - Preface
 	- Church going was common
 	- Psalms, hymns, and early gospel songs were often sung (gradual addition of convention songs)
