@@ -1,15 +1,14 @@
 // Add your own CSS here!
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Jua&family=Azeret+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Jua&display=swap');
 
 :root {
   --font-body: "Atkinson Hyperlegible";
   --font-header: "Atkinson Hyperlegible";
-  --font-mono: "Azeret Mono", monospace;
+  --font-mono: "Fira Code"
 }
 
 html {
-  --accent: #914E31;
+  --accent: #F5CE4E;
 }
 
 :root {

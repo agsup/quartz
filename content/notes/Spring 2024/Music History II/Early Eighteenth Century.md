@@ -243,3 +243,32 @@ title: Early Eighteenth Century
 			- More ritornello material into the episodes
 			- dialogue between soloists and orchestra within eposides
 			- long cadenza for harpsichord in the fifth concerto
+- Cantatas
+	- Erdmann Neumeister
+		- Added poetic texts for Bach, intended as recitatives, arias, ariosos
+		- Tradition of the past:  chorale, solo song
+		- Powerful elements of operatic recitative and aria
+	- Church Services
+		- Two main services (St. Nicholas and St. Thomas)
+		- Cantata on alternate Sundays
+		- Soloist and two or three ripienists for each voice part
+	- Small orchestra: strings w/ continuo, two or three oboes, one or two bassoons
+		- Sometimes flutes, trumpets and timpani on special occasions
+	- Cantata cycles
+		- 58 each year for Leipzig churches
+		- Bach composed at least three complete annual cycles
+		- Approx. 200 church cantatas preserved
+		- 20 secular cantatas for Weimar, Cöthen, Leipzig
+	- *Num komm, der Heiden Heiland* (BWV 62)
+		- Second cycle for Leipzig, based on chorale
+	- Structure
+		- Hymn (Latin)
+		- Chorale (German, from here on out)
+		- Recitative (very concise and to the point, almost like an interlude/intermission)
+		- Aria
+		- Recitative
+		- Aria
+		- Chorale
+		- Chorale
+	- More modern Italian style, but with old-style counterpoint
+	- 

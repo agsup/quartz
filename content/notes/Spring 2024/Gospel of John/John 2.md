@@ -14,7 +14,10 @@ title: John 2
 - Jesus is the fulfillment of ceremonial washing (the new wine replacing the old)
 - Jesus reveals his glory through this miracle
 	- Shows creative force in this moment
-- Brings life to the party (figuratively and literally
+- Brings life to the party (figuratively and literally)
+- 
 
 
 [Understanding Scripture](notes/Spring%202024/Gospel%20of%20John/Understanding%20Scripture.md)
+
+[](John%203)

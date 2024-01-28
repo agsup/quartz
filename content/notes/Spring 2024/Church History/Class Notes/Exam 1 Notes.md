@@ -52,13 +52,23 @@ title: Exam 1 Notes
 	- Changes in worship
 		- Images and statues
 		- Instrumental music introduced
-		- Less participation by laity
-		- Vestments worn by priests
+		- Less participation by laity (Note: Everything was in Latin)
+		- Vestments (special robes) worn by priests
+			- Fun fact: connected to academic regalia
 		- Eucharist received infrequently (once a year)
+			- Note: offered much more frequently than that
 		- Eucharist converted to Mass (reenactment of the passion)
-			- Transubstantiation
+			- Transubstantiation (the bread and wine turn *literally* into the body/blood of Christ)
 			- Laity refused the cup (communion in one kind)
+				- The communicant received communion through the priest, and pouring the cup without spilling was difficult and "risky"
 			- "ocular" or "spiritual" communion
+	- Changes in Life
+		- No longer viewed as aliens and strangers (Christendom)
+		- No more missionary zeal
+			- if everyone in the society is Christian, then no need for evangelism (except for crusades of course...)
+		- Ethical demands of the gospel only for a chosen few
+		- Ritual more important than morality
+			- Not being literally perpetuated, but culturally perpetuated
 - Seven Sacraments
 	1. Baptism
 		- Child baptisms were common because of Original Sin doctrine (commonly held back then)
@@ -98,3 +108,4 @@ title: Exam 1 Notes
 - **Purgatory**: An intermediate place between heaven and hell where one goes to pay unpaid satisfaction (see section in notes)
 - **Indulgence**: Relief from temporal punishment; for the repentant saved, acts as satisfaction
 - **Plenary Indulgence**: Full relief, used to support the crusades
+- Transubstantiation: The bread and wine taken during Eucharist turn *literally* into the body/blood of Christ when consecrated

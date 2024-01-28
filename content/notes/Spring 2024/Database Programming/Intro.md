@@ -90,10 +90,93 @@ title: DB Overview
 	- 4NF
 		- BCNF + no multivalued dependencies
 		- Multidetermination: a ->-> b: given a we can look up/calculate one or more values for b
-		- Multivalued dependency: if a ->-> b and a ->(->) c
+		- Multivalued dependency: if a ->-> b *and* a ->(->) c
 			- If a multidetermines b, it should not functionally determine anything else
 			- If this occurs every permutation of a set of keys must be accounted for
 				- If a ->-> b and a ->-> c, then table must include (a, b1), (a, b2), (a, c1), and (a, c2) (very cluttered)
+	- 5NF
+		- Definition is not important
+		- Essence: to prevent dividing into sub-relations in such a way that the original cannot be reconstructed
+		- More of a theoretical result than a practical one
+	- DK/NF
+		- Every *constraint* on the relation is a *logical consequence* of the definition of *domains* and *keys*
+			- Constraint: Integrity rule; functional dependencies, rules on intra/interrelations
+			- Logical Consequence: derivable using the rules of logic (Provable)
+			- Domain: set of all possible values that an attribute can have (this proof uses physical domain only)
+			- Physical Domain: possible values based on a physical rule (ex. zip code is a 5 digit number)
+				- Not always necessarily specific enough for accuracy (some 5 digit numbers are invalid zip codes)
+		- One theme per relation
+		- DK/NF iff (if and only if) no modification anomalies
+			- DK/NF was defined specifically to pass this proof
+			- The proof goes both ways (DK/NF if no anomalies, no anomalies if DK/NF)
+		- No formal algorithm/methodology to convert a relation into DK/NF
+		- Can test to see if you have it
+		- Rules to satisfy and rules to avoid (normalization)
+		- 4NF is so close to DK/NF that the requirements are often easy to meet if not already met
+		- Mathematically proving DK/NF is too much work to be useful
+			- Use normalization and intuition
+# Synthesis
+## Relations
+
+- Rules for deciding if two attributes can be in the same relation
+	- Based on 3 possible relationships between 2 attributes (NOT entities)
+		1. 1:1 (one to one)
+			- a -> b and b -> a
+			- They may be in the same relation, either may be the key (choose one and stay with it)
+			- All other attributes must be functionally determined by the key
+			- Example: SSN and H#
+		1. 1:M (one to many)
+			- a -> b and b ->-> a
+			- Key must be a
+			- All other attributes must be functionally determined by the key
+			- Example: SSN and Dorm (every SSN has one dorm room, every dorm has more than one SSN)
+		1. M:N (many to many)
+			- a ->-> b and b ->-> a
+			- If alone together in relation, key must be composite of both
+			- Any other attributes which may be added must be functionally determined by entire composite key
+			- If a new attribute expands the key, the theme has changed and the relation should be renamed
+			- Two different M:N relationships will need two different relations
+			- Example: H# and CRN (a student can take multiple classes, a class can have multiple students)
+
+## Assessing Structure of an Existing DB
+
+- Count rows and examine columns
+- Examine values and interview to determine:
+	- Multivalued dependencies
+	- Functional dependencies
+	- Candidate keys
+	- Primary keys
+	- Foreign keys
+- Assess validity of referential integrity constraints
+
+## Normalize or Not?
+
+- Pros
+	- Eliminate modification anomalies
+	- Reduce duplicate data
+	- Enhance data integrity
+- Cons
+	- More complicated SQL for queries
+	- Slower DBMS (more work)
+- Updatable (writeable) vs Read-Only
+	- Different design guidelines and priorities
+	- Duplication/Denormalization is OK for read-only
+	- Joined tables may be stored for read-only
+	- Know when to break the rules
+		- Example: Student(<u>SSN</u>, Name, Street, City, State, Zip)
+			- Not in 3NF or BCNF because Zip -> (City, State), but is not a candidate key
+			- Fix: Split
+			- Issues of fixing:
+				- Table loses ease/speed of access
+				- Loss of stability of zip codes
+
+# Walmart Problem
+
+- Draw ERD
+- Give set of normalized relations
+- C: 3-4
+- D: 2-3
+- B: one is enough, could be none
 # POI
 
 - Data Independence is very important!
@@ -108,5 +191,8 @@ title: DB Overview
 	- Underlying applications must be looked at to determine what a key should be
 - Theme: The most important thing about a table (what it stores, in a short descriptive title)
 	- General rule: if there are multiple themes (the theme contains an "and"), the table can be split
-
-Homework: Don't do N or O
+- Note: to redesign a table, you can simply say name_of_table(<u>key</u>, col, col)
+	- The name of the table should *ideally* be related to the theme
+	- Make sure to underline the key
+- Remember "One theme per relation" for the test (DK/NF)
+- Logical db design is the most important skill the class teaches
