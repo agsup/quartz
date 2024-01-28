@@ -1,3 +1,0 @@
-## Who are you finding it difficult to forgive? Will you forgive them?
-
-- I had an ex who I had known for the majority of my life. She was often mean-spirited, but I gave her a chance because we had known each other for so long. Many months after we broke up, we got into a fight over text because I felt ignored and hurt as a friend. I have forgiven her for as much of that is from her (much of the blame is on me), but we don't talk anymore as I feel like a friendship with her isn't (and wasn't) very healthy for me.
