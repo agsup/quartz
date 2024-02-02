@@ -271,4 +271,111 @@ title: Early Eighteenth Century
 		- Chorale
 		- Chorale
 	- More modern Italian style, but with old-style counterpoint
-	- 
+
+# Handel
+
+- Now recognized as one of the greatest composers in his era
+	- Born in Halle, Germany
+	- Studied organ, harpsichord, counterpoint (German and Italian traditions)
+	- Violinist in opera house orchestra in Hamburg
+	- Traveled to Italy, recognized as composer
+- Moved to London supported by the British royal family
+	- Highly successful public concerts
+- Works:
+	- 20+ oratorios (*Messiah, Saul, Samson, Israel in Egypt*)
+	- 40+ Italian operas
+		- *Giulio Cesare* (Julius Caesar)
+	- 100 cantatas
+	- 45 concertos
+	- 20 trio sonatas, 20 solo sonatas
+	- Numerous keyboard pieces
+	- Orchestral pieces (*Water Music, Music for the Royal Fireworks*)
+- Extremely popular
+	- 12,000 people at a *rehearsal* for *Music for the Royal Fireworks*
+	- Three reasons for Handel's popularity:
+		1. Understood public interest and tastes and capitalized on them
+		2. Keen business/marketing sense
+		3. Adaptable and cosmopolitan style of composition (German, French, and Italian)
+- Handel and his patrons
+	- Patrons determined compositions, their support allowed him to write for the public
+	- Court music director for Elector of Hanover, who later became King George II of England
+	- Established himself in London
+	- British monarchs, Queen Anne, ceremonial choral works
+		- Sizable income, minimal responsibilities
+		- Honorary appointment as composer for the Chapel Royal
+	- Most of his activities were public
+- Operas
+	- International style
+		- *Almira* premiered in Hamburg
+			- Some arias in Italian, others and all recitatives in German
+				- Overture and dance music used French models
+			- Arias in Italian (da capo style)
+- Handel as impresario
+	- Royal Academy dissolved in 1729
+	- Handel and a partner took over the theater, formed a new company
+	- Competing companies, divided the London public
+	- *Impresario*: opera producer
+		- In charge of finding a librettist (lyricist), composer, etc.
+		- Handel did his own composition for his operas (of course)
+- Recitative styles
+	- Recitativo secco (dry recitative)
+		- basso continuo, more speech-like
+	- Recitativo accompagnato (accompanied recitative)
+		- Orchestral outbursts dramatize tense situations
+		- Rapid changes of emotion, punctuated by orchestra
+	- Arias
+		- Solo da capo: single specific mood or affection
+			- Allocated by importance of cast members
+			- Prima donna ("first lady"), leading soprano role, most and best arias
+			- Handel wrote for specific singers, showcased their abilities
+		- Used other varities of aria types
+			- Coloratura: brilliant displays, florid ornamentation
+			- Very expressive, emotive songs
+			- Regal grandeur, rich contrapuntal and concertato accompaniments
+	- Scene complexes
+		- Recitative freely combined arias, ariosos, and orchestral passages
+			- Opens with dialogue in simple recitative
+- Oratorio
+	- Like an opera, but with less acting
+		- Not staged
+		- No scenery
+		- No elaborate costuming
+		- Concert for an opera-like work
+		- Opera-Lite™
+	- English Oratorio
+		- Italian tradition: dialogue in recitative, lyrical verses in arias
+		- Elements foreign to Italian opera
+			- French classical drama
+			- Ancient Greek tragedy
+			- German Passion
+			- English masque and anthem
+		- Oratorios featured in theaters
+		- Esther premiered at King's Theatre in 1732
+	- Use of Chorus
+		- Influenced by English choral tradition
+	- Saul (1739)
+	- Messiah (1741)
+		- Mix of influences
+			- French overture
+			- Italian recitatives and da capo arias
+			- Germanic choral fugues
+			- English choral anthem style
+	- Performances
+		- Handel played organ himself during intermission
+		- No staging/costumes, less expensive
+		- Appealed to the middle class
+	- Librettos
+		- Messiah advertised as sacred entertainment
+		- Handel's oratorios based on Old Testament and Apocryphal books, well known to middle class
+	- Borrowing and reworking
+		- Borrowing, transcribing, parody, etc. was considered common practice
+		- Handel borrowed from others or reused his own music
+	- Instrumental works
+		- Much was published in London
+		- Extra income
+		- Two collections of harpsichord muites, 20 solo sonatas, trio sonatas for various instruments
+		- Works show Corelli influence
+		- *Water Music*
+		- *Music for the Royal Fireworks*
+			  
+[[chap 19 notes]]

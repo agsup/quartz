@@ -93,7 +93,82 @@ title: Exam 1 Notes
 	- This allows people to pay off their satisfaction and enter the presence of God
 - Indulgences
 	- Started to become akin to bribery/paying one's way into heaven
-  
+
+# Avignon Papacy
+
+- Pope Clement V moves the papacy into Avignon, France
+- (Retroactively) nicknamed the "Babylonian Captivity of the Papacy" (70 years)
+- All of the popes from this period are French popes
+- All weak
+- All controlled by the French kings
+- No one liked this (except the French)
+- Ends when the seventh pope moves back to Rome
+	- He thought it was temporary, it wasn't
+	- Dies in Rome, next pope stays in Rome as well
+# Great Papal Schism
+
+- After Avignon, Urban is elected pope and goes nutzo (dictator-tot)
+- Everyone hates Urban so the vote is recast, and the "new" pope is housed back in Avignon
+- Now there are two popes
+- Europe splits based on loyalty to the Avignon or Roman pope
+- Conciliarism
+	- Fix the schism by subjecting the pope to the authority of a general council
+	- Pierre d'Ailly and Jean de Gerson: important figures for assembling councils
+	- Important councils
+		- Pisa: deposed 2 popes, elected a third (the two active popes refuse to yield to the council, so there are now three active popes)
+		- Constance: deposed 2 popes, third resigns, ends schism
+		- Basel: elected unrecognized pope, ends conciliarism
+
+# John Wyclif
+
+- Englishman, lived through the Avignon Papacy, was skeptical of the pope
+- Well educated Oxford professor
+- Protected by the King, so is free to state his mind about biblical topics without repercussion from the papacy
+- Aided in some of the first English translations of the Bible
+- Followers of his were called Lollards
+
+# Charles IV
+
+- Half-"Czech" (Half-Bohemian)
+- Moves HRE capital to Prague
+- Founds University in Prague (1348)
+- Has many church buildings established
+- Sets up the system so that his children could also be HREmperors
+	- Vaclav IV
+		- Firstborn, becomes HREmperor
+		- Incompetent as a ruler
+		- The worst choice for a ruler
+		- HRE has a disease and a crime wave under his rule
+	- Sigismund
+		- Married off to be King of Hungary
+
+# Jan Hus (based boi)
+
+- Attend's Charles' University in Prague
+- Begins teaching at the university
+- Ordained priest
+	- Bethlehem Chapel
+- Preached in Czech
+- Preached of moral reform within the church
+- Czech students studying at Oxford bring back Wyclif's writings, spreading their popularity
+- 3 groups concerning Wyclif's writings
+	- Some thought it was heretical (mostly German)
+	- Some thought it was good (mostly Czech)
+	- Some thought it was worth discussing from an academic perspective
+- Hus takes great influence from Wyclif
+- *De Ecclesia* (On/About the Church)
+	- Lifts Wyclif's words
+- Didn't believe all of Wyclif's teachings, but not all
+	- Believed Jesus was head of the church
+	- Believed Scripture was the highest authority (not Pope)
+	- Believes transubstantiation (opposite Wyclif)
+- Loses the support of the King (Vaclav, though Sigismund was the elect)
+- Hus guaranteed safe passage to/from Constance
+	- Does not have it in writing
+	- Wrongly arrested in Constance, burned at the stake there after refusing to renounce his teachings
+- Hus remains in contact with Jakoubek of Stříbro while in prison, they agree to allow the laity to take communion in both kinds
+- 
+
 # Methodology/Terminology
 
 - **Historical Theology**: Studying the development of theology throughout history
@@ -108,4 +183,5 @@ title: Exam 1 Notes
 - **Purgatory**: An intermediate place between heaven and hell where one goes to pay unpaid satisfaction (see section in notes)
 - **Indulgence**: Relief from temporal punishment; for the repentant saved, acts as satisfaction
 - **Plenary Indulgence**: Full relief, used to support the crusades
-- Transubstantiation: The bread and wine taken during Eucharist turn *literally* into the body/blood of Christ when consecrated
+- **Transubstantiation**: The bread and wine taken during Eucharist turn *literally* into the body/blood of Christ when consecrated
+- **Council**: a gathering for the purpose of solving a dispute

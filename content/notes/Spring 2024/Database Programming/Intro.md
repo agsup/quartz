@@ -1,7 +1,7 @@
 ---
 title: DB Overview
 ---
-# Big Picture
+`# Big Picture
 
 - At the base of the operation is a disk containing the data
 - The disk controller interfaces with the disk to access data
@@ -170,13 +170,68 @@ title: DB Overview
 				- Table loses ease/speed of access
 				- Loss of stability of zip codes
 
-# Walmart Problem
+# The Data Model
 
-- Draw ERD
-- Give set of normalized relations
-- C: 3-4
-- D: 2-3
-- B: one is enough, could be none
+- A plan/blueprint for a database design
+- More generalized/abstract than a database design
+- Easier to change than a database design, appropriate place to visualize concepts
+- Approaches
+	- ERD - Top Down - Table to Table
+	- SOD (Semantic Object Diagram) - Bottom Up - Row to Row
+	- RT (Relational Theory) - Inside Out - Col to Col
+-  ER Model
+	- Made by Peter Chen in 1976
+	- many variations, not a set standard
+	- Rectangles for entity classes
+	- Diamonds for relationships
+	- ***Do not*** use "balloon" attributes
+		- Speech bubble lookin ahh
+- Cardinality
+	- Minimum Cardinality: smallest number of instances in a relationship
+		- 0/1 notation (hashmark) (0 is optional, 1 is required)
+		- Min cardinality for marriage states that the relation is 1:1, but could be 0:0
+		- For students and cars, there can be a carless student but not a studentless car (1:0)
+	- Maximum Cardinality: largest number of instances in a relationship
+		- Maximum Cardinality defines three types of binary relationships (1:1, 1:M, M:N)
+- Multiple Associations
+	- Possible even likely
+	- Don't confuse instances
+	- Ex. Men *can* have married relation to women, only *certain* men have that relation to *certain* women
+- Weak Entities
+	- Cannot exist without another entity
+	- Drawn with rounded corners on the rectangle
+	- Examples:
+		- Dependent w/o employee
+		- Appointment w/o client
+	- ID-dependent weak entities
+		- Entities that don't have their own key
+		- Ex. Dr. Baird's children didn't have their own insurance keys, they were registered under his
+- Sub/Supertypes
+	- Generalization hierarchies
+	- "is-a" relationships
+	- Parent/child concept
+	- Ideas of inheritance from OOP
+	- Drawn without a diamond
+	- Arc between subtypes can be drawn with a number to say how many subtypes an object can have
+		- Ex. arc with number 1 between salaried and hourly worker says that you an only be one of the two
+- Recursive Relationships
+	- An entity has a relationship with itself
+	- May be 1:1, 1:M, or M:N
+		- Rules are similar to non-recursive relationships
+	- Ex. Engine pulls boxcar, *boxcar pulls boxcar*, boxcar pulls boxcar pulls boxcar...
+	- Drawn by directing the line back to the entity of origin (as you would expect)
+- BOMP Pattern
+	- **B**ill **O**f **M**aterials **P**rocessing
+	- Name used for any many to many recursive relationship (regardless of its relation to engineering)
+	- "Assembly contains Assembly" (Part can be made up of other Parts)
+- M:N vs. Association Pattern
+	- Ex. Student and Course (M:N)
+	- Where does the grade go?
+		- The intersection, along with the details of a specific student's relation (H#, CRN, etc.)
+	- M:N are implemented with intersection relations
+	- Most M:N are in the association pattern
+		- Rare to have an intersection without additional attributes
+
 # POI
 
 - Data Independence is very important!
@@ -196,3 +251,27 @@ title: DB Overview
 	- Make sure to underline the key
 - Remember "One theme per relation" for the test (DK/NF)
 - Logical db design is the most important skill the class teaches
+- Entity vs. Entity Class vs. Entity Instance
+	- Semi-trick question: Entity = Entity Class (ex. "Student Entity" does not refer to a specific student)
+	- Entity Instance is a specific example of an Entity (ex. Greg is an Entity Instance for Student)
+- Attribute: Something which describes an entity
+- Classifying Queries using A(E) = V
+	- Attribute of entity = value (ex. "hair color" of "Greg" = "black")
+	- Query of "what is Greg's hair color?" can be A(E) = ?
+	- Other examples: A(?) = V, A(?) < V, ?(E) = V, etc.
+	- Multiple question marks are possible (ex. ?(?) = V could mean "I have a number. Whose is it, and what does it represent?")
+
+# ERD Rules
+
+- Put relation *name* in the diamond (ex. store has dept.)
+	- Do NOT put relation *type* in diamond (1:M)
+- Only make rectangles of *entities*
+	- Multiple instances
+	- Has attributes
+		- Note: it is possible (but rare) that there is only one attribute for an entity class
+- Simply determine entities, determine relations (names), and connect them with relation (types)
+- At *minimum*, for a M:N relation the key will be that of both parents combined
+- Intersection relation
+	- relation that connects two entities
+	- This relation can have properties (elk problem: this ranger saw this elk at this date at this location aka. ranger sees elk)
+	- Can name relation in diamond or connect with an entity (more verbose)

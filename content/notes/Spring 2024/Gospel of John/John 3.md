@@ -36,4 +36,5 @@
 	- remedy for rebellious complaining people
 	- Anti-type of the Christ
 	- We are all bitten with the deadly venom of sin, Jesus is the cure
-	- 
+
+[John 4](notes/Spring%202024/Gospel%20of%20John/John%204.md)
