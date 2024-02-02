@@ -373,9 +373,68 @@ title: Early Eighteenth Century
 	- Instrumental works
 		- Much was published in London
 		- Extra income
-		- Two collections of harpsichord muites, 20 solo sonatas, trio sonatas for various instruments
+		- Two collections of harpsichord suites, 20 solo sonatas, trio sonatas for various instruments
 		- Works show Corelli influence
 		- *Water Music*
 		- *Music for the Royal Fireworks*
-			  
+- Enlightenment
+	- Europe dominated by strong political powers (France, Britain, Prussia, Austria, Russia)
+		- Italy and Germany keep independence
+		- Revolutions in american and France impact Europe
+		- Economic change and rapid increase in population
+			- Urban middle class rose in numbers, wealth, social prominence
+			- Aristocracy's importance diminished
+	- Cosmopolitan society
+		- Marriages between powerful families, foreign-born rulers
+		- Intellectuals and artists traveled widely
+	- "International" musical/artistic style emerged emphasizing
+		- Order/Structure
+		- Balance
+		- Clarity
+		- Emphasis on the natural
+	- Central themes: reason, nature, progress
+		- Individual rights
+		- Role of state: improve the human condition
+		- Individual faith, practical morality over church
+		- Promoted universal education, social equality
+	- The *Philosophes*
+		- French thinkers, social reformers: Voltaire, Jean-Jacques Rousseau
+			- Proposed ideas about individual human rights
+			- Other key Enlightenment figures include Newton and Locke
+	- Humanitarianism
+		- Rules promoted social reform
+		- Programs expanded education, care for the poor
+		- Freemasonry: teaching of secret fraternal order of Masons
+- Social roles for music
+	- Courts, city governments, and churches continued to sponsor musicians
+	- Increasing public support
+		- Public concerts
+		- Opportunities to teach amateur performers
+	- Music amateurs and connoisseurs
+		- Women excluded from professional roles other than singers
+		- Amateurs bought music, publishers catered to them
+	- Musical Journals and histories
+		- First universal histories of music
+- Musical Taste and Style
+	- Variety of styles coexisted
+		- Prevailing view articulated by leading writers
+			- Preferred musical vocally conceived melody, short phrases, sparse accompaniment
+			- Language of music should be "universal" (for a western ear)
+		- Preference for the "natural"
+	- Energence of *Galant, empfindsam, "classical"*
+		- Galant
+			- French term for courtly manners: modern, sophisticated
+			- Freer, more songlike, homophonic
+				- Short melodies, repeated gestures
+				- Phrases that form larger units
+				- Light accompaniment, simple harmony, frequent cadences
+				- Originated in Italian operas/instrumental music
+		- *empfindsamer Stil* ("Sensitive Style", German)
+			- Surprises, free, speech-like harmony
+
+
+
+
+
+
 [[chap 19 notes]]
