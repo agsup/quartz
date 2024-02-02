@@ -20,4 +20,4 @@ title: John 2
 
 [Understanding Scripture](notes/Spring%202024/Gospel%20of%20John/Understanding%20Scripture.md)
 
-[](John%203)
+[John 3](notes/Spring%202024/Gospel%20of%20John/John%203.md)
