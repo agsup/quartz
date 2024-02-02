@@ -1,3 +1,8 @@
+---
+title: John 3
+---
+
+
 - Who said the famous 3:16 line?
 	- Some translations choose to think Jesus said it, some think John who wrote it himself
 - Nicodemus and Ethnic Christians

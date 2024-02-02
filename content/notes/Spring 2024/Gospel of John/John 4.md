@@ -1,3 +1,8 @@
+---
+title: John 4
+---
+
+
 - Jesus was making disciples and baptizing
 - "Had" to go through Samaria
 	- Not geographically or socially, but theologically necessary
