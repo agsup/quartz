@@ -231,6 +231,28 @@ title: DB Overview
 	- M:N are implemented with intersection relations
 	- Most M:N are in the association pattern
 		- Rare to have an intersection without additional attributes
+- ID-Dependent Relationships
+	- Multivalued Attribute Pattern
+		- Ex. Company can have multiple phone numbers (phone number will have an optional many to one relationship to company)
+			- Stored in table of phone numbers (for multiple companies) with company name as key
+			- Phone numbers would then be *ID-Dependent weak entities*
+	- Archetype/Instance Pattern
+		- ID-dependent child entity is the physical manifestation (instance) of an abstract or logical parent
+			- Ex. Painting:Print, Design:Product, etc.
+			- The attributes of the instances can be completely different from the parent (ex. a blueprint doesn't have an address, a house does)
+			- Key of instance includes the key of the parent
+			- Children are weak, children can be represented as non-ID-Dependent (though it is more possible to lose information this way)
+- Business Rules
+	- Will arise during analysis needed for ERD
+	- Not part of ERD
+- Helpful Hints
+	- Look for nouns to determine entity classes
+		- Note: not every noun is an entity class, but all entity classes are nouns
+	- If you only have one instance, it's not a class
+	- If there are no attributes, it's not a class
+		- Note the attributes of a class may not be relevant to the table, and it may be valuable to recognize these examples as classes
+	- Examine and adjust forms and reports
+	- This is an iterative process
 
 # POI
 
@@ -260,6 +282,8 @@ title: DB Overview
 	- Query of "what is Greg's hair color?" can be A(E) = ?
 	- Other examples: A(?) = V, A(?) < V, ?(E) = V, etc.
 	- Multiple question marks are possible (ex. ?(?) = V could mean "I have a number. Whose is it, and what does it represent?")
+- If something is 1:1 and mandatory, it might be better to represent that entity as an attribute of the entity that requires it (ex. every team has to have a head coach so it might be possible to include the coach as an attribute of the team)
+- Null values are fine...?
 
 # ERD Rules
 
@@ -275,3 +299,6 @@ title: DB Overview
 	- relation that connects two entities
 	- This relation can have properties (elk problem: this ranger saw this elk at this date at this location aka. ranger sees elk)
 	- Can name relation in diamond or connect with an entity (more verbose)
+- If the same entity is multiple attributes (ex. two teams play in a game), make two "has a" connections between the entities
+
+[[Test 1 Review]]

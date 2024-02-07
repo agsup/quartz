@@ -1,4 +1,6 @@
-Chapter 19 Assignment: answer the following question with a response of approximately one page of double-spaced text.
+# Chapter 19 Assignment 1
+
+answer the following question with a response of approximately one page of double-spaced text.
 
 Beginning with his position in Arnstadt, detail the five different positions that J.S. Bach held during his adult life.  Describe his duties/responsibilities and describe how the various demands and circumstances of each position affected his compositional output.
 
@@ -31,4 +33,6 @@ Beginning with his position in Arnstadt, detail the five different positions tha
 	- Cantatas/other church music
 	- Concertos and chamber works as director of Leipzig collegium musicum
 	- Under contract not to leave town without permission from the mayor
-	- 
+
+# Chapter 19 Assignment 2
+

@@ -421,7 +421,8 @@ title: Early Eighteenth Century
 			- Preferred musical vocally conceived melody, short phrases, sparse accompaniment
 			- Language of music should be "universal" (for a western ear)
 		- Preference for the "natural"
-	- Energence of *Galant, empfindsam, "classical"*
+	- Emergence of *Galant, empfindsam, "classical"*
+		- *Galant* and *empfindsam* are both pre-Classical styles (transition between Baroque and Classical)
 		- Galant
 			- French term for courtly manners: modern, sophisticated
 			- Freer, more songlike, homophonic
@@ -431,10 +432,59 @@ title: Early Eighteenth Century
 				- Originated in Italian operas/instrumental music
 		- *empfindsamer Stil* ("Sensitive Style", German)
 			- Surprises, free, speech-like harmony
+			- Chromaticism
+			- Nervous rhythms
+			- Rhapsodically free
+			- Speech-like melody
+			- Associated with fantasias
+			- Slow movements of C. P. E. Bach
+	- Classical *music* vs classical *style*
+		- Classical *music* covers the multitude of styles before the modern era
+		- Classical *style* refers to music specifically from the Classical era (between Baroque and Romantic)
+		- *Pre-classic* refers to the period right before the Classical era is fully established
+	- Aspects of Classical style
+		- Continues into the next 250 years
+		- Melody with accompaniment
+		- Periodic structure of phrases and periods
+- Influence
+	- Enlightenment era thoughts
+		- Music serves human needs
+		- Music gives pleasure primarily
+			- Note: what if the music is meant to be unpleasant?
+		- Music is a (Western) universal language
+			- Note: European ego-centrism
+		- Music should appeal to a wide audience
+		- A piece should be understood on first hearing
 
+# Italian Comic Opera
 
+- Neapolitan comic opera
+	- Terms for comic opera: *opera buffa, dramma giocoso, dramma comico, commedia per musica*
+	- Originated in Naples, aimed at middle class audiences
+	- Plots - interesting and entertaining
+		- Ordinary people
+		- Caricatures of aristocrats
+		- Stock characters resemble *commedia dell'arte*
+			- Note: see Polygon Unraveled: Fire Emblem
+		- Arias typically in *galant* style
+- Intermezzo - Intermezzi
+	- Two or three segments performed between acts of a serious opera
+		- Originated in Naples and Venice ca. 1700
+		- Comic characters given own separate story
+		- Plots presented two or three people
+		- Alternating recitatives and arias
+		- Because of its association with *opera seria*, performed at court for public
+- *La serva padrona* (The Maid as Mistress)
+	- Giovanni Battista Pergolesi
+	- Opera in miniature, only three characters
+		- Uberto (bass), rich bachelor
+		- maid, Serpina (Soprano)
+		- Mute valet, Vespone
+	- Questions class norms and expectations
+	- Style
+		- Dialogue in simple recitative, harpsichord accompaniment
+		- Da capo arias: many melodic ideas, shifting thoughts and moods
 
-
-
+[Writing About Music](notes/Spring%202024/Music%20History%20II/Writing%20About%20Music.md)
 
 [[chap 19 notes]]

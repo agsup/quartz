@@ -1,7 +1,7 @@
 ---
 title: Exam 1 Notes
 ---
-# Review
+0# Review
 
 ## Reasons for Studying Church History
 
@@ -117,7 +117,7 @@ title: Exam 1 Notes
 	- Important councils
 		- Pisa: deposed 2 popes, elected a third (the two active popes refuse to yield to the council, so there are now three active popes)
 		- Constance: deposed 2 popes, third resigns, ends schism
-		- Basel: elected unrecognized pope, ends conciliarism
+		- Basel: elected unrecognized pope (Felix), ends conciliarism, leaving Eugenius
 
 # John Wyclif
 
@@ -162,11 +162,82 @@ title: Exam 1 Notes
 	- Believed Jesus was head of the church
 	- Believed Scripture was the highest authority (not Pope)
 	- Believes transubstantiation (opposite Wyclif)
-- Loses the support of the King (Vaclav, though Sigismund was the elect)
+- Loses the support of the King (Vaclav, though Sigismund was the elect/in charge by the time of Hus' death)
 - Hus guaranteed safe passage to/from Constance
 	- Does not have it in writing
-	- Wrongly arrested in Constance, burned at the stake there after refusing to renounce his teachings
+	- Wrongly arrested in Constance, burned at the stake there after refusing to renounce his teachings (6 July, 1415)
+		- Almost exactly 1 century before the Protestant Reformation's birthday
 - Hus remains in contact with Jakoubek of Stříbro while in prison, they agree to allow the laity to take communion in both kinds
+- After Hus' death, Jakoubek becomes the de facto leader of the Hussite movement
+	- Much more radical than Hus
+- Reformation vs Restoration
+	- "Fixes" vs remodeling
+- Hussite Movement
+	- Motto: "Truth prevails (over all)"
+	- Symbol: chalice (representing communion in both kinds)
+- Taborites
+	- Gathered on a mountain, formed a town
+	- Town and mountain named Tabor (other gathering spots for Hussites were named Biblically)
+	- These were radicals even among Hussites
+	- Mountaintop preaching topics
+		- NT is sufficient
+		- Human ritual is unnecessary
+		- Priests need to live, but mandated tithes are abolished
+		- etc.
+- Hussite Groups
+	- Utraquists (moderates)
+		- Leader: Jan Rokycana, archbishop
+	- Orphans/Taborites (Radicals)
+		- Leader: Jan Zizka (military), Nicholas Biscupec (bishop/senior)
+		- Only called orphans after Zizka died (womp womp)
+- Four Articles of Prague
+	- Communion in both kinds
+	- Free preaching of the Word of God (of qualified individuals aka. priests)
+	- Exclusion of the clergy from owning property and exercising influence in politics
+	- Punishment of mortal or public sins
+- First Prague Defenestration (defenestratees definitely died on this one)
+- Decision at Cheb
+	- "the law of God, the practice of Christ, of the apostles and of the primitive church, along with the councils and teachers who are truly based on it" would be "received as the truest and impartial judge."
+	- Importance: first and only time in history that the Roman Catholic Church (represented by official delegates) has recognized any authority above and outside the church (they didn't honor this agreement)
+- Prague/Jihlava/Basel Compacts
+	- Utraquists agree to merge with Catholics if granted communion in both kinds, Taborites hate this
+	- They also agree to recognize Sigismund as King of Prague, which Taborites also hate
+- Battle of Lipany/Defeat of Taborites
+	- Both Taborite and Utraquist forces are weakened, Taborites are eventually wiped out
+- Petr Chelčický left the Taborites after decision over war was made
+	- Continued writing, gathered disciples
+	- Eventually formed the Unity of Brethren
+
+# Erasmus of Rotterdam
+
+- "Prince of the Christian Humanists"
+- Critic of Church and of Luther
+- *Praise of Folly* was an unrelenting attack on the corruption of the clergy
+- Doesn't want to leave the church, wants reform
+- Erasmus despises Luther's division, so breaks in ideology with him
+- Hated by both Catholics and Lutherans
+- Reform through education and a return to the primitive sources (the Bible/Church fathers)
+- Believed that reform should occur through discourse and persuasion (as opposed to senseless burning at the stake)
+- Published first Greek edition of NT in 1516
+	- Collects many manuscripts to publish the entire NT as a single volume
+- Translation Errors of the Vulgate Identified by Erasmus
+	- Marriage as "sacramentum" = mystery
+	- "Do penance" = "repent"
+	- Mary "gratia plena" = "favored one"
+	- Mention of the Trinity in 1 John 5:7-8
+- 3 radical elements of Erasmus' theology
+	- Envisioned restoration of primitive (NT) Christianity
+	- Aversion to dogma
+	- The Spirit against the flesh and the spirit against the letter (less attachment to the physical)
+- Influence on reformers
+	- Importance of the Bible
+	- Importance of the Biblical languages
+	- Importance of church fathers vs. scholastic doctors (middle age theologians)
+	- A sacramental theology that life of the spirit is not nourished by external, material things
+- "How does ignorance contribute to \[understanding of Holy Scripture\]?"
+
+# Luther and the Protestant Reformation
+
 - 
 
 # Methodology/Terminology
@@ -185,3 +256,9 @@ title: Exam 1 Notes
 - **Plenary Indulgence**: Full relief, used to support the crusades
 - **Transubstantiation**: The bread and wine taken during Eucharist turn *literally* into the body/blood of Christ when consecrated
 - **Council**: a gathering for the purpose of solving a dispute
+- **Four Articles of Prague**
+	- Communion in both kinds
+	- Free preaching of the Word of God (of qualified individuals aka. priests)
+	- Exclusion of the clergy from owning property and exercising influence in politics
+	- Punishment of mortal or public sins
+- 

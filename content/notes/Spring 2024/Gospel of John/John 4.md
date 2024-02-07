@@ -1,8 +1,6 @@
 ---
 title: John 4
 ---
-
-
 - Jesus was making disciples and baptizing
 - "Had" to go through Samaria
 	- Not geographically or socially, but theologically necessary
@@ -47,3 +45,5 @@ title: John 4
 	- Because of his faith, the child was healed as soon as Jesus said he would be
 
 [Study Guide](notes/Spring%202024/Gospel%20of%20John/Study%20Guide.md)
+
+[John 5](notes/Spring%202024/Gospel%20of%20John/John%205.md)
