@@ -1,3 +1,6 @@
+---
+title: Writing About Music
+---
 - Chicago Manual of Style
 	- Most comprehensive information about citing musical works, recordings, etc.
 	- Can be used with footnotes or in-text citation

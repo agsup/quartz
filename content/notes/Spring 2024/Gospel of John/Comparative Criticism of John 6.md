@@ -1,3 +1,6 @@
+---
+title: Comparative Criticism of John 6
+---
 - Assumes that the HS guided John in his selection of words and events for a reason
 - Examines the text of John and notes what elements are unique
 

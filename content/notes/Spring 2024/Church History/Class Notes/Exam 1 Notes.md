@@ -264,8 +264,31 @@ title: Exam 1 Notes
 		- Commits simony by purchasing a bishopric for another town (tries to hold two bishoprics)
 	- Nails the 95 Theses on Oct 31, 1517 (birthday of the Protestant Reformation)
 		- Chooses this day for the publicity, people come in to see Frederick's relics
+- 3 of Luther's most important works
+	- Address to the Christian Nobility
+		- Priesthood of all believers (Magisterial reform)
+	- Babylonian Captivity of the Church (not to be confused with Babylonian Captivity of the Papacy)
+		- Eliminates most of the sacraments (retains Baptism and Eucharist, confession has some value)
+	- Freedom of a Christian
+		- Free from Church Laws; justification by faith alone
+- Term "Lutheran" was applied to followers early on
+- Papal Bull required that Luther report to Rome
+- Upon receiving it, Luther burns the Bull publicly
+- Luther becomes an outlaw in the HRE
+- Charles V becomes Pope, aims to get on the good side of the German nobles (some are Lutheran, some are Catholic)
+- Luther was invited under safe conduct to come to the Diet of Worms (April 18, 1521)
+	- Luther knows the story of Jan Hus, but goes anyway
+	- Upon the start of the inquisition, Luther takes a day to think
+	- Luther gives famous answer ("I cannot retract and I will not retract. To go against the conscience is neither right nor safe. God help me. Amen.")
+	- Edict of Worms: Luther is to be apprehended
+- Luther is captured on his way back to Wittenburg by some of Frederick's men (Wartburg Castle)
+	- Frederick not told which castle Luther is in, and thus has plausible deniability
+	- Spends roughly 10 months here
+	- Translates the NT into German
+- Colleagues Melanchthon and Carlstadt initiate communion in both kinds, clerical marriage, and other reforms
+	- Carlstadt is much more radical (starts to renounce infant baptism)
+	- 
 
-# TODO: Remind me to update the repo
 # Methodology/Terminology
 
 - **Historical Theology**: Studying the development of theology throughout history
