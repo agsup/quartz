@@ -20,3 +20,5 @@
 - Crowd is an opportunity for God to provide
 - Names
 - Nothing can satisfy but God's spirit
+
+[John 6](notes/Spring%202024/Gospel%20of%20John/John%206.md)

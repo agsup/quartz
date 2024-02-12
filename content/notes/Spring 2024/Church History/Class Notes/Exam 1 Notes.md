@@ -1,7 +1,7 @@
 ---
 title: Exam 1 Notes
 ---
-0# Review
+# Review
 
 ## Reasons for Studying Church History
 
@@ -238,8 +238,34 @@ title: Exam 1 Notes
 
 # Luther and the Protestant Reformation
 
-- 
+- Luther
+	- Laywer turned Friar
+		- Caught in a thunderstorm, makes a vow
+	- Influenced by teachings of Augustine
+	- Friars vs. Monks
+		- Monks stay in the monastery, Friars are monks that leave the monastery
+	- Believed himself to be a great sinner, hated God in some moments because he felt judged (despite being an upstanding man)
+	- Ordained priest
+	- Takes a trip to Rome for church business and is disgusted by the worldliness of the other priests
+	- Mentored by Staupiz
+		- "Luther! Commit a real sin then make a confession!"
+		- Told Luther to go to Wittenberg to get his doctorate
+	- Frederick (the Wise) of Saxony
+		- Founds University at Wittenberg
+		- Eventually protects Luther after his break from the church
+	- Luther begins teaching at Wittenberg and also becomes the parish priest
+	- Discovers repentance over penance (justification by faith, Rom 1:17)
+	- 3 Solas of Protestantism
+		- Sola fide (salvation by faith alone)
+			- Imputed righteousness: Righteousness "borrowed" from Jesus
+		- Sola gratia (salvation by grace alone)
+		- Sola scriptura (salvation by scripture alone)
+	- Albert of Brandenburg
+		- Commits simony by purchasing a bishopric for another town (tries to hold two bishoprics)
+	- Nails the 95 Theses on Oct 31, 1517 (birthday of the Protestant Reformation)
+		- Chooses this day for the publicity, people come in to see Frederick's relics
 
+# TODO: Remind me to update the repo
 # Methodology/Terminology
 
 - **Historical Theology**: Studying the development of theology throughout history

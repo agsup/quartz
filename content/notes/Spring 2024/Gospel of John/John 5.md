@@ -7,4 +7,6 @@
 - Reported Jesus to the authorities
 	- Reported in original Greek has a negative connotation (to "tell on")
 
-[Comparative Criticism](notes/Spring%202024/Gospel%20of%20John/Comparative%20Criticism.md)
+[Comparative Criticism of John 6](notes/Spring%202024/Gospel%20of%20John/Comparative%20Criticism%20of%20John%206.md)
+
+[John 6](notes/Spring%202024/Gospel%20of%20John/John%206.md)

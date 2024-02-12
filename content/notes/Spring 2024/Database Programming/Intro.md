@@ -1,7 +1,7 @@
 ---
 title: DB Overview
 ---
-`# Big Picture
+# Big Picture
 
 - At the base of the operation is a disk containing the data
 - The disk controller interfaces with the disk to access data

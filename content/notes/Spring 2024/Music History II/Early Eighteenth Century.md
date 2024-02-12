@@ -484,6 +484,57 @@ title: Early Eighteenth Century
 	- Style
 		- Dialogue in simple recitative, harpsichord accompaniment
 		- Da capo arias: many melodic ideas, shifting thoughts and moods
+# TODO: Go back and fill in Friday
+
+- Opera Reform
+	- Changes reflected Enlightenment concepts
+		- Sought to make opera more "natural"
+			- Music made more flexible, more expressive, less ornamented
+			- Revised the da capo aria
+			- Flexibility in the transitions between recitatives and arias
+			- Song-like recitative accompanied by the orchestra for greater drama, orchestra more important: evoke moods, add color and depth
+			- More use of chorus
+		- Sought a middle ground between what seemed like extremes of opera buffa and opera seria
+- Christoph Willibald Gluck
+	- Synthesis of French, Italian, and German operatic styles
+		- Bavarian
+		- Studied with Sammartini and Salieri
+		- Court composer for Charles VI in Vienna
+		- Moved to Paris where Marie Antoinette was his patron
+		- 35 Operas (half of all works lost in a fire in the early 1800s)
+	- *Orfeo de Euridice*, *Alceste*
+		- Works most strongly affected by reform movement in 1750s
+		- Removed 'abuses' that had 'deformed' Italian opera
+			- 'Abuses': too much singer/performer interpretation/ornamentation, etc.
+		- Music serves the poetry, advances the plot
+		- Overture: integral part of the opera
+		- Goals included:
+			- Lessen contrast between aria and recitative
+			- Less vocal improv/meaningless vocal acrobatics
+			- Less repetition in the aria
+			- Accompanied recit. NOT secco
+			- Simple, more natural melodic lines
+- Instruments and Ensembles
+	- Music written, purchased, performed for enjoyment of players
+		- Middle/upper class amateurs
+		- Musicians played at parties/dinners
+			- Private and public concerts by amateur and professional groups
+			- Daughters often learned piano as a social grace
+		- All levels of society enjoyed music for dancing
+- Invention of the Piano
+	- Bartolomeo Cristofori
+		- Florence, Italy
+		- Originally called the "fortepiano"
+			- Dynamics and expression possible through touch (not possible on the harpsichord)
+		- 1760s on, increasing quantity of pianos produced (Austria, Germany, France, England)
+		- Grand Piano
+			- Shaped like a harpsichord
+			- Relatively expensive
+			- Used in public performances, aristocratic homes
+		- Square Piano
+			- Similar to a modern upright
+			- Domestic instrument
+			- Shaped like a clavichord
 
 [Writing About Music](notes/Spring%202024/Music%20History%20II/Writing%20About%20Music.md)
 
