@@ -287,7 +287,24 @@ title: Exam 1 Notes
 	- Translates the NT into German
 - Colleagues Melanchthon and Carlstadt initiate communion in both kinds, clerical marriage, and other reforms
 	- Carlstadt is much more radical (starts to renounce infant baptism)
-	- 
+- Luther was concerned with his reform being in an orderly manner
+	- Wanted to have the consent of the government
+- Normative vs. Regulative
+	- Normative: What is not forbidden is allowed
+	- Regulative: What is not allowed is forbidden (radicals were more drawn to this)
+- Luther marries an ex-nun (Katharina von Bora)
+	- Protestant model family
+- German Peasants' War
+	- Luther loses the support of the peasantry after informing the nobility to "smite, slay, and stab" them as one does a "mad dog"
+- Emergence of "Protestants"
+	- May 1521: Publication of Edict of Worms
+	- March/April 1529: 2nd Diet of Speyer (no liberty of worship for Lutherans in Catholic territory, but Mass must be tolerated in Lutheran territory)
+	- April 1529: Luther delegates to Diet of Speyer and protests it (this is where the wider term "Protestant" comes from)
+- Augsburg Confession and Peace of Augsburg
+	- Confession of faith for Lutherans
+	- *Cuius regio, eius religio* (whose the region, his the religion)
+
+# TODO: Look for Consubstantiation in the slides
 
 # Methodology/Terminology
 
