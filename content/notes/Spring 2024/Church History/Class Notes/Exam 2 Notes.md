@@ -14,7 +14,7 @@
 	- City Council rules in his favor
 - Second Zurich Disputation
 	- Leads to (does not immediately cause) abolishment of relics, images, mass, organs, etc.
-	- Protestant/Reformed Communion celebtrated on Easter 1525
+	- Protestant/Reformed Communion celebrated on Easter 1525
 - Rift between Zwingli and disciples
 	- Church agrees to make the changes, but later
 	- Zwingli complies, followers do not
