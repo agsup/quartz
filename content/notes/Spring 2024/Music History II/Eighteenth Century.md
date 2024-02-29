@@ -1,5 +1,5 @@
 ---
-title: Early Eighteenth Century
+title: Eighteenth Century
 ---
 # Recap
 
@@ -535,7 +535,120 @@ title: Early Eighteenth Century
 			- Similar to a modern upright
 			- Domestic instrument
 			- Shaped like a clavichord
+- Instrumental Music: Sonata, Symphony, and Concerto
+	- Haydn's Orchestra
+		- ~25 players
+		- Flute, 2 oboes, 2 bassoons, 2 horns, 12-16 strings, harpsichord
+			- Note: early classical still uses harpsichord, piano substituted gradually
+		- Trumpets and timpani occasionally added
+	- Viennese Orchestra 1790's
+		- Fewer than thirty-five players
+		- Often included 2 clarinets
+		- Basso continuo gradually abandoned
+		- No "conductor", leader of the violins directed the group
+	- Mid 18th Century Orchestration
+		- Essential music given to strings
+		- Winds and horns for doubling reinforcing, filling in harmonies
+- Genres and Forms
+	- Many Baroque genres abandoned
+		- Preludes, toccatas, fugues, chorale settings, dance suites no longer in fashion
+		- Continuity of some genres with earlier generations (concerto, sinfonia, sonata)
+	- Content and forms absorbed new *galant* style
+		- Preference for pieces in major mode
+		- Less reliance on outside contexts, more on "absolute" music, or music as a self-contained/fulfilling art
+	- Forms
+		- Binary forms (of various kind)
+			- Most forms modulate from tonic to dominant (or relative minor, back to tonic)
+		- Sonata form
+			- Most common form for first movements of sonata, chamber work, or symphony
+				- 18th century: Two part form organized by phrase structure and harmony
+				- 19th century: three part structure
+			- *Introductory Essay on Composition* (Koch)
+				- First movement form, expanded version of binary form
+				- First section: principal ideas presented
+			- Note: Sonata the *genre* differs from sonata the *form* (though they often overlap)
+- Keyboard Music
+	- Growing demand by amateurs for music
+		- Sonatas regraded as most challenging
+		- Other works: rondos, variations, minuets
+	- Domenico Scarlatti
+		- Original and creative keyboard composer
+			- Virtually unknown during his lifetime
+			- 1719: service to the King of Portugal
+			- 1729: Spanish court in Madrid
+		- Composed 555 sonatas
+		- Indexed by Ralph Kirkpatrick (K numbers)
+- C.P.E. Bach
+	- One of the most influential of his time
+	- Popularized the 3 movement pattern of the sonata (fast-slow-fast)
+		- Demonstrated possibility of <u>expressive</u> keyboard music
+	- Wrote *Sechs Clavier-Sonaten fur Kenner und Liebhaber* (Six Clavier Sonatas for Connoisseurs and Amateurs)
+- Orchestral Music
+	- Symphony (piece of music written for an orchestra)
+	- 3 or 4 movements, homophonic style
+	- Italian Origins
+		- Opera overture
+		- Orchestral concertos (Torelli)
+		- Church sonatas (Northern Italy)
+		- Orchestral suites (source for binary forms)
+- Giovanni Battista Sammartini
+	- Started in Milan (first concert symphonies ever written)
+	- Style example: Symphony in F Major No. 32
+		- Scored for strings in 4 parts
+		- Three movements (following CPE's sonata format)
+			1. Presto
+			2. Slow binary
+			3. Fast triple meter
+		- 10 minute piece
+- Johann Stamitz
+	- Composer for Mannheim orchestra
+		- Internationally famous orchestra
+		- Orchestra had strict discipline and impeccable technique
+		- Unprecedented dynamic range, delighted audiences
+	- First symphonist consistently following 4 movement structure
+		- Minuet and trio third movement
+	- Sinfonia in Eb Major
+- Vienna
+	- Carl Ditters von Dittersdorf (lol)
+- Symphonie Concertante
+	- Concerto like work 2 or more solo instruments
+	- Paris 1770's and 1780's; hundreds written performed, and published
+	- Joseph Bologne, Chavalier de Saint-Georges
+		- First composer of African descent to achieve recognition
+		- Born in a French colony
+		- Virtuoso violinist and champion fencer
+		- Conductor of the Concert de Amateurs in Paris
+
+# Haydn (TODO: watch Friday)
+
+- London Symphonies Nos. 93-98
+	- Commissioned by Johann Peter Salomon
+	- 2 trips to London
+	- His greatest symphonic achievements
+	- Expanded orchestra
+		- Trumpets, timpani, clarinets
+		- Explored new and novel timbres/textures
+- Surprise Symphony
+- Symphony No. 104
+- Military Symphony (100)
+- The Clock (101)
+- Drumroll (103)
+- His writing gets more complex as he gets older
+- String quartets
+	- "Father of the string quartet" (first great master of the genre)
+	- Primarily music for amateurs
+	- Evolution of quartets parallels symphonies
+	- 18 quartets
+		- Established 4 movement pattern
+	- Style example: Op. 33, No 2
+	- Later years: 34 quartets
+- Haydn and Handel were often compared, Haydn worked more with symphony, Handel with oratorios
+- Haydn wrote some oratorios
+	- *The Creation* was performed more than 40 times in the last decade of Haydn's life
+- Famous in his lifetime
 
 [Writing About Music](notes/Spring%202024/Music%20History%20II/Writing%20About%20Music.md)
 
 [[chap 19 notes]]
+
+[Test 1](notes/Spring%202024/Music%20History%20II/Test%201.md)

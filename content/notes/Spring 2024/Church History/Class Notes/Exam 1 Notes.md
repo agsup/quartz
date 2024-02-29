@@ -1,7 +1,7 @@
 ---
 title: Exam 1 Notes
 ---
-# Review
+d# Review
 
 ## Reasons for Studying Church History
 
@@ -327,4 +327,5 @@ title: Exam 1 Notes
 	- Free preaching of the Word of God (of qualified individuals aka. priests)
 	- Exclusion of the clergy from owning property and exercising influence in politics
 	- Punishment of mortal or public sins
-- 
+
+[[Exam 2 Notes]]

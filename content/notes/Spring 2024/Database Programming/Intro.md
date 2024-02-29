@@ -302,3 +302,5 @@ title: DB Overview
 - If the same entity is multiple attributes (ex. two teams play in a game), make two "has a" connections between the entities
 
 [[Test 1 Review]]
+
+[[notes/Spring 2024/Database Programming/Exam 2]]

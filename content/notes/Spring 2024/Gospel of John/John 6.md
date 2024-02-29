@@ -49,4 +49,5 @@
 	- Jesus was not going to give manna, he is the manna
 - "Eating my flesh and drinking my blood"
 	- Not literal, but Spirit
-- 
+
+[John 7](notes/Spring%202024/Gospel%20of%20John/John%207.md)
