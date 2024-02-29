@@ -1,3 +1,7 @@
+---
+title: John 10
+---
+
 - *Ti themi*: "to lay down" (as in to give up)
 	- Jesus' "code-word" for crucifixion
 - Is Jesus comparing Himself with *the Pharisees* or is He comparing himself to *what they believe Him to be?*

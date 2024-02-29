@@ -1,3 +1,7 @@
+---
+title: Exam 2 Notes
+---
+
 # Zwingli
 
 - 7 weeks younger than Luther
