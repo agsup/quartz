@@ -1,0 +1,33 @@
+---
+title: John 11
+---
+- John writes this *excitedly*
+	- You can tell because he breaks into present tense, indicating that he is reliving the moment
+- "Jesus loved Lazarus, Martha, and Martha's sister"?
+	- John "downplays" Mary? Possibly
+- Lazarus called "friend"
+	- Jesus' friend = our friend
+- Emphasis
+	- Contrast between fear of the disciples and Jesus' faith
+	- Thomas' willingness to risk it all
+	- Ominous language (Judea: the center of everything that hates Jesus)
+	- Groupings of three:
+		- Love
+		- "If only..."
+		- Misunderstandings/irony
+		- Deeply moved
+- Bookends
+	- Glory of God
+- Reactions of Mary and Martha (waiting until called vs confronting)
+- Relationship of Jesus with the siblings (and with others)
+	- Mary would later anoint Jesus
+	- He loved them
+		- Shows that Jesus had special, *unique* connections with people (different from "choosing favorites")
+	- Deeply connected with them (felt deep empathy for them)
+	- Even Jesus' worst enemies noted his love towards others
+- The microcosm of pain and suffering
+	- Jesus is capable ("if you had been here...")
+	- Jesus cares
+	- Jesus feels with us, present in our suffering
+	- Jesus works everything out for the good
+[[John 12]]

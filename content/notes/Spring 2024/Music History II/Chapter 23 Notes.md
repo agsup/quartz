@@ -1,0 +1,21 @@
+Sources of influence
+
+- Father (teacher)
+	- Violinist, taught son and daughter music
+- Schobert
+	- Harpsichord writing
+	- Simulation of orchestral effects
+	- Rapid figuration, thick chordal textures
+	- Ex. simulating tremolos
+- Sammartini
+	- Serenades, string quartets, symphonies
+	- Mainly influenced Viennese symphonies, influence of Haydn came later
+- Haydn: Symphonies and Quartets (later)
+	- Absorbed the essence of the quartets without becoming a a mere imitator
+- J. C. Bach: Italian style
+	- Interprets and iterates on ideas
+	- Ex. K. 488: Bach uses closing theme for ritornellos, Mozart makes the transition energetic to contrast with the quiet lyrical themes
+- Gottfried van Sweiten: shared J. S. Bach and Handel with Mozart
+- Turkish military music
+	- Influenced his Viennese operas
+	- 

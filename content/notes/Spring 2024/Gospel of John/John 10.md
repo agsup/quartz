@@ -21,3 +21,5 @@ title: John 10
 	- Kleptes = thief
 - True sheep listen to, recognize, and follow the voice of the Shepherd
 - See text for qualities of the Good Shepherd
+
+[John 11](notes/Spring%202024/Gospel%20of%20John/John%2011.md)

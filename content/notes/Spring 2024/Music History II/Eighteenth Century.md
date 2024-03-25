@@ -647,8 +647,14 @@ title: Eighteenth Century
 	- *The Creation* was performed more than 40 times in the last decade of Haydn's life
 - Famous in his lifetime
 
+
+
 [Writing About Music](notes/Spring%202024/Music%20History%20II/Writing%20About%20Music.md)
+
+[Paper Topic Ideas](notes/Spring%202024/Music%20History%20II/Paper%20Topic%20Ideas.md)
 
 [[chap 19 notes]]
 
 [Test 1](notes/Spring%202024/Music%20History%20II/Test%201.md)
+
+[[notes/Spring 2024/Music History II/Eighteenth Century (cont'd)]]
