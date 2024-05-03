@@ -1,0 +1,43 @@
+---
+title: John 21
+---
+- *To live a good life is difficult enough, To recover from life's failures is the true measure of a person.*
+
+## Why the Epilogue?
+
+- Greek:
+	- Jesus calls them "little boys"
+	- Asks if they have any "cooked fish"
+		- More than that: "you *don't* have any cooked fish, do you..." (snarky/smug?)
+- Peter puts his clothes back on before swimming back to shore
+	- He already feels naked before Jesus *with* clothes, much more so without
+- Charcoal flame
+	- Parallels fire in Jerusalem during Peter's denial
+- Fishing?
+	- Teaches dependence
+	- Verb chosen by John means that "I'm going to fish" is a more permanent statement rather than one made in passing
+- Difference that cause the fish to come?
+	- Jesus (duh)
+	- They obeyed Jesus rather than trying on their own
+	- "Cast your nets on the *right* side"
+		- Right side was considered "lucky"
+- Why did Jesus eat with them?
+	- Shows that he's human
+	- He's really back (physically and totally resurrected as opposed to being a "ghost")
+- Peter
+	- The gospel catches <u>all kinds of fish</u> (including Peter)
+	- Remembers his calling to be a "fisher of men"
+	- God requires faith and trust
+- Jesus asks three times if Peter loves him?
+	- Mirrors the 3 denials
+	- Repetition is necessary for Peter
+- Details
+	- Jesus asks about *agape* love, Peter responds with *fileo*
+		- Peter is hesitant to use absolutes after the last time
+	- When Peter was hurt, Jesus had asked *fileo*, as if to question whether he even loved him as a friend
+- Feed my sheep?
+	- Renewing Peter's calling
+- John would never die (rumor)
+	- He does, rumor resulted from a misinterpretation from those around him
+- John "signs" his book
+	- Certifies his truthfulness

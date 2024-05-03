@@ -1,0 +1,288 @@
+---
+title: Eighteenth Century (cont'd) and more
+---
+# Mozart
+
+- One of the greatest musicians of the Western classical tradition
+- Born in Salzburg
+- Son of court composer/violinist Leopold Mozart
+- Trained with father, performed with sister Nannerl
+- Child prodigy
+- Phenomenal music retention/recitation from memory
+- Able to compose entire works in his head
+- Married Constanze Weber, had two sons
+- Career
+	- Taught by/toured under his father
+	- Repeatedly "tested" by experts
+	- Learned styles through his travels
+	- Archbishop Colloredo (Salzburg)
+	- Moved to Vienna, freelance
+	- Private/public performances, publications, teaching
+	- Over 600 compositions, cataloged by Köchel (K. #)
+		- Mostly chronological ordering, though pieces are still being discovered so there are mistakes/missing pieces
+-  Influences
+	- Schobert
+		- Orchestra effects at harpsichord
+	- J. C. Bach
+		- Themes in concerto/sonata form movements
+	- Italian style
+		- Martini and Sammartini
+	- Current styles in Vienna
+- Going freelance
+	- Few musicians survived as freelancers
+	- Mozart searched for outside employment while working unpaid for the court in Salzburg
+	- Real freelance career started in Vienna
+		- Teaching
+		- Performing
+		- Managing as an impresario
+		- Composing
+- By the time he got to Vienna, his style had matured
+	- Complex forms/content
+	- Friendship/mentorship with Haydn
+	- Baron Gottfried van Swieten (introduced him to the works of Bach and Handel)
+- Made use of *figuration* (same patterns with slight changes)
+- Piano Concertos
+	- 21 "mature" concertos: written in Vienna
+	- Most written for Mozart himself for the purpose of impressing his audience
+	- Traditional 3-part form, but the orchestra and piano had separate expos, developments, and recaps
+		- Often called "double exposition"
+		- Structure as it settled after J.C. Bach and Mozart:
+			1. Prelude (orch)
+			1. Expo (piano)
+			1. Ritorn 1 (orch)
+			1. Middle Sect (all)
+			1. Recap (all)
+			1. Final Ritorn (all, with piano cadenza)
+- Operas
+	-  Most prestigious musical genre of the time (mostly due to profit)
+	- *La finta giardiniera*, opera buffa
+	- *Idomeneo*, his best opera seria, reformist style inspired by Gluck
+	- Vienna
+		- "Turkish style", "oriental" settings/plots were popular
+		- Abduction from the Harem (1782)
+	- Italian Operas
+		- *The Marriage of Figaro*, *Don Giovanni*, *Cosi fan tutte*
+		- Librettos by Lorenzo Da Ponte
+			- Buffa conventions, lifted to a high level
+			- Greater depth of characters, intense social tensions, class tension, moral issues
+[](Chapter%2023%20Notes)
+
+# Beethoven
+
+- Prelude to the chapter
+	- Revolution, War, and Music
+	- French Revolution
+		- Not successful, but impacted how people viewed nobility
+		- Nation formed by the people, not the monarchy
+	- Revolution inspired a large number of works
+	- Continued government support of Opera
+	- Paris Conservatoire founded by the govt.
+		- Education based on merit
+		- Conservatory model persists today
+- Beethoven!
+	- Popularity as a composer continues to this day
+	- Born in Bonn, Germany
+	- Studied piano with a bit of violin
+	- 1792: moved to Vienna
+		- Studied with Haydn
+	- Gradual hearing loss
+		- Note: this started in early 30's, lived for another two decades
+	- Tumultuous life, great popularity but with great personal tragedies
+	- Influenced by Enlightenment ideas
+	- Affected by the French Revolution
+		- Admired then was disillusioned by Napoleon
+	- Transitional composer (Classical -> Romantic)
+	- Work divided in three periods
+		- Early: youth
+		- Middle: new level of drama/expression
+		- Late: more introspective
+
+## Career
+
+- Youth
+	- Serves Maximillian Franz in Bonn
+	- Teachers
+		- Haydn
+		- Albrechtberger
+		- Salieri
+		- Fame as a pianist
+			- Taught well-to-do students
+			- Had private/public concerts
+- Composing
+	- Success as a freelance
+	- Started selling to publishes in 1791
+- Works for piano
+	- Sonatas, variations, shorter works
+	- Aimed at the amateur market
+	- Strong contrasts of style, broad expressive range
+	- Pathetique Sonata
+		- Evocative titles were good for marketing
+		- C minor: stormy, passionate
+	- Beethoven style: dark, low, dense voicings. "chunky"
+# TODO: Watch Friday
+
+ - Chamber music
+	- 5 string quartets, 3 piano trios
+	- Tested limits for amateurs
+	- Op. 59 quartets
+		- Dedicated to Count Razumovsky (Russ. Ambass. to Vienna)
+- Concertos, grander scale
+	- Expanded expressive range/dimensions
+	- Soloist often coequal w/ orchestra
+- Struggles
+	- Contested guardianship of his nephew Karl
+		- Constant legal battles with his sister-in-law
+		- Karl didn't want to become Beethoven 2: Electric Boogaloo
+		- Karl attempted suicide twice, Beethoven sad
+	- Hearing loss
+		- Lost ability to perform, virtuosic skills declining
+	- Repression by the government
+		- Accused of anti-monarch sentiment
+		- Constantly spied on by the government
+- Circumstances
+	- Greater isolation, slowed composition rate
+	- Nearly fully deaf by 1818
+	- National economic crisis, reduced value of annuity
+	- Two large public works
+		- Missa solemnis
+		- Ninth Symphony
+- Later style
+	- Compositions for connoisseurs
+		- Meant to be studied
+		- Concentrated musical language, introspective character
+	- High degree of contrast
+		- Contrasts exaggerated: style, character, meter, tempo
+	- Emphasis on continuity
+		- Within movements
+			- Blurred lines between phrases
+			- Cadences on weak beats
+
+- Europe in the 19th century
+	- Decline of aristocratic patronage
+	- Economic order in Europe changed
+	- Most importantly: fall of aristocracy and freelance musicians!
+		- Growing middle class as audience/music buyers
+- Piano (again)
+	- Innovations in manufacturing made the instrument much more accessible, along with design improvements
+	- Women studied piano, but few were performers
+- Music market
+	- Amateur boom created high demand for sheet music
+	- Publishers held power over what was produced
+	- Beginning of the Romantic Period
+		- Evocative, exotic, national, or emotional music/titles
+- Romantic Period
+	- Focus on the individual, expression of the self
+	- Less "cerebral" (Classical), more "emotional" (Romantic)
+	- Exploration of myths and dreams and nature and the irrational
+- Lied: "song" in German
+- Franz Schubert
+	- First great master of romantic lied, prolific in all genres
+	- Studied under Salieri
+	- Mostly freelance
+	- Schubertiads: listening parties for Schubert's music
+	- Only lived 31 years
+	- Song texts by many writers, including Goethe (famous)
+
+# Robert and Clara Schumann
+
+- Significant music history marriage
+- Robert
+	- Studied music with Clara's father, who did not want to give up Clara for marriage
+		- This resulted in a long legal battle
+	- Turned to composition/critique
+	- Strong advocate for Chopin, Brahms, Schubert's instrumental works
+- Clara
+	- Child prodigy, talented pianist
+	- Began touring at 11
+	- Performed/composed/taught while raising children, resumed touring after Robert dies
+- Chopin
+	- Polish
+	- Studied in Warsaw
+	- Was among the upper class
+	- Briefly engaged to Marie Wodinska (she discovered 9-year affair with Aurore Dudevant)
+	- Composed almost exclusively piano music
+	- Polish-folk inspired
+- Liszt
+	- "rockstar" pianist
+	- Invented the masterclass
+	- Studied in Vienna (Czerny and Salieri, who is somehow still alive) and Paris
+	- Pioneered the term "recital"
+	- Concerts from memory
+	- Was hot
+	- Had the rizz
+	- Reputation
+		- Influenced performers
+		- Introduced solo performance
+		- New playing technique
+		- Provided a successful model
+		- Contributed as a composer as well
+- Romantic Legacy
+	- Home music-making declines
+	- Lieder and piano works are important to repertoire
+	- Women composers are becoming established
+	- Absolute music remains influential
+	- Conducting
+- Berlioz
+	- Prix de Rome winner
+	- Taught himself theory
+	- Obsessed with Shakespearean plays
+	- Symphonie Fantastique
+	- Pioneered the *idee fixe*: melody representing an idea
+	- Legacy
+		- Established Romantic "radicalism"
+		- New resources of harmony/color/form in orchestral music
+		- Cyclical symphony
+		- *Treatise on Instrumentation and Orchestration* (1843)
+- Opera
+	- Rise of the operatic repertory
+	- Invention of electric lights, larger spaces
+	- Wagner emerges
+- Wagner
+	- Born in Leipzig
+	- Began writing operas in 1830's
+	- Married Minna Planer in 1836, rocky for 30 years before divorce (they both cheated on each other)
+	- Married Liszt's daughter (Cosima von Bulow) after forcing her out of her previous marriage with 3 illegitimate children
+	- Started as a music critic/journalist in Paris
+	- Lived most of his life in financial turmoil (gambling addiction)
+	- Major works: 13 operas (a lot of music, consider the length of an opera)
+	- Insanely big-headed
+		- Saw himself as Beethoven's "true successor"
+		- Invented the term *Gesamtkunstwerk*, and believed that it could help "reform society"
+	- Because of his vision, Wagner worked on everything from the top down (including libretto)
+	- Was nationalist and anti-Semitic
+		- Very bad in the hands of an accredited music critic
+		- Was a part of the events leading to Hitler
+	- Significant use of leitmotif
+		- Multiple symbolic themes allow for more flexibility in their usage
+		- Natural succession of the *idee fixe*
+	- Musical prose
+		- Combination of various leitmotifs
+		- "endless melody"
+# TODO: Watch Friday
+
+- Dichotomies and Disputes
+	- Old v. New
+		- Classical repertory
+		- Interest in music of the past
+	- Brahms v. Wagner
+		- Differences of view in inheriting the heritage of Beethoven
+	- Absolute v. Program
+	- Tradition v. Innovation
+- Brahms
+	- Harmonically adventurous
+- Strauss
+	- Made mostly "fluff", but viewed highly by Brahms
+- The Wagnerians
+	- "New German School" (Coined by Brendel)
+		- Wagner, Liszt, Berlioz
+		- German in spirit, Beethoven was model
+	- Polarization
+		- Liszt/Wagner and followers
+		- Advocates of absolute music
+- Anton Bruckner
+	- Absorbed Wagner's style into traditional symphony
+	- Reverent, liturgical approach to sacred text
+	- Beethoven Symphony 9 as model
+- Hugo Wolf
+	- Adapted Wagner's methods to *lied*
+	- 

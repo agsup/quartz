@@ -3,7 +3,7 @@ title: John 14
 ---
 
 
-- What are some reasons j=Jesus gives us to be comforted?
+- What are some reasons Jesus gives us to be comforted?
 	- Plenty of rooms (this is where "mansion" imagery comes from)
 	- A place will be prepared
 	- The way will be known
@@ -25,4 +25,5 @@ title: John 14
 	- Counselor (Paraklete: One who is called to another's side)
 	- He will always be with us
 	- He will teach the Apostles all things (v. 26)
-	- 
+- Other Judas: Why reveal only to us?
+	- Jesus to them: That's *your* job!

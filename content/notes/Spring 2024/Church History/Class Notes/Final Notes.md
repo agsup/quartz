@@ -1,0 +1,111 @@
+---
+title: Final Notes
+---
+- Magdalene Chapel, Edinburgh
+- Rented by Scotch Baptists as a meeting house
+- Barton Stone/Cane Ridge
+	- Tired of Calvinism
+	- Gets in trouble with Presbyterians, gets kicked out of the church
+	- Cane Ridge Revival
+		- Presbyterians, Methodists, Baptists, and nonbelievers joined together for the revival (ecumenical)
+		- Many preached and had communion *openly*
+			- Closed communion: only communing with those in good standing 1in your congregation and with no one else
+			- Open communion was a large point of controversy
+		- "Bodily Agitations"
+			- Convulsions of various kind
+		- "Believe and obey, and you will be saved"
+		- They get in trouble with the Presbyterian church for starting the Revival
+		- Presbyterian Senate want to discipline the group
+			- A part of the Senate separates over this, forms the Springfield Presbytery
+	- They believe that presbyteries in principle are unbiblical
+- Christian Churches
+	- Rice Haggard: you should just refer to yourselves as "Christians"
+	- Churches that align with Stone
+	- Members are referred to as simply Christians
+- The Pillars of the ARM (American Restoration Movement)
+	- Unity (no more denominational separation)
+	- Restoration (no more corruption/power imbalance)
+- They all immerse one another, but do not preach it immediately as they wanted the movement to be as easily accepted as possible
+	- Immersed in Stoner Creek (lol)
+- Many of Stone's followers disband from him
+	- Some return to the Presbyterians
+	- Some form the Shakers
+	- Some go elsewhere
+- Stone's Journal: Christian Messenger
+- Thomas Campbell
+	- "Where the Bible speaks, we speak. Where the Bible is silent, we are silent"
+	- Scotch-Irish (former) Presbyterian
+	- Writes "the Declaration and Address of the Christian Association of Washington"
+- Alexander Campbell (son)
+	- On a ship, might die, prays to God
+	- Vows to preach and never be paid if he lives
+	- Lives, shipwrecks in Scotland
+	- Marries a rich wife
+	- Starts questioning Presbyterianism
+	- Renounces after having to take an examination to participate in communion
+- Walter Scott
+	- Great Evangelist (thousands of baptisms)
+	- Five Finger Exercise
+		- Faith
+		- Repentance
+		- Baptism
+		- Forgiveness
+		- H.S./Eternal Life
+	- Meets Campbell and agrees with his mission, slingshots Campbell's movement with his evangelistic flair
+- Campbell and Stone movements start to collide and were mostly in agreement
+	- Had a few small qualms, were easily resolved through civil discussion (ex. naming of "Christians", etc.)
+	- Group motto: "In faith, unity; in opinions, liberty; in all things charity"
+		- Borrowed from Richard Baxter
+	- Decide that to be consistent with their movements they must unite
+		- Happened at a meeting in Lexington
+	- One common "brotherhood"
+- Church of Christ uniqueness
+	- Baptism by adult immersion
+	- A Cappella only
+	- Weekly communion
+		- The combination of all of these attributes is what is unique, the qualities themselves are not individually unique
+- "Great Century of (Protestant) Missions"
+	- Adoniram and Ann Judson (Missionaries to Burma/Myanmar (synonymous))
+		- Adoniram got captured as Burma was in war with Britain
+			- Ann documented/followed Adoniram/their mission
+			- Ann kept Adoniram alive, but her health suffered, killing her
+			- After Ann's death, Adoniram fell into a deep depression, from which he eventually recovered
+		- Went out as Congregationalists
+		- Realized that to create a lasting impact, they must be left with the written word
+	- David Livingstone
+		- Inspired by "The smoke of a thousand villages, where no missionary had been" (by father in law Robert Moffat)
+		- More explorer than missionary
+		- Discovers the scourge of the slave trade industry
+		- "Christianity and Commerce"
+			- Thought if Africa was more profitable, slave trade would decrease
+		- Disappears searching for the source of the Nile
+			- Found eventually by a reporter ("Dr. Livingstone, I presume?")
+	- Hudson Taylor
+		- Pioneer missionary to China
+		- Adapted to Chinese culture
+		- Wanted to bring Christianity to them without the European influence
+		- Wanted to go to inland China, where no one else was going at the time
+		- Recruited single woman missionaries
+		- Got really sick, went back to England, recruited while he was back in England
+		- Founded China Inland Mission
+		- Never directly asked for support, trusted God for support (Mueller inspired by him, concept called Faith Based Missions)
+		- "We cannot do much, but we can do a little, and God can do a great deal"
+- Pentecostalism
+	- Fastest growing family of world Christianity
+	- Proved to be divisive, resulting in 11K Pentecostal/Charismatic denoms across the world
+	- These are among the tonguespeakers
+	- Referred to by some as the "single most significant development in 20th century Christianity"
+	- Holiness Movement
+		- 19th Century Methodists: sanctification is a second work of grace separated from salvation (the first)
+		- More radical Holiness belief: also a third experience of grace (baptism with the Holy Ghost and fire)
+	- Charles Fox Parham
+		- Believed that speaking in tongues should accompany baptism with the HG/F as a result/sign of it
+		- Parham believed that if you are not speaking in tongues, then you have not been baptized with the HG/F
+	- William Seymour
+		- Initiates Azusa Street Revival
+	- Charismatic Movement is in 2nd wave of Pentecostalism, derived from *Charismata* or "gifts of the Spirit"
+	- 3rd wave is "Empowered Evangelicals"
+- Ecumenical Movement
+	- "Worldwide unity" of the Church
+	- Major leader: John R. Mott
+	- 

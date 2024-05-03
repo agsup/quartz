@@ -270,8 +270,30 @@
 	- General: from Separatist Puritans. synonymous with English
 	- Particular/Calvinist Baptists: from Independent Puritans. Adopt immersion
 	- From both Seps and Indeps came Congregationalists
-- Charles I (son of KJV James)
+- Charles I (son of James I of (KJV))
 	- Head of Anglican Church, but strongly RomCath
 	- Things go completely haywire
 	- He fights Parliament
-	- 
+- Laude: The Book of Sports
+	- Essentially the opposite of the proposed Christian Sabbath to spit in the eye of the Puritans
+	- Refusal to announce from the Book resulted in persecution
+- English Civil War
+	- Parliament (Roundheads) vs. King (Cavaliers)
+	- Puritans were against the King, therefore sided with the Roundheads
+	- Oliver Cromwell (Puritan) was in the Roundhead militia
+	- Roundheads win (result: the Commonwealth)
+	- Charles I is tried and executed by decapitation
+- Government Restructure
+	- No monarchy
+	- No House of Lords
+	- Commonwealth
+		- Republic in form
+	- Religious freedom (even to Puritans)
+- Cromwell declared "Lord Protector" (functionally, King)
+- After Cromwell's death, the Commonwealth dissolves and the monarchy resumes
+- Puritan Literature
+	- John Milton: Paradise Lost
+	- John Bunyan: Pilgrim's Progress
+- George Fox: founder of the Quakers (the "Friends")
+
+[Final Notes](notes/Spring%202024/Church%20History/Class%20Notes/Final%20Notes.md)
