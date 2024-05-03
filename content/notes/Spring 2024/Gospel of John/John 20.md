@@ -1,3 +1,8 @@
+---
+title: John 20
+---
+
+
 - Narration is in past tense
 	- Not being emotional, being purely factual
 - John wants the reader to make a decision
