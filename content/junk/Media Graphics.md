@@ -1,2 +1,0 @@
-- Bleeding: printing to the edge
-	- only expensive commercial printers can do this

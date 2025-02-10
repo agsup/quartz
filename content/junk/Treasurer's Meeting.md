@@ -1,7 +1,0 @@
-# Square
-
-- 
-
-# Other Stuff
-
-- 
