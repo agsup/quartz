@@ -1,3 +1,9 @@
+---
+title: Mariachi Music
+enableToc: false
+enableLinkPreview: true
+---
+
 - Mexican music
 - "Mariachi" can refer to the music, the bands, or the musicians
 - All encompassing style used in many settings

@@ -1,3 +1,9 @@
+---
+title: Intro
+enableToc: false
+enableLinkPreview: true
+---
+
 - Protocol layering
 	- Divides network functionality
 	- Protocol instances (between hosts) talk virtually to their *peers* (same layer)

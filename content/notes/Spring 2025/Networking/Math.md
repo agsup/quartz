@@ -1,3 +1,9 @@
+---
+title: Math
+enableToc: false
+enableLinkPreview: true
+---
+
 # Nyquist and Shannon's Theorems
 
 - Nyquist wrote a theorem for expressing the max data rate for a finite-bandwidth noiseless signal

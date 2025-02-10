@@ -1,3 +1,9 @@
+---
+title: Reggae
+enableToc: false
+enableLinkPreview: true
+---
+
 - Popular music, distinct to Jamaica
 - Roots in traditional Jamaican folk music
 	- Similar to how jazz is based on African American tradition

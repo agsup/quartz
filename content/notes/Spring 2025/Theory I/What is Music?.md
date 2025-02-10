@@ -1,3 +1,8 @@
+---
+title: What is Music?
+enableToc: false
+enableLinkPreview: true
+---
 - Sounds
 	- Industrial Revolution made new sounds
 - Music

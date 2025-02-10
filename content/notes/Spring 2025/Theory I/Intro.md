@@ -1,3 +1,9 @@
+---
+title: Intro
+enableToc: false
+enableLinkPreview: true
+---
+
 - Presentation tomorrow
 	- Basic elements of music
 	- Practice basics

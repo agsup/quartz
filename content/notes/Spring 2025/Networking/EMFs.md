@@ -1,3 +1,9 @@
+---
+title: EMFs
+enableToc: false
+enableLinkPreview: true
+---
+
 - Larger waves = wider reach (ex.radio)
 - Higher frequency = faster rates (ex. Microwaves for LAN/3G/4G)
 	- Too high and you get cancer (ex. xrays)

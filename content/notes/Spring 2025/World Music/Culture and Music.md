@@ -1,3 +1,9 @@
+---
+title: Culture and Music
+enableToc: false
+enableLinkPreview: true
+---
+
 - Culture (general)
 	- Ways of life
 	- Scopes (national, regional, local, etc.)

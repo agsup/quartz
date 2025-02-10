@@ -1,3 +1,9 @@
+---
+title: Native American Music
+enableToc: false
+enableLinkPreview: true
+---
+
 - 500+ tribes
 - Varying histories, traditions, etc.
 - Commonalities exist, as does diversity

@@ -1,3 +1,8 @@
+---
+title: User Interface Presentation
+enableToc: false
+enableLinkPreview: true
+---
 - To do: try to find assets
 - Work on scene flow
 - Justifications for themed game mechanics
