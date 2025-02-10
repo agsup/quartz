@@ -1,0 +1,63 @@
+- 500+ tribes
+- Varying histories, traditions, etc.
+- Commonalities exist, as does diversity
+- History
+	- Vikings encountered them in the 11th century
+	- 1492: Columbus (yucky)
+	- Assimilation by the States
+	- Snyder Act (1924) gave full citizenship
+- General Features
+	- Emphasis on vocals
+	- Strong connection to dance
+		- Costumes/props
+		- Percussion attached to clothing
+	- Preference for extreme falsetto in males
+	- Sometimes shrill, strident vocal tone quality
+	- Melodic contour often begins high and descends throughout the phrase
+- Instruments
+	- Almost always accompanies voice
+		- Animal skin drums, gourd rattles filled with seeds/shells, etc.
+	- Exception: flute/single stringed instrument (sometimes played without vocal accompaniment)
+	- All instruments are sacred and are considered to have spirits of their own
+	- Construction varies based on available materials 
+- Dances (There are many, these are a few)
+	- Fancy Dance
+		- Elements of war/story dances, used at powwows and competition
+	- Grass Dance
+		- Preparing new camps/setting up teepees
+	- Hoop Dance
+		- Uses hoops to tell stories, symbolizing the circle of life
+	- Jingle Dance
+		- Women's dance, bells and rattles sewn into clothing
+	- Shawl Dance
+		- Women's dance, corresponds to Fancy Dance, mimics flight with decorated shawls
+- Common theme in Native American music: *restoring balance*
+- Musical elements/features
+	- Pentatonic melodies
+	- Some microtonality
+	- Steady beat, but meter can be irregular
+	- Non-harmonic, emphasis on rhythm and melody
+	- Formal design
+		- Call and response or strophic (verses)
+	- Heavy use of vocables (non-word syllables)
+- Church ritual music
+	- 19th century, Native American Church established
+	- Combines traditional rituals with Christianity
+	- Traditional meditative /healing ceremonies
+	- Water Drum
+		- Exclusively used in the enemyway ceremony
+		- Represents elements of nature
+			- Water (contains)
+			- Animals (skin drumhead)
+			- Earth (made of clay)
+			- Fire (hardens clay)
+			- Air (contains)
+- Navajo Nightway Ceremony
+	- *Yeibichai*
+	- 9 days and nights, performed in winter
+	- Healing ceremony for ill people
+		- Restores balance and health
+	- Can also restore social and natural order between the tribe and the environment
+	- Calling on ancestral spirits/deities
+
+[[Mariachi Music]]

@@ -197,7 +197,7 @@ title: Reformation Movements (Part 2)
 	- Aim was to make church music more entertaining
 	- The anonymous "*Lyra Davidica*" demonstrates a more emotional, Pietist influence
 - Ainsworth Psalter (hey that's my topic!)
-	- Check out the [outline](Outline.md)
+	- Check out the [outline](junk/Outline.md)
 - Bay Psalm Book
 	- see above
 - Cotton Mather

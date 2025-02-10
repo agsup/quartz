@@ -1,0 +1,44 @@
+- Popular music, distinct to Jamaica
+- Roots in traditional Jamaican folk music
+	- Similar to how jazz is based on African American tradition
+- Popularity grew in the US starting in the 80's
+- Mento
+	- Traditional Jamaican style
+	- Instruments
+		- Guitar
+		- Banjo
+		- Hand percussion
+		- Rumba box
+	- Draws heavily from African music traditions and rhythms
+	- De-emphasizes the beat and accents the upbeat
+	- Shares features with Calypso music (Trinidad)
+	- Lyrics about everyday problems (often comical)
+		- Very similar to blues music in topic
+- Ska
+	- Popular in the 50's and 60's
+	- Borrowed from Mento, influenced by jazz and R&B via radio
+	- Features
+		- Heavy up-beat emphasis (usually with guitar)
+		- vocal harmonization
+		- Sax/horn line
+		- Faster tempo
+	- Note: Ska rose in popularity at the same time Jamaica gained its independence
+	- Gave rise to reggae and rocksteady
+- Reggae (proper)
+	- Popularized in 60's-80's
+	- Grew out of ska music
+	- Slower tempo
+	- Heavy bass line on electric bass
+	- Bass as percussion
+	- Call and response
+	- Linked to political commentary and Rastafarianism
+	- Bob Marley
+		- Most successful reggae performer
+		- Helped make reggae popular internationally
+		- Many songs protested against colonialism and injustice
+	- "Toasting"
+		- MC might speak rhythmically over a reggae beat (predecessor to rap)
+	- DJ Kool Herc
+		- Introduced the "merry-go-round" technique
+		- Early usage of "breaking" and sample manipulation
+		- Credited for starting what would become hip hop

@@ -1,0 +1,41 @@
+- Sounds
+	- Industrial Revolution made new sounds
+- Music
+	- Everywhere
+	- Are sounds music? (very possibly)
+		- ex. *Musique Concréte*
+		- Depends on context/intent (of the listener and/or the artist)
+ - Tempo
+	 - Markings
+		 - Grave: 40-60 bpm
+		 - Lento: 40-60 bpm
+		 - Adagio: 66-76 bpm
+		 - Andante: 76-100 bpm
+		 - Moderato: 100-120 bpm
+		 - Allegro: 120-140 bpm
+		 - Vivace: 140-160 bpm
+		 - Presto: 160-200 bpm 
+- Timbre
+	- Qualities of a sound/instrument that make it unique
+- Note: know first 12 harmonics
+- Note: last sharp is ^7, second to last flat is ^1 
+- Texture
+	- Many things go into it
+	- Timbres chosen, parts chosen
+	- Polyphony, Homophony, Monophony
+- Form
+	- "Comparative relationship of different sections of music" - Walls' fancy def
+	- The architecture of a song/piece
+	- Sections can have:
+		- Repetition
+			- Without it there's nothing to hang on to/remember
+			- Too much and the piece is boring
+		- Contrast
+		- Variation
+	- Note: "Coda" means "tail" in English
+	- Stars and Bars
+		- A-A-B-B-C-D-C'-D-C"
+		- Note: double-prime means exactly what you'd expect (slightly different from single-prime)
+- Style
+	- Interaction of all elements that create/define a genre
+	- 
