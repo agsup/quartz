@@ -11,3 +11,5 @@ enableLinkPreview: true
 - [Native American Music](notes/Spring%202025/World%20Music/Native%20American%20Music.md)
 - [Mariachi Music](notes/Spring%202025/World%20Music/Mariachi%20Music.md)
 - [Reggae](notes/Spring%202025/World%20Music/Reggae.md)
+- [Chinese Music](notes/Spring%202025/Chinese%20Music.md)
+- [Korean Music](notes/Spring%202025/Korean%20Music.md)

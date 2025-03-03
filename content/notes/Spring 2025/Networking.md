@@ -10,3 +10,4 @@ enableLinkPreview: true
 ## Data Link Layer
 
 - [Design Issues](notes/Spring%202025/Networking/Design%20Issues.md)
+- [Error Detection/Correction](Error%20Detection%20and%20Correction)

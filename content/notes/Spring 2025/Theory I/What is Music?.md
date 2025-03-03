@@ -43,4 +43,5 @@ enableLinkPreview: true
 		- Note: double-prime means exactly what you'd expect (slightly different from single-prime)
 - Style
 	- Interaction of all elements that create/define a genre
-	- 
+
+[Transposition](notes/Spring%202025/Theory%20I/Transposition.md)

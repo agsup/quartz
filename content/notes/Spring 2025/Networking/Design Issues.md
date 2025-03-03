@@ -6,5 +6,5 @@ enableLinkPreview: true
 ## Frames
 
 - Layer takes packets from the network layer
-	- Encapsulates data with a header and trailer (become a *frame*)
+	- Encapsulates data with a header and trailer (becomes a *frame*)
 - 
